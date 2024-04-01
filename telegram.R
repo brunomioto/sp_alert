@@ -39,20 +39,24 @@ database_csv <- read_csv("https://raw.githubusercontent.com/brunomioto/sp_alert/
 
 new_records <- setdiff(characidium_all_3, database_csv)
 
-for (i in 1:nrow(new_records)) {
+if(nrow(new_records)>0){
+  for (i in 1:nrow(new_records)) {
 
-  registro_unico <- new_records %>%
-    filter(row_number()==i) %>%
-    select(country, collectioncode, catalognumber, locality, scientificname,
-           decimallatitude, decimallongitude, modified)
+    registro_unico <- new_records %>%
+      filter(row_number()==i) %>%
+      select(country, collectioncode, catalognumber, locality, scientificname,
+             decimallatitude, decimallongitude, modified)
 
-  bot$sendMessage(glue::glue("Espécie: {registro_unico$scientificname}\n
+    bot$sendMessage(glue::glue("Espécie: {registro_unico$scientificname}\n
                              Localidade: {registro_unico$locality}\n
                              País: {registro_unico$country}\n
                              Voucher: {registro_unico$collectioncode} {registro_unico$catalognumber}\n
                              Coordenadas (lat-lon): {registro_unico$decimallatitude}, {registro_unico$decimallongitude}\n
                              Data: {registro_unico$modified}")
-  )
+    )
+  }
+}else{
+  bot$sendMessage("Nenhum registro novo")
 }
 
 # salvar a versao csv
