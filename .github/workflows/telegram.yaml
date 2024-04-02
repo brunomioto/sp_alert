@@ -27,7 +27,7 @@ jobs:
 
       - name: Install packages
         run: |
-          install.packages(c("telegram","dplyr","readr","stringr","glue","purrr", "httr2"))
+          install.packages(c("telegram","dplyr","readr","stringr","glue","purrr", "httr2", "lubridate"))
         shell: Rscript {0}
 
       - name: Telegram
