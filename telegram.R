@@ -46,8 +46,11 @@ characidium_all_2 <- speciesLink_mioto_genus("characidium", 5000)
 characidium_all_3 <- bind_rows(characidium_all_1,characidium_all_2)%>%
   select(country,stateprovince, county, collectioncode, catalognumber, locality, scientificname,
          decimallatitude, decimallongitude, modified, daycollected, monthcollected, yearcollected) %>%
-  distinct() #%>%
-  # slice(5:9154)
+  distinct() %>%
+  mutate(decimallatitude = as.numeric(decimallatitude),
+         decimallongitude = as.numeric(decimallongitude),
+         modified = as_datetime(modified),
+         yearcollected = as.numeric(yearcollected))
 
 database_csv <- read_csv("https://raw.githubusercontent.com/brunomioto/sp_alert/master/dados/characidium_database.csv")
 
