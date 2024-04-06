@@ -3,7 +3,6 @@ library(dplyr)
 library(readr)
 library(stringr)
 library(glue)
-library(lubridate)
 library(purrr)
 library(httr2)
 
@@ -45,27 +44,26 @@ characidium_all_2 <- speciesLink_mioto_genus("characidium", 5000)
 
 characidium_all_3 <- bind_rows(characidium_all_1,characidium_all_2)%>%
   select(country,stateprovince, county, collectioncode, catalognumber, locality, scientificname,
-         decimallatitude, decimallongitude, modified, daycollected, monthcollected, yearcollected) %>%
+         decimallatitude, decimallongitude, daycollected, monthcollected, yearcollected) %>%
   distinct() %>%
   mutate(decimallatitude = as.numeric(decimallatitude),
          decimallongitude = as.numeric(decimallongitude),
-         modified = as_datetime(modified),
          yearcollected = as.numeric(yearcollected))
 
 database_csv <- read_csv("https://raw.githubusercontent.com/brunomioto/sp_alert/master/dados/characidium_database.csv")
 
 new_records <- setdiff(characidium_all_3, database_csv)
 
-bot$sendMessage("Registros de _Characidium_ no *SpeciesLink* na última semana:",
+bot$sendMessage("Registros de _Characidium_ no *SpeciesLink* no último dia:",
                 parse_mode = "Markdown")
 
 if(nrow(new_records)>0){
-  for (i in 11:nrow(new_records)) {
+  for (i in 1:nrow(new_records)) {
 
     registro_unico <- new_records %>%
       filter(row_number()==i) %>%
       select(country, stateprovince, county, collectioncode, catalognumber, locality, scientificname,
-             decimallatitude, decimallongitude, modified, daycollected, monthcollected, yearcollected)
+             decimallatitude, decimallongitude, daycollected, monthcollected, yearcollected)
 
     bot$sendMessage(glue::glue("
                              *Espécie:* {registro_unico$scientificname}\n
@@ -75,8 +73,7 @@ if(nrow(new_records)>0){
                              *Localidade:* {registro_unico$locality}\n
                              *Voucher:* {registro_unico$collectioncode} {registro_unico$catalognumber}\n
                              *Coordenadas (lat-lon):* {registro_unico$decimallatitude}, {registro_unico$decimallongitude}\n
-                             *Coleta:* {registro_unico$daycollected}/{registro_unico$monthcollected}/{registro_unico$yearcollected}\n
-                             *Modificado:* {format(lubridate::parse_date_time(registro_unico$modified, orders = 'Y-m-d HMS'), '%d/%m/%y %H:%M')}"),
+                             *Coleta:* {registro_unico$daycollected}/{registro_unico$monthcollected}/{registro_unico$yearcollected}"),
                     parse_mode = "Markdown"
     )
   }
