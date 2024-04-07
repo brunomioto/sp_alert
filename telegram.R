@@ -57,29 +57,29 @@ new_records <- setdiff(characidium_all_3, database_csv)
 bot$sendMessage("Registros de _Characidium_ no *SpeciesLink* no último dia:",
                 parse_mode = "Markdown")
 
-if(nrow(new_records)>0){
-  for (i in 1:nrow(new_records)) {
-
-    registro_unico <- new_records %>%
-      filter(row_number()==i) %>%
-      select(country, stateprovince, county, collectioncode, catalognumber, locality, scientificname,
-             decimallatitude, decimallongitude, daycollected, monthcollected, yearcollected)
-
-    bot$sendMessage(glue::glue("
-                             *Espécie:* {registro_unico$scientificname}\n
-                             *País:* {registro_unico$country}\n
-                             *Estado:* {registro_unico$stateprovince}\n
-                             *Cidade:* {registro_unico$county}\n
-                             *Localidade:* {registro_unico$locality}\n
-                             *Voucher:* {registro_unico$collectioncode} {registro_unico$catalognumber}\n
-                             *Coordenadas (lat-lon):* {registro_unico$decimallatitude}, {registro_unico$decimallongitude}\n
-                             *Coleta:* {registro_unico$daycollected}/{registro_unico$monthcollected}/{registro_unico$yearcollected}"),
-                    parse_mode = "Markdown"
-    )
-  }
-}else{
-  bot$sendMessage("Nenhum registro novo")
-}
+# if(nrow(new_records)>0){
+#   for (i in 1:nrow(new_records)) {
+#
+#     registro_unico <- new_records %>%
+#       filter(row_number()==i) %>%
+#       select(country, stateprovince, county, collectioncode, catalognumber, locality, scientificname,
+#              decimallatitude, decimallongitude, daycollected, monthcollected, yearcollected)
+#
+#     bot$sendMessage(glue::glue("
+#                              *Espécie:* {registro_unico$scientificname}\n
+#                              *País:* {registro_unico$country}\n
+#                              *Estado:* {registro_unico$stateprovince}\n
+#                              *Cidade:* {registro_unico$county}\n
+#                              *Localidade:* {registro_unico$locality}\n
+#                              *Voucher:* {registro_unico$collectioncode} {registro_unico$catalognumber}\n
+#                              *Coordenadas (lat-lon):* {registro_unico$decimallatitude}, {registro_unico$decimallongitude}\n
+#                              *Coleta:* {registro_unico$daycollected}/{registro_unico$monthcollected}/{registro_unico$yearcollected}"),
+#                     parse_mode = "Markdown"
+#     )
+#   }
+# }else{
+#   bot$sendMessage("Nenhum registro novo")
+# }
 
 # salvar a versao csv
 write_csv(characidium_all_3, "dados/characidium_database.csv")
