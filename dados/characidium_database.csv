@@ -6900,13 +6900,6 @@ Brasil,Espírito Santo,Vargem Alta,MBML-PEIXES,6276,"Rio Novo, na entrada da cid
 Brasil,Minas Gerais,Paracatu,MBML-PEIXES,8038,Ribeirão das Traíras afluente do rio Escurinho,Characidium xanthopterum,-17.491111,-46.818056,19,11,2012
 Brasil,Minas Gerais,Paracatu,MBML-PEIXES,7985,"Rio Santa Isabel, tributário do rio Escurinho",Characidium zebra,-17.307222,-46.933611,24,08,2012
 Brasil,Minas Gerais,Paracatu,MBML-PEIXES,8006,Rio Santa Isabel afluente do rio Escurinho,Characidium zebra,-17.365,-46.854444,18,11,2012
-BRAZIL,RJ,Conceição de Macabu,NPM,2494,"Brasil, RJ, Conceição de Macabu. Córrego na Fazenda Sossego - Ponto 3",Characidium alipioi,-22.19889,-41.84,26,05,2014
-BRAZIL,RJ,Conceição de Macabu,NPM,2493,"Brasil, RJ, Conceição de Macabu. Córrego na Fazenda Sossego - Ponto 3",Characidium litorale,-22.19889,-41.84,26,05,2014
-BRAZIL,RJ,Silva Jardim,NPM,5300,"Brasil, RJ, Silva Jardim. Represa de Juturnaiba",Characidium sp.,-22.68083,-42.32528,13,12,2016
-BRAZIL,RJ,Silva Jardim,NPM,5320,"Brasil, RJ, Silva Jardim, Rio São João, a montante do Reservatório de Juturnaíba",Characidium sp.,-22.58917,-42.28472,08,08,2016
-BRAZIL,RJ,Conceição de Macabu,NPM,2495,"Brasil, RJ, Conceição de Macabu. Córrego na Fazenda Sossego - Ponto 3",Characidium vidali,-22.19889,-41.84,26,05,2014
-BRAZIL,RJ,Macaé,NPM,6880,"Brasil, RJ, Macaé, ponto S3 da linha de transmissão",Characidium interruptum,-22.3708000183105,-41.7868995666504,18,06,2021
-BRAZIL,RJ,Macaé,NPM,6469,"Brazil, RJ, Macaé. Ponto S3, linha de transmissão Marlin Azul",Characidium interruptum,-22.3708000183105,-41.7868995666504,27,01,2022
 guyane francaise,cayenne,NA,RECOLNAT_MNHN_IC,2001-1544,NA,Characidium sp.,0,0,NA,NA,NA
 guyane francaise,cayenne,NA,RECOLNAT_MNHN_IC,2001-0280,NA,Characidium fasciadorsale,0,0,NA,NA,1996
 bolivie,NA,NA,RECOLNAT_MNHN_IC,1989-1448,NA,Characidium bolivianum,0,0,NA,3,1985
@@ -6972,3 +6965,10 @@ guyane francaise,st.laurent du maroni,NA,RECOLNAT_MNHN_IC,2000-6222,NA,Characidi
 guyane francaise,st.laurent du maroni,NA,RECOLNAT_MNHN_IC,2000-6110,NA,Characidium fasciadorsale,2.817,-53.533,NA,NA,2000
 guyane francaise,st.laurent du maroni,NA,RECOLNAT_MNHN_IC,2000-6422,NA,Characidium sp.,2.817,-53.533,NA,NA,2000
 guyane francaise,st.laurent du maroni,NA,RECOLNAT_MNHN_IC,2000-6462,NA,Characidium fasciadorsale,2.817,-53.533,NA,NA,2000
+BRAZIL,RJ,Conceição de Macabu,NPM,2494,"Brasil, RJ, Conceição de Macabu. Córrego na Fazenda Sossego - Ponto 3",Characidium alipioi,-22.19889,-41.84,26,05,2014
+BRAZIL,RJ,Conceição de Macabu,NPM,2493,"Brasil, RJ, Conceição de Macabu. Córrego na Fazenda Sossego - Ponto 3",Characidium litorale,-22.19889,-41.84,26,05,2014
+BRAZIL,RJ,Silva Jardim,NPM,5300,"Brasil, RJ, Silva Jardim. Represa de Juturnaiba",Characidium sp.,-22.68083,-42.32528,13,12,2016
+BRAZIL,RJ,Silva Jardim,NPM,5320,"Brasil, RJ, Silva Jardim, Rio São João, a montante do Reservatório de Juturnaíba",Characidium sp.,-22.58917,-42.28472,08,08,2016
+BRAZIL,RJ,Conceição de Macabu,NPM,2495,"Brasil, RJ, Conceição de Macabu. Córrego na Fazenda Sossego - Ponto 3",Characidium vidali,-22.19889,-41.84,26,05,2014
+BRAZIL,RJ,Macaé,NPM,6880,"Brasil, RJ, Macaé, ponto S3 da linha de transmissão",Characidium interruptum,-22.3708000183105,-41.7868995666504,18,06,2021
+BRAZIL,RJ,Macaé,NPM,6469,"Brazil, RJ, Macaé. Ponto S3, linha de transmissão Marlin Azul",Characidium interruptum,-22.3708000183105,-41.7868995666504,27,01,2022
