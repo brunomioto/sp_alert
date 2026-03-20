@@ -67,21 +67,35 @@ if(nrow(new_records)>10){
   coll <-  new_records |> 
     distinct(collectioncode)
   
-  msg <- glue::glue("
+  msg1 <- glue::glue("
 *Existem {nrow(new_records)} novos registros de Characidium*
-
-*Espécies:*
-{paste0('- ', unique(spp$scientificname), collapse = '\n')}
-
-*Coleções:*
-{paste0('- ', unique(coll$collectioncode), collapse = '\n')}
 ")
   
-  bot$sendMessage(msg, parse_mode = "Markdown")
+  msg2 <- glue::glue("
+*Espécies (n = {n_distinct(spp$scientificname)}):*
+{paste0('- ', head(unique(spp$scientificname), 10), collapse = '\n')}
+... e mais
+")
+  
+  msg3 <- glue::glue("
+*Coleções (n = {n_distinct(coll$collectioncode)}):*
+{paste0('- ', head(unique(coll$collectioncode), 3), collapse = '\n')}
+... e mais
+")
+  
+  bot$sendMessage(msg1, parse_mode = "Markdown")
+  bot$sendMessage(msg2, parse_mode = "Markdown")
+  bot$sendMessage(msg3, parse_mode = "Markdown")
   
 }
 
 if (nrow(new_records)>0 & nrow(new_records)<=10) {
+  msg1 <- glue::glue("
+*Existem {nrow(new_records)} novos registros de Characidium*
+")
+  
+  bot$sendMessage(msg1, parse_mode = "Markdown")
+  
   for (i in 1:nrow(new_records)) {
     
     registro_unico <- new_records %>%
