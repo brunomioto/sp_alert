@@ -60,14 +60,35 @@ new_records <- setdiff(characidium_all_3, database_csv)
 bot$sendMessage("Registros de _Characidium_ no *SpeciesLink* no último dia:",
                 parse_mode = "Markdown")
 
-if(nrow(new_records)>0){
-  for (i in 1:nrow(new_records)) {
+if(nrow(new_records)>10){
+  spp <- new_records |> 
+    distinct(scientificname)
+  
+  coll <-  new_records |> 
+    distinct(collectioncode)
+  
+  msg <- glue::glue("
+*Existem {nrow(new_records)} novos registros de Characidium*
 
+*Espécies:*
+{paste0('- ', unique(spp$scientificname), collapse = '\n')}
+
+*Coleções:*
+{paste0('- ', unique(coll$collectioncode), collapse = '\n')}
+")
+  
+  bot$sendMessage(msg, parse_mode = "Markdown")
+  
+}
+
+if (nrow(new_records)>0 & nrow(new_records)<=10) {
+  for (i in 1:nrow(new_records)) {
+    
     registro_unico <- new_records %>%
       filter(row_number()==i) %>%
       select(country, stateprovince, county, collectioncode, catalognumber, locality, scientificname,
              decimallatitude, decimallongitude, daycollected, monthcollected, yearcollected)
-
+    
     bot$sendMessage(glue::glue("
                              *Espécie:* {registro_unico$scientificname}\n
                              *País:* {registro_unico$country}\n
@@ -80,7 +101,9 @@ if(nrow(new_records)>0){
                     parse_mode = "Markdown"
     )
   }
-}else{
+}
+
+if(nrow(new_records)=0){
   bot$sendMessage("Nenhum registro novo")
 }
 
