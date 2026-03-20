@@ -11,6 +11,9 @@ bot <- TGBot$new(token = bot_token('SPALERT_BOT'))
 
 bot$set_default_chat_id(302461245)
 
+#get splink token
+apikey <- Sys.getenv("SPECIESLINK_API_KEY")
+
 speciesLink_mioto_genus <- function(genus, offset = 0) {
 
   genus_name <- genus %>%
@@ -25,7 +28,7 @@ speciesLink_mioto_genus <- function(genus, offset = 0) {
     httr2::req_url_query(genus = genus_name,
                          offset = offset,
                          limit = 5000,
-                         apikey = "hBVvfER8vHrcD6w9yLsb") %>%
+                         apikey = apikey) %>%
     httr2::req_perform() %>%
     httr2::resp_body_json()
 
