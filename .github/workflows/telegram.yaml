@@ -1,37 +1,34 @@
+name: sp_alert
+
 on:
   schedule:
-#  - cron: '0 12 * * *'
+    # - cron: '0 12 * * *'
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'
-        required: false
-        default: 'Manual testing'
-      tags:
-        description: 'Test scenario tags'
+
+permissions:
+  contents: write
 
 jobs:
   sp_alert:
     runs-on: macOS-latest
+
     env:
-      GITHUB_PAT: ${{ secrets.PAT_GITHUB }}
       R_TELEGRAM_BOT_SPALERT_BOT: ${{ secrets.R_TELEGRAM_BOT_SPALERT_BOT }}
       SPECIESLINK_API_KEY: ${{ secrets.SPECIESLINK_API_KEY }}
-    steps:
-      - uses: actions/checkout@v4
-      - uses: r-lib/actions/setup-r@v2
 
-      - name: Use Node.js 14.x
-        uses: actions/setup-node@v3
-        with:
-          node-version: 14.x
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
 
       - name: Install packages
         run: |
-          install.packages(c("telegram","dplyr","readr","stringr","glue","purrr", "httr2"))
+          install.packages(c("telegram","dplyr","readr","stringr","glue","purrr","httr2"))
         shell: Rscript {0}
 
-      - name: Telegram
+      - name: Run script
         run: Rscript telegram.R
 
       - name: Commit results
@@ -39,5 +36,5 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add dados/characidium_database.csv
-          git commit -m 'Update data' || echo "Update data"
-          git push origin || echo "Update data"
+          git diff --cached --quiet || git commit -m "Update data"
+          git push
