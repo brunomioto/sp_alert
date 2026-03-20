@@ -103,7 +103,7 @@ if (nrow(new_records)>0 & nrow(new_records)<=10) {
   }
 }
 
-if(nrow(new_records)=0){
+if(nrow(new_records)==0){
   bot$sendMessage("Nenhum registro novo")
 }
 
