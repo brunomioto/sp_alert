@@ -896,8 +896,6 @@ Brasil,Estado de Mato Grosso do Sul,Bodoquena,LIRP,5635,"Córrego Salobrinha, Fa
 Brasil,Estado de Mato Grosso,Sapezal,LIRP,15075,"Rio Juruena, PCH Telegráfica",Characidium sp.,-12.8497222,-58.9266667,01,06,2007
 Brasil,Estado de Mato Grosso do Sul,Bonito,LIRP,5538,"Cór. do Passinho, onde cruza a MS-345, a 25 km de Bonito",Characidium cf. zebra,-20.9105556,-56.4211111,21,08,2004
 Brasil,Estado de Sao Paulo,Orindiuva,LIRP,2512,"Córrego Macaúba, Faz. Bela Vista, sub-bacia do Turvo-Grande - TUG051",Characidium zebra,-20.21,-49.3977778,12,07,2001
-Brasil,Mato Grosso,Cáceres,LIPAN,130,Baía dos Malheiros,Characidium laterale,-16.063611,-57.701389,21,9,2018
-Brasil,Mato Grosso,Cáceres,LIPAN,16,Baía dos Malheiros,Characidium aff. zebra,-16.063611,-57.701389,20,8,2015
 Brasil,Rio Grande do Sul,NA,CPUPF,120,Rio Passo Fundo,Characidium,0,0,18,05,1997
 Brasil,Rio Grande do Sul,NA,CPUPF,123,Rio Passo Fundo,Characidium,0,0,13,01,1997
 Brasil,Rio Grande do Sul,NA,CPUPF,226,Rio Passo Fundo,Characidium,0,0,18,05,1997
@@ -3856,6 +3854,137 @@ Brasil,Bahia,Andaraí,MBML-PEIXES,11524,Córrego dos Padres.,Characidium sp.,-12
 Brasil,Bahia,Andaraí,MBML-PEIXES,11525,Córrego dos Padres.,Characidium sp.,-12.805,-41.33,28,05,2014
 Brasil,Bahia,Andaraí,MBML-PEIXES,11526,Córrego dos Padres.,Characidium sp.,-12.805,-41.33,28,05,2014
 Brasil,Espírito Santo,Pancas,MBML-PEIXES,6624,Cachoeira do Giles.,Characidium sp.,-19.225,-40.851398,24,05,2012
+Brasil,Pará,Belterra,ZUEC-PIS,15867,"Igarapé Onça, Cortando BR 163, Drenagem do Curuá Una",Characidium,-3.56,-54.8693,08,08,2018
+Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,17112,"Rio Claro, abaixo da estrada MT - 235",Characidium,-13.805555555556,-56.692777777778,04,10,2007
+Brasil,Minas Gerais,Carmésia,ZUEC-PIS,17206,"Ribeirão São João, Bacia do Rio Doce",Characidium,-19.046666666667,-43.234444444444,01,09,2013
+Brasil,Minas Gerais,Conceição do Mato Dentro,ZUEC-PIS,17210,"Córrego Vargem Grande, Bacia do Rio Doce",Characidium,-18.872777777778,-43.381111111111,08,09,2013
+Brasil,Minas Gerais,Divino,ZUEC-PIS,17312,Ribeirão Bom Jesus (bacia do rio Paraíba do Sul),Characidium,-20.594722222222,-42.253611111111,24,06,2014
+Brasil,Mato Grosso,Campinápolis,ZUEC-PIS,17582,"Rio Culuene, pouco abaixo da PCH Paranatinga II",Characidium,-13.81,-53.245555555556,10,01,2023
+Brasil,Mato Grosso,Campinápolis,ZUEC-PIS,17626,"Rio Culuene, PCH Paranatinga II (lago), pouco abaixo da ponte",Characidium,-13.914444444444,-53.285277777778,11,01,2023
+Brasil,Mato Grosso,Campinápolis,ZUEC-PIS,17639,"Rio Culuene, PCH Paranatinga II (lago), porção média",Characidium,-13.882777777778,-53.262222222222,11,01,2023
+Brasil,Mato Grosso,Colniza,ZUEC-PIS,17773,"Rio Mureru, P.E. Igarapés Juruena",Characidium,-8.9627777777778,-59.054444444444,02,11,2007
+Brasil,Minas Gerais,São José do Mantimento,ZUEC-PIS,8161,"Rio José Pedro, rio Manhuaçu (bacia do rio Doce)",Characidium aff. timbuiense,-20.048333333333,-41.746944444444,28,09,2013
+Brasil,Mato Grosso,Vila Bela da Santíssima Trindade,ZUEC-PIS,17140,Córrego Longe Vida (afl. rio Guaporé),Characidium barbosai,-14.759722222222,-59.703888888889,03,06,2005
+Brasil,Mato Grosso,Vila Bela da Santíssima Trindade,ZUEC-PIS,17144,"Córrego Longe Vida, Serra da Borda",Characidium barbosai,-14.811666666667,-59.661944444444,11,09,2005
+Brasil,Mato Grosso,Vila Bela da Santíssima Trindade,ZUEC-PIS,17149,"Córrego Cabeceira, trib. rio Guaporé, Mineradora Santa Elina, Serra da Borda",Characidium barbosai,-14.811666666667,-59.661944444444,02,06,2005
+Brasil,Minas Gerais,Jaboticatubas,ZUEC-PIS,17227,"Rio Cipó (afl. rio das Velhas), Parque Nacional da Serra do Cipó",Characidium cacah,-19.343388888889,-43.608444444444,14,05,2019
+Brasil,Minas Gerais,São José do Mantimento,ZUEC-PIS,8169,"Rio José Pedro, rio Manhuaçu (bacia do rio Doce)",Characidium cf. alipioi,-20.015833333333,-41.735277777778,25,09,2013
+Brasil,Minas Gerais,Pedra Bonita,ZUEC-PIS,17176,"Rio Matipó, Bacia do Rio Doce",Characidium cf. alipioi,-20.474444444444,-42.369166666667,31,08,2013
+Brasil,São Paulo,Cachoeira Paulista,ZUEC-PIS,17452,"Rio Bravo (afl. Rio Bocaina), acima da PCH Cachoeira Paulista",Characidium cf. alipioi,-22.736666666667,-44.912222222222,11,11,2020
+Brasil,Mato Grosso,Apiacás,ZUEC-PIS,10651,Rio Apiacás (afl. rio Teles Pires),Characidium cf. crandellii,-9.1916666666667,-57.063055555556,02,09,2008
+Brasil,Mato Grosso,Apiacás,ZUEC-PIS,10712,Rio Apiacás (afl. rio Teles Pires),Characidium cf. crandellii,-9.4619444444444,-57.057222222222,31,08,2008
+Brasil,Mato Grosso,Paranatinga,ZUEC-PIS,15759,"Rio Culuene, PCH Paranatinga II (escada de peixes)",Characidium cf. crandellii,-13.849444444444,-53.256111111111,01,12,2017
+Brasil,Amazonas,São Gabriel da Cachoeira,ZUEC-PIS,16096,"Rio Negro, da praia até a frente do Ilha da Adama",Characidium cf. crandellii,-0.13722222222222,-67.085833333333,22,02,2018
+Brasil,Amapá,Pedra Branca do Amapari,ZUEC-PIS,16461,"Rio Água Fria (afl. rio Amapari), rodovia Perimetral Norte",Characidium cf. crandellii,0.80972222222222,-51.979444444444,09,10,2017
+Brasil,Amapá,Tartarugalzinho,ZUEC-PIS,16616,"Afl. rio Tracajatuba, perto da BR 156",Characidium cf. crandellii,1.0394444444444,-51.1025,26,09,2017
+Brasil,Pará,Capitão Poço,ZUEC-PIS,14308,Igarapé do Cupu (bacia do rio Guamá),Characidium cf. etheostoma,-2.2241666666667,-47.3375,06,10,2011
+Brasil,Pará,Marapanim,ZUEC-PIS,14388,"Igarapé Timboteua, ponte na estrada Bom Jardim - Bussú (bacia do rio Marapanim)",Characidium cf. etheostoma,-1.0113888888889,-47.604444444444,22,04,2012
+Brasil,Minas Gerais,Esmeraldas,ZUEC-PIS,6778,"Fazenda Paraíso (lagoas marginais), bacia do Rio Paraopeba/São Francisco",Characidium lagosantense,-19.8,-44.166666666667,01,04,1977
+Brasil,São Paulo,Iguape,ZUEC-PIS,1637,Riacho afluente do Rio Despraiado,Characidium lanei,-24.700277777778,-47.549722222222,17,04,1989
+Brasil,São Paulo,Iguape,ZUEC-PIS,1639,Riacho afluente do Rio Despraiado,Characidium lanei,-24.700277777778,-47.549722222222,17,04,1989
+Brasil,São Paulo,Peruíbe,ZUEC-PIS,3382,"Rio Itinguçu, Estação Ecológica de Juréia-Itatins",Characidium lanei,-24.400833333333,-47.123888888889,NA,NA,NA
+Brasil,São Paulo,Ubatuba,ZUEC-PIS,4417,Ribeirão Ipiranguinha,Characidium lanei,-22.428611111111,-45.118888888889,06,05,1977
+Brasil,São Paulo,Mongaguá,ZUEC-PIS,4747,Rio Itinga,Characidium lanei,-24.08,-46.619722222222,07,03,1978
+Brasil,São Paulo,São Sebastião,ZUEC-PIS,16630,Rio Bora Bora I (afl. rio Una),Characidium lanei,-23.756111111111,-45.804166666667,30,09,2016
+Brasil,São Paulo,Caraguatatuba,ZUEC-PIS,18566,Rio Capricórnio,Characidium lanei,-23.603611111111,-45.349722222222,21,02,2025
+Brasil,Pará,Santarém,ZUEC-PIS,8835,"Rio Mentaí, Comunidade de Cachoeirinha",Characidium papachibe,-2.7227777777778,-55.603888888889,17,11,2013
+Brasil,Pará,Santarém,ZUEC-PIS,12239,"Rio Mentaí, Comunidade de Cachoeirinha",Characidium papachibe,-2.7302777777778,-55.592777777778,27,11,2015
+Brasil,São Paulo,Caraguatatuba,ZUEC-PIS,17850,Riacho na praia da Enseada,Characidium cf. lanei,-23.725555555556,-45.437222222222,27,02,2022
+Brasil,Mato Grosso,Poconé,ZUEC-PIS,3260,"Rio Piraputanga, Fazenda Ipiranga",Characidium cf. laterale,-16.5,-56.75,19,05,1997
+Brasil,Amapá,Porto Grande,ZUEC-PIS,16439,"Rio Cachorrinho (afl. rio Amapari), perto de Cupixi",Characidium cf. pellucidum,0.69777777777778,-51.890277777778,09,10,2017
+Brasil,Amazonas,São Gabriel da Cachoeira,ZUEC-PIS,16138,Igarapé no km 20 da BR 307 (estrada para Cucuí),Characidium cf. pteroides,-0.049722222222222,-66.963333333333,23,02,2018
+Brasil,Amazonas,São Gabriel da Cachoeira,ZUEC-PIS,16246,"Igarapé afl. rio Miuá, Km 34 da BR 307 (estrada para Cucuí)",Characidium cf. pteroides,0.038611111111111,-66.865277777778,24,02,2018
+Brasil,Amazonas,São Gabriel da Cachoeira,ZUEC-PIS,16279,"Igarapé afl. rio Miuá, Km 41 da BR 307 (estrada para Cucuí)",Characidium cf. pteroides,0.077777777777778,-66.825833333333,25,02,2018
+Brasil,Mato Grosso,Apiacás,ZUEC-PIS,10623,Rio Apiacás (afl. rio Teles Pires),Characidium cf. steindachneri,-9.5494444444444,-57.015555555556,06,09,2008
+Brasil,Minas Gerais,Governador Valadares,ZUEC-PIS,6882,"Ribeirão Caramanho, afl. margem esquerda do Rio Doce",Characidium cf. timbuiense,-18.316388888889,-42.125277777778,01,05,2010
+Brasil,Minas Gerais,Pedra Bonita,ZUEC-PIS,18032,Rio Matipó (bacia do rio Doce),Characidium cf. timbuiense,-20.521666666667,-42.365833333333,18,02,2013
+Brasil,São Paulo,Brotas,ZUEC-PIS,3670,Ribeirão do Pinheirinho,Characidium cf. zebra,-22.280277777778,-48.119722222222,20,02,1987
+Brasil,São Paulo,Limeira,ZUEC-PIS,5624,"Ribeirão do Pilar, afluente do Rio Jaguari",Characidium cf. zebra,-22.56,-47.4,12,01,1979
+Brasil,São Paulo,Limeira,ZUEC-PIS,5629,"Ribeirão do Pilar, afluente do Rio Jaguari",Characidium cf. zebra,-22.56,-47.4,27,05,1978
+Brasil,São Paulo,Luis Antonio,ZUEC-PIS,5650,"Estação Experimental do Instituto Florestal, Fazenda Jataí",Characidium cf. zebra,-21.583333333333,-47.783333333333,24,02,1987
+Brasil,São Paulo,Limeira,ZUEC-PIS,6741,"Ribeirão do Pilar, afluente do Rio Jaguari",Characidium cf. zebra,-22.559999,-47.400002,01,01,1980
+Brasil,Mato Grosso,Chapada dos Guimarães,ZUEC-PIS,6802,Rio Claro (região das cabeceiras),Characidium cf. zebra,-15.333333333333,-55.883333333333,11,03,1984
+Brasil,São Paulo,Campinas,ZUEC-PIS,7885,"Bacia do Rio Capivari, arredores de Viracopos",Characidium cf. zebra,-23.037777777778,-47.151388888889,01,07,2012
+Brasil,Goiás,Pirenópolis,ZUEC-PIS,8003,Rio das Almas,Characidium cf. zebra,-15.846361111111,-48.921527777778,26,01,2014
+Brasil,Rondônia,Porto Velho,ZUEC-PIS,9939,"Rio Madeira, acima da cachoeira do Girau",Characidium cf. zebra,-9.3311111111111,-64.7375,15,08,2004
+Brasil,Rondônia,Porto Velho,ZUEC-PIS,9942,"Rio Madeira, cachoeira do Girau",Characidium cf. zebra,-9.3286111111111,-64.729444444444,15,08,2004
+Brasil,Pará,Monte Alegre,ZUEC-PIS,12130,"Rio Maicuru, na Estrada PA - 254",Characidium cf. zebra,-1.6136111111111,-54.376666666667,03,12,2015
+Brasil,Pará,Monte Alegre,ZUEC-PIS,12217,"Igarapé Açú, na estrada PA - 423",Characidium cf. zebra,-1.8175,-54.213333333333,02,12,2015
+Brasil,Amapá,Oiapoque,ZUEC-PIS,16403,Igarapé afl. rio Caciporé,Characidium cf. zebra,3.0161111111111,-51.453888888889,05,10,2017
+Brasil,Amapá,Porto Grande,ZUEC-PIS,16443,"Rio Cachorrinho (afl. rio Amapari), perto de Cupixi",Characidium cf. zebra,0.69777777777778,-51.890277777778,09,10,2017
+Brasil,Amapá,Pedra Branca do Amapari,ZUEC-PIS,16469,"Rio Água Fria (afl. rio Amapari), rodovia Perimetral Norte",Characidium cf. zebra,0.80972222222222,-51.979444444444,09,10,2017
+Brasil,Pará,Altamira,ZUEC-PIS,4527,"Rio Xingu, Costa Júnior",Characidium declivirostre,-3.4911111111111,-52.318611111111,24,09,1997
+Brasil,Amazonas,Atalaia do Norte,ZUEC-PIS,15184,Lago do rio Javari,Characidium etheostoma,-4.3611111111111,-70.201388888889,13,11,2017
+Brasil,Minas Gerais,Rio Manso,ZUEC-PIS,6389,"Córrego Pinguela, afl. rio Paraopeba (bacia do rio São Francisco)",Characidium fasciatum,-20.276944444444,-44.305,01,04,2011
+Brasil,Minas Gerais,Rio Manso,ZUEC-PIS,7014,Córrego da Pinguela (afl. Rio Paropeba),Characidium fasciatum,-20.275244444444,-44.304961111111,01,04,2011
+Brasil,Minas Gerais,Santana do Riacho,ZUEC-PIS,7632,"Serra do Cipó, Cardeal Mota, Cachoeira Fazenda da Lapa Grande",Characidium fasciatum,-19.348055555556,-43.640833333333,09,03,2003
+Brasil,São Paulo,Anhembi,ZUEC-PIS,4415,Rio Água Fria,Characidium gomesi,-22.816666666667,-48.1,17,04,1978
+Brasil,São Paulo,Botucatu,ZUEC-PIS,17138,Riacho Eucalipto (bacia do Rio Paranapanema),Characidium gomesi,-22.902222222222,-48.616666666667,22,08,2016
+Brasil,Pará,Monte Alegre,ZUEC-PIS,12126,"Rio Maicuru, na Estrada PA - 254",Characidium hasemani,-1.6136111111111,-54.376666666667,03,12,2015
+Brasil,Pará,Jacareacanga,ZUEC-PIS,14733,"Rio Teles Pires, cachoeira de Rasteira",Characidium hasemani,-8.745,-57.595833333333,08,07,2017
+Brasil,Mato Grosso,Paranatinga,ZUEC-PIS,15938,"Rio Culuene, PCH Paranatinga II (escada de peixes)",Characidium hasemani,-13.849444444444,-53.256111111111,24,01,2018
+Brasil,São Paulo,Iguape,ZUEC-PIS,1632,Riacho afluente do Rio Despraiado,Characidium pterostictum,-24.700277777778,-47.549722222222,17,04,1989
+Brasil,São Paulo,Sete Barras,ZUEC-PIS,2870,"Ribeirão da Serra, Parque Estadual Carlos Botelho",Characidium pterostictum,-24.2,-47.95,13,10,1990
+Brasil,São Paulo,Peruíbe,ZUEC-PIS,4047,"Rio Itinguçu, afluente do rio Una do Prelado, Estação Ecológica de Juréia-Itatins",Characidium pterostictum,-24.399722222222,-47.123611111111,27,03,1997
+Brasil,São Paulo,Sete Barras,ZUEC-PIS,5515,"Ribeirão da Serra, Parque Estadual Carlos Botelho",Characidium pterostictum,-24.2,-47.95,28,04,1990
+Uruguai,Paysandu,Paysandu,ZUEC-PIS,9212,"Arroyo Guaviyú (afl. Rio Uruguai), na Ruta 3",Characidium rachovii,-31.842777777778,-57.885,05,12,2014
+Brasil,Minas Gerais,Três Marias/São Gonçalo do Abaeté,ZUEC-PIS,8549,Córrego Curral das Éguas (afl. rio São Francisco),Characidium satoi,-18.120277777778,-45.414444444444,03,10,2007
+Brasil,São Paulo,Sete Barras,ZUEC-PIS,2865,"Ribeirão da Serra, Parque Estadual Carlos Botelho",Characidium sp.,-24.2,-47.95,13,10,1990
+Brasil,São Paulo,Sete Barras,ZUEC-PIS,2869,"Ribeirão da Serra, Parque Estadual Carlos Botelho",Characidium sp.,-24.2,-47.95,13,10,1990
+Brasil,Mato Grosso,Poconé,ZUEC-PIS,5475,"Rio Bento Gomes, primeira ponte da Rodovia Transpantaneira",Characidium sp.,-16.259166666667,-56.671111111111,08,08,1998
+Brasil,Mato Grosso,Santo Antônio de Leverger,ZUEC-PIS,5798,"Rio Cuiabá, Volta Grande",Characidium sp.,-15.916666666667,-56,07,07,1978
+Brasil,Mato Grosso,Poconé,ZUEC-PIS,6619,"Rio Pixaim, rodovia Transpantaneira",Characidium sp.,-16.75,-56.85,10,07,1981
+Brasil,Mato Grosso,Poconé,ZUEC-PIS,6660,"Rio Piraputanga, Fazenda Ipiranga",Characidium sp.,-16.5,-56.75,14,06,1998
+Brasil,Mato Grosso,Chapada dos Guimarães,ZUEC-PIS,6710,Rio Claro,Characidium sp.,-15.333333333333,-55.883333333333,04,08,1978
+Brasil,Minas Gerais,Grão Mogol,ZUEC-PIS,6925,Rio Itacambiruçú,Characidium sp.,-16.5975,-42.835,01,11,2011
+Brasil,Minas Gerais,Bocaiúva,ZUEC-PIS,7266,Rio Jequitinhonha,Characidium sp.,0,-43.369944444444,13,07,2012
+Brasil,Minas Gerais,Bocaiúva,ZUEC-PIS,7269,Rio São João (afl. rio Jequitinhonha),Characidium sp.,-17.519780555556,-43.353113888889,12,07,2012
+Brasil,Pará,Parauapebas,ZUEC-PIS,7355,"Rio Itacaiúnas, Serra dos Carajás",Characidium sp.,-6.0675,-49.902199,01,07,1986
+Brasil,Minas Gerais,Serro,ZUEC-PIS,7601,"Rio Ouro Limpo, cascata dos Malheiros",Characidium sp.,-18.651666666667,-43.446111111111,04,03,2003
+Brasil,Minas Gerais,Serro,ZUEC-PIS,7604,"""Cascatinha"", afluente do rio do Peixe",Characidium sp.,-18.565277777778,-43.407222222222,09,03,2003
+Brasil,Bahia,Mucuri,ZUEC-PIS,7687,"Rio Mucuri, próximo ao efluente da Fábrica Bahia Sul Celulose AS",Characidium sp.,-18.05,-39.933333333333,01,01,1995
+Brasil,Pará,Marabá,ZUEC-PIS,9066,"Igarapé afl. do rio Tapirapé, Cachoeirinha, Rebio Tapirapé",Characidium sp.,-5.5427777777778,-50.666388888889,01,12,2008
+Brasil,Pará,Marabá,ZUEC-PIS,9084,"Igarapé rio Grotão do Wilson, Rebio Tapirapé",Characidium sp.,-5.6744444444444,-50.3225,01,12,2008
+Brasil,Mato Grosso,Aripuanã,ZUEC-PIS,9259,"Rio Aripuanã, Balneário Primavera",Characidium sp.,-10.165555555556,-59.449722222222,06,07,2004
+Brasil,Mato Grosso,Aripuanã,ZUEC-PIS,9482,"Rio Aripuanã, imediatamente acima do Salto de Dardanelos/Andorinhas",Characidium sp.,-10.165,-59.456944444444,04,07,2004
+Brasil,Mato Grosso,Aripuanã,ZUEC-PIS,9689,"Rio Aripuanã, a jusante do Salto de Dardanelos/Andorinhas",Characidium sp.,-10.164444444444,-59.436944444444,08,07,2005
+Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10065,"Rio Claro, acima da estrada MT-235",Characidium sp.,-13.866666666667,-56.683333333333,12,05,2007
+Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10070,"Rio Claro, acima da estrada MT-235",Characidium sp.,-13.891666666667,-56.683611111111,04,05,2007
+Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10092,"Rio Claro, acima da estrada MT-235",Characidium sp.,-13.891666666667,-56.683611111111,05,05,2007
+Brasil,Mato Grosso,Colniza,ZUEC-PIS,10126,"Rio Muriru, afl. rio Aripuanã (P.E. Igarapés do Juruena)",Characidium sp.,-8.9627777777778,-59.054444444444,01,11,2007
+Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10289,"Córrego da Sucuri (foz), afluente rio Claro",Characidium sp.,-13.848055555556,-56.6975,09,05,2007
+Brasil,Mato Grosso,Lucas do Rio Verde,ZUEC-PIS,10376,"Rio Verde, abaixo de Lucas do Rio Verde",Characidium sp.,-13.043333333333,-55.906944444444,12,04,2007
+Brasil,Mato Grosso,Lucas do Rio Verde,ZUEC-PIS,10407,"Rio Verde, abaixo de Lucas do Rio Verde",Characidium sp.,-13.016666666667,-55.906666666667,13,04,2007
+Brasil,Mato Grosso,Alta Floresta,ZUEC-PIS,11206,"Igarapé do Rio Cristalino, próximo à pousada Cristalino Jungle Lodge",Characidium sp.,-9.5863888888889,-55.922777777778,01,08,2015
+Brasil,São Paulo,Peruíbe,ZUEC-PIS,12269,"Rio do Ouro, afl. rio Preto, bacia do rio Itanhaém",Characidium sp.,-24.183055555556,-47.001666666667,09,05,2014
+Brasil,São Paulo,Itanhaém,ZUEC-PIS,12270,Afl. rio Branco (bacia do rio Itanhaém),Characidium sp.,-24.043333333333,-46.7425,25,06,2014
+Brasil,São Paulo,Itanhaém,ZUEC-PIS,12272,Afl. rio Branco (bacia do rio Itanhaém),Characidium sp.,-24.043333333333,-46.7425,25,06,2014
+Brasil,Acre,Cruzeiro do Sul,ZUEC-PIS,13292,"Igarapé Canela Fina (afl. rio Juruá), balneário do Canhoto, na estrada para Guajará",Characidium sp.,-7.5672222222222,-72.661111111111,24,09,2016
+Brasil,Acre,Mâncio Lima,ZUEC-PIS,13406,Igarapé Branco (afl. rio Juruá),Characidium sp.,-7.6452777777778,-72.881944444444,30,09,2016
+Brasil,Pará,Jacareacanga,ZUEC-PIS,14728,"Rio Teles Pires, Igarapé Preto (Comunidade Munduruku)",Characidium sp.,-8.3655555555556,-57.665,05,07,2017
+Brasil,Amazonas,Atalaia do Norte,ZUEC-PIS,14982,Igarapé da Aldeia (afl. rio Javari),Characidium sp.,-4.3127777777778,-70.266944444444,14,11,2017
+Brasil,Amazonas,Atalaia do Norte,ZUEC-PIS,15460,"Igarapé do Adolfo, estrada Benjamin Constant / Atalaia do Norte",Characidium sp.,-4.4347222222222,-70.121944444444,11,11,2017
+Brasil,Amazonas,Benjamin Constant,ZUEC-PIS,15488,Igarapé do Palhau (ramal do Incra),Characidium sp.,-4.4077777777778,-70.023333333333,16,11,2017
+Brasil,Amazonas,Benjamin Constant,ZUEC-PIS,15500,Igarapé do Palhau (ramal do Incra),Characidium sp.,-4.4077777777778,-70.023333333333,16,11,2017
+Brasil,Amazonas,Benjamin Constant,ZUEC-PIS,15527,"Igarapé de Associação, estrada Benjamin Constant - Atalaia do Norte",Characidium sp.,-4.4102777777778,-70.035555555556,17,11,2017
+Brasil,Amapá,Pedra Branca do Amapari,ZUEC-PIS,16046,"Rio Amapari, abaixo da cidade",Characidium sp.,0.71805555555556,-51.889444444444,08,10,2017
+Brasil,Amazonas,São Gabriel da Cachoeira,ZUEC-PIS,16267,"Rio Miuá, Km 50 da BR 307 (estrada para Cucuí)",Characidium sp.,0.15583333333333,-66.801111111111,25,02,2018
+Brasil,Amapá,Calçoene,ZUEC-PIS,16528,"Rio Amapá Grande, próximo à BR 156",Characidium sp.,2.1611111111111,-50.9225,03,10,2017
+Brasil,Amapá,Tartarugalzinho,ZUEC-PIS,16602,Rio Ariramba (afl. rio Tartarugalzinho),Characidium sp.,1.3566666666667,-50.951111111111,02,10,2017
+Brasil,Amapá,Tartarugalzinho,ZUEC-PIS,16627,"Afl. rio Tracajatuba, perto da BR 156",Characidium sp.,1.0394444444444,-51.1025,26,09,2017
+Brasil,Amazonas,Benjamin Constant,ZUEC-PIS,16954,"Igarapé da Prosperidade, estrada Benjamnin Constant/Atalaia do Norte",Characidium sp.,-4.4380555555556,-70.089444444444,11,08,2018
+Brasil,Distrito Federal,Brasília,ZUEC-PIS,17242,"Córrego Roncador (afl. córrego Taquara, afl. ribeirão Gama, afl. Lago Paranoá)",Characidium sp.,-15.939722222222,-47.890833333333,01,05,2005
+Brasil,Tocantins,Monte do Carmo,ZUEC-PIS,18298,"Serra Alta, riacho afl. rio Água Suja",Characidium sp.,-10.734722222222,-48.038333333333,15,07,2023
+Brasil,Mato Grosso,Nortelândia,ZUEC-PIS,18525,"Rio Santana (afl. Rio Paraguai), PCH Diamante, fazenda Arrosensal",Characidium sp.,-14.345555555556,-56.794444444444,27,10,2005
+Brasil,Goiás,Alto Paraíso de Goiás,ZUEC-PIS,17332,"Rio Almécegas na Cachoeira de Almécegas II, afluente do rio dos Couros",Characidium sp. n.,-14.186388888889,-47.604166666667,28,11,2012
+Brasil,Mato Grosso,Peixoto de Azevedo,ZUEC-PIS,5998,"Rio Peixoto de Azevedo (afl. do rio Teles Pires), fazenda São José",Characidium steindachneri,-10.166666666667,-54.833333333333,01,08,1978
+Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10142,"Rio Claro, acima da estrada MT-235",Characidium steindachneri,-13.845277777778,-56.696111111111,11,05,2007
+Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10161,"Rio Claro, acima da estrada MT-235",Characidium steindachneri,-13.856388888889,-56.686388888889,06,05,2007
+Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10231,"Rio Claro, abaixo da estrada MT-235",Characidium steindachneri,-13.799166666667,-56.697222222222,15,05,2007
+Brasil,Mato Grosso,Juara,ZUEC-PIS,17046,"Rio Arinos, praia na Fazenda Água Boa",Characidium steindachneri,-11.159166666667,-57.693333333333,21,11,2018
+Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,17111,"Rio Claro, abaixo da estrada MT - 235",Characidium steindachneri,-13.805555555556,-56.692777777778,04,10,2007
+Brasil,Bahia,Mucuri,ZUEC-PIS,7705,"Rio Mucuri, próximo ao efluente da Fábrica Bahia Sul Celulose AS",Characidium timbuiense,-18.05,-39.933333333333,01,01,1995
+Brasil,São Paulo,Jaú,ZUEC-PIS,11007,"Fazenda Salto São Pedro, Pouso Alegre",Characidium zebra,-22.215555555556,-48.62,23,10,2013
 Brasil,Espírito Santo,Cachoeiro de Itapemirim,MBML-PEIXES,2490,Rio Castelo na estrada para São Vicente,Characidium alipioi,-20.706111,-41.185,02,10,2009
 Brasil,Bahia,São Desidério,MBML-PEIXES,11460,"Afluente do rio Guará, tributário do rio Correntina.",Characidium bahiense,-12.958056,-44.805833,26,03,2016
 Brasil,Bahia,São Desidério,MBML-PEIXES,11857,"Rio Grande, sob a estrada de terra de terra entre a BA-462 e o povoado de Almas.",Characidium bahiense,-12.643333,-45.084444,18,08,2016
@@ -4176,171 +4305,39 @@ BRAZIL,RJ,Macaé,NPM,6469,"Brazil, RJ, Macaé. Ponto S3, linha de transmissão M
 BRAZIL,RJ,Campos dos Goytacazes,NPM,7909,"Brasil, RJ, Campos dos Goytacazes, Rio Imbé",Characidium interruptum,-21.85528,-41.6875,06,08,2024
 BRAZIL,RJ,Conceição de Macabu,NPM,2495,"Brasil, RJ, Conceição de Macabu. Córrego na Fazenda Sossego - Ponto 3",Characidium vidali,-22.19889,-41.84,26,05,2014
 BRAZIL,RJ,Campos dos Goytacazes,NPM,7899,"Brasil, RJ, Campos dos Goytacazes, Rio Imbé",Characidium vidali,-21.80583,-41.62917,05,08,2024
+Brasil,Minas Gerais,Conceição das Alagoas,LAPEISA-ZOO,294,"Ribeirão das Algoas (antigo ribeirão Eliezer), afuente do Rio Uberaba, drenagem do Rio Grande, bacia do alto Rio Paraná, Conceição das alagoas, Minas Gerais, Brasil.",Characidium zebra,-19.9147,-48.388302,05,12,2013
+Brasil,Mato Grosso,Cáceres,LIPAN,16,Baía dos Malheiros,Characidium aff. zebra,-16.063611,-57.701389,20,8,2015
 Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.22.42,"Tarumazinho River, Rio Negro, Brazil",Characidium,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1902.2.10.28,River Coxipo,Characidium lateralis,0,0,NA,NA,NA
-Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.11,near Paysandu,Characidium,0,0,NA,NA,NA
-Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.12,near Paysandu,Characidium,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2683,"Potaro River, (left branch of Amatuk cataract), Guyana",Characidium,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2680-2681,"Potaro River, Amatuk, Guyana",Characidium,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2682,"Potaro River, (left branch of Amatuk cataract), Guyana",Characidium,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2684-2701,"Potaro River, (left branch of Amatuk cataract), Guyana",Characidium,0,0,NA,NA,NA
+Peru,NA,NA,NHM-LONDON-ZOO,1977.3.10.73-81,"Peruvian Amazon, near Iquitos",Characidium,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.893-902,"Carrego do Gato, Brazil",Characidium,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.915-921,"Xaventina Island, Rio das Mortes, Brazil",Characidium,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.922-927,"Xaventina Island, Rio das Mortes, Brazil",Characidium,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.903-914,"Rio das Mortes, Brazil",Characidium,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.22.43-44,"Tarumazinho River, Rio Negro, Brazil",Characidium,0,0,NA,NA,NA
 Equador,NA,NA,NHM-LONDON-ZOO,1981.1.5.369-380,"Copataza, Copataza, Ecuador",Characidium boehlkei,0,0,NA,NA,NA
 Equador,NA,NA,NHM-LONDON-ZOO,1981.1.5.381,"Puyo, Ecuador",Characidium boehlkei,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.948-951,"Rupununi, Kakliriwav, Guyana",Characidium catenatum,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.952,"Rupununi, Karanambo",Characidium catenatum,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.953-958,"Rupununi River, Wichabai",Characidium catenatum,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1868.7.8.5,Minas Geraes,Characidium fasciatum,0,0,NA,NA,NA
-Equador,NA,NA,NHM-LONDON-ZOO,1880.12.5.264,Sarayacu,Characidium fasciatum,0,0,NA,NA,NA
+Equador,NA,NA,NHM-LONDON-ZOO,1880.12.5.258-262,Sarayacu,Characidium fasciatum,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1896.7.4.22,"Colon. Alpina, Therezopolis",Characidium fasciatum,0,0,NA,NA,NA
 Bolívia,NA,NA,NHM-LONDON-ZOO,1897.1.27.31-34,"Caiza, Bolivian Chaco",Characidium fasciatum,0,0,NA,NA,NA
-Paraguai,Asunción,NA,NHM-LONDON-ZOO,1935.6.4.345-350,West Asunción,Characidium fasciatum,0,0,NA,NA,NA
+Brasil,Rio de Janeiro,NA,NHM-LONDON-ZOO,1913.10.30.14,NA,Characidium fasciatum,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1923.11.6.76-85,"Near Humboldt, Santa Catharina, Brazil",Characidium fasciatum,0,0,NA,NA,NA
+Guiana Francesa,NA,NA,NHM-LONDON-ZOO,1926.3.2.596,"Iponcin Creek, Approuage River, French Guiana",Characidium fasciatum,0,0,NA,NA,NA
+Paraguai,NA,NA,NHM-LONDON-ZOO,1927.11.23.28-30,"Swamp at Makthalawaiya, Paraguayan Chaco",Characidium fasciatum,0,0,NA,NA,NA
+Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.9,near Paysandu,Characidium fasciatum,0,0,NA,NA,NA
 Uruguai,NA,NA,NHM-LONDON-ZOO,1944.3.3.5,near Paysandu,Characidium fasciatum,0,0,NA,NA,NA
-Peru,NA,NA,NHM-LONDON-ZOO,1969.7.15.39-40,Quebrada Pijuyal Tributary of Rio Pachitea,Characidium fasciatum,0,0,1,8,1968
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.929-930,"Rupununi River, Sandcreek pools",Characidium fasciatum,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.931-934,"Rupununi, Manari Creek, Guyana",Characidium fasciatum,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.939-947,"Rupununi, Akakwai Creek, Guyana",Characidium fasciatum,0,0,NA,NA,NA
+Paraguai,NA,NA,NHM-LONDON-ZOO,1895.1.30.16-19,Colonia Risso,Characidium laterale,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1911.10.31.161,"Amatuk, British Guiana",Characidium laterale,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2677-2679,"Potaro River, Little Ewang creek, Guyana",Characidium laterale,0,0,NA,NA,NA
-Uruguai,NA,NA,NHM-LONDON-ZOO,1893.7.31.8-9,"Tributary of Rio Negro, near Mercedes, Uruguay",Characidium lateralis,0,0,NA,NA,NA
+Brasil,Rio Grande do Sul,NA,NHM-LONDON-ZOO,1891.3.16.94-95,NA,Characidium lateralis,0,0,NA,NA,NA
 Argentina,NA,NA,NHM-LONDON-ZOO,1912.3.1.44,La Plata,Characidium lateralis,0,0,NA,NA,NA
-Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.10,near Paysandu,Characidium lateralis,0,0,NA,NA,NA
-Argentina,Formosa,NA,NHM-LONDON-ZOO,1971.2.12.35-40,(24° L.S.),Characidium lateralis,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1971.11.26.26,"Waruma River, Mazaruni, Guyana",Characidium pteroides,0,0,NA,NA,NA
-Equador,NA,NA,NHM-LONDON-ZOO,1890.6.13.17,"Canelos, Ecuador",Characidium purpuratum,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1913.1.1.15-17,Paranagua,Characidium rachovii,0,0,NA,NA,NA
-Brasil,Pará,Belterra,ZUEC-PIS,15867,"Igarapé Onça, Cortando BR 163, Drenagem do Curuá Una",Characidium,-3.56,-54.8693,08,08,2018
-Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,17112,"Rio Claro, abaixo da estrada MT - 235",Characidium,-13.805555555556,-56.692777777778,04,10,2007
-Brasil,Minas Gerais,Carmésia,ZUEC-PIS,17206,"Ribeirão São João, Bacia do Rio Doce",Characidium,-19.046666666667,-43.234444444444,01,09,2013
-Brasil,Minas Gerais,Conceição do Mato Dentro,ZUEC-PIS,17210,"Córrego Vargem Grande, Bacia do Rio Doce",Characidium,-18.872777777778,-43.381111111111,08,09,2013
-Brasil,Minas Gerais,Divino,ZUEC-PIS,17312,Ribeirão Bom Jesus (bacia do rio Paraíba do Sul),Characidium,-20.594722222222,-42.253611111111,24,06,2014
-Brasil,Mato Grosso,Campinápolis,ZUEC-PIS,17582,"Rio Culuene, pouco abaixo da PCH Paranatinga II",Characidium,-13.81,-53.245555555556,10,01,2023
-Brasil,Mato Grosso,Campinápolis,ZUEC-PIS,17626,"Rio Culuene, PCH Paranatinga II (lago), pouco abaixo da ponte",Characidium,-13.914444444444,-53.285277777778,11,01,2023
-Brasil,Mato Grosso,Campinápolis,ZUEC-PIS,17639,"Rio Culuene, PCH Paranatinga II (lago), porção média",Characidium,-13.882777777778,-53.262222222222,11,01,2023
-Brasil,Mato Grosso,Colniza,ZUEC-PIS,17773,"Rio Mureru, P.E. Igarapés Juruena",Characidium,-8.9627777777778,-59.054444444444,02,11,2007
-Brasil,Minas Gerais,São José do Mantimento,ZUEC-PIS,8161,"Rio José Pedro, rio Manhuaçu (bacia do rio Doce)",Characidium aff. timbuiense,-20.048333333333,-41.746944444444,28,09,2013
-Brasil,Mato Grosso,Vila Bela da Santíssima Trindade,ZUEC-PIS,17140,Córrego Longe Vida (afl. rio Guaporé),Characidium barbosai,-14.759722222222,-59.703888888889,03,06,2005
-Brasil,Mato Grosso,Vila Bela da Santíssima Trindade,ZUEC-PIS,17144,"Córrego Longe Vida, Serra da Borda",Characidium barbosai,-14.811666666667,-59.661944444444,11,09,2005
-Brasil,Mato Grosso,Vila Bela da Santíssima Trindade,ZUEC-PIS,17149,"Córrego Cabeceira, trib. rio Guaporé, Mineradora Santa Elina, Serra da Borda",Characidium barbosai,-14.811666666667,-59.661944444444,02,06,2005
-Brasil,Minas Gerais,Jaboticatubas,ZUEC-PIS,17227,"Rio Cipó (afl. rio das Velhas), Parque Nacional da Serra do Cipó",Characidium cacah,-19.343388888889,-43.608444444444,14,05,2019
-Brasil,Minas Gerais,São José do Mantimento,ZUEC-PIS,8169,"Rio José Pedro, rio Manhuaçu (bacia do rio Doce)",Characidium cf. alipioi,-20.015833333333,-41.735277777778,25,09,2013
-Brasil,Minas Gerais,Pedra Bonita,ZUEC-PIS,17176,"Rio Matipó, Bacia do Rio Doce",Characidium cf. alipioi,-20.474444444444,-42.369166666667,31,08,2013
-Brasil,São Paulo,Cachoeira Paulista,ZUEC-PIS,17452,"Rio Bravo (afl. Rio Bocaina), acima da PCH Cachoeira Paulista",Characidium cf. alipioi,-22.736666666667,-44.912222222222,11,11,2020
-Brasil,Mato Grosso,Apiacás,ZUEC-PIS,10651,Rio Apiacás (afl. rio Teles Pires),Characidium cf. crandellii,-9.1916666666667,-57.063055555556,02,09,2008
-Brasil,Mato Grosso,Apiacás,ZUEC-PIS,10712,Rio Apiacás (afl. rio Teles Pires),Characidium cf. crandellii,-9.4619444444444,-57.057222222222,31,08,2008
-Brasil,Mato Grosso,Paranatinga,ZUEC-PIS,15759,"Rio Culuene, PCH Paranatinga II (escada de peixes)",Characidium cf. crandellii,-13.849444444444,-53.256111111111,01,12,2017
-Brasil,Amazonas,São Gabriel da Cachoeira,ZUEC-PIS,16096,"Rio Negro, da praia até a frente do Ilha da Adama",Characidium cf. crandellii,-0.13722222222222,-67.085833333333,22,02,2018
-Brasil,Amapá,Pedra Branca do Amapari,ZUEC-PIS,16461,"Rio Água Fria (afl. rio Amapari), rodovia Perimetral Norte",Characidium cf. crandellii,0.80972222222222,-51.979444444444,09,10,2017
-Brasil,Amapá,Tartarugalzinho,ZUEC-PIS,16616,"Afl. rio Tracajatuba, perto da BR 156",Characidium cf. crandellii,1.0394444444444,-51.1025,26,09,2017
-Brasil,Pará,Capitão Poço,ZUEC-PIS,14308,Igarapé do Cupu (bacia do rio Guamá),Characidium cf. etheostoma,-2.2241666666667,-47.3375,06,10,2011
-Brasil,Pará,Marapanim,ZUEC-PIS,14388,"Igarapé Timboteua, ponte na estrada Bom Jardim - Bussú (bacia do rio Marapanim)",Characidium cf. etheostoma,-1.0113888888889,-47.604444444444,22,04,2012
-Brasil,Minas Gerais,Esmeraldas,ZUEC-PIS,6778,"Fazenda Paraíso (lagoas marginais), bacia do Rio Paraopeba/São Francisco",Characidium lagosantense,-19.8,-44.166666666667,01,04,1977
-Brasil,São Paulo,Iguape,ZUEC-PIS,1637,Riacho afluente do Rio Despraiado,Characidium lanei,-24.700277777778,-47.549722222222,17,04,1989
-Brasil,São Paulo,Iguape,ZUEC-PIS,1639,Riacho afluente do Rio Despraiado,Characidium lanei,-24.700277777778,-47.549722222222,17,04,1989
-Brasil,São Paulo,Peruíbe,ZUEC-PIS,3382,"Rio Itinguçu, Estação Ecológica de Juréia-Itatins",Characidium lanei,-24.400833333333,-47.123888888889,NA,NA,NA
-Brasil,São Paulo,Ubatuba,ZUEC-PIS,4417,Ribeirão Ipiranguinha,Characidium lanei,-22.428611111111,-45.118888888889,06,05,1977
-Brasil,São Paulo,Mongaguá,ZUEC-PIS,4747,Rio Itinga,Characidium lanei,-24.08,-46.619722222222,07,03,1978
-Brasil,São Paulo,São Sebastião,ZUEC-PIS,16630,Rio Bora Bora I (afl. rio Una),Characidium lanei,-23.756111111111,-45.804166666667,30,09,2016
-Brasil,São Paulo,Caraguatatuba,ZUEC-PIS,18566,Rio Capricórnio,Characidium lanei,-23.603611111111,-45.349722222222,21,02,2025
-Brasil,Pará,Santarém,ZUEC-PIS,8835,"Rio Mentaí, Comunidade de Cachoeirinha",Characidium papachibe,-2.7227777777778,-55.603888888889,17,11,2013
-Brasil,Pará,Santarém,ZUEC-PIS,12239,"Rio Mentaí, Comunidade de Cachoeirinha",Characidium papachibe,-2.7302777777778,-55.592777777778,27,11,2015
-Brasil,São Paulo,Caraguatatuba,ZUEC-PIS,17850,Riacho na praia da Enseada,Characidium cf. lanei,-23.725555555556,-45.437222222222,27,02,2022
-Brasil,Mato Grosso,Poconé,ZUEC-PIS,3260,"Rio Piraputanga, Fazenda Ipiranga",Characidium cf. laterale,-16.5,-56.75,19,05,1997
-Brasil,Amapá,Porto Grande,ZUEC-PIS,16439,"Rio Cachorrinho (afl. rio Amapari), perto de Cupixi",Characidium cf. pellucidum,0.69777777777778,-51.890277777778,09,10,2017
-Brasil,Amazonas,São Gabriel da Cachoeira,ZUEC-PIS,16138,Igarapé no km 20 da BR 307 (estrada para Cucuí),Characidium cf. pteroides,-0.049722222222222,-66.963333333333,23,02,2018
-Brasil,Amazonas,São Gabriel da Cachoeira,ZUEC-PIS,16246,"Igarapé afl. rio Miuá, Km 34 da BR 307 (estrada para Cucuí)",Characidium cf. pteroides,0.038611111111111,-66.865277777778,24,02,2018
-Brasil,Amazonas,São Gabriel da Cachoeira,ZUEC-PIS,16279,"Igarapé afl. rio Miuá, Km 41 da BR 307 (estrada para Cucuí)",Characidium cf. pteroides,0.077777777777778,-66.825833333333,25,02,2018
-Brasil,Mato Grosso,Apiacás,ZUEC-PIS,10623,Rio Apiacás (afl. rio Teles Pires),Characidium cf. steindachneri,-9.5494444444444,-57.015555555556,06,09,2008
-Brasil,Minas Gerais,Governador Valadares,ZUEC-PIS,6882,"Ribeirão Caramanho, afl. margem esquerda do Rio Doce",Characidium cf. timbuiense,-18.316388888889,-42.125277777778,01,05,2010
-Brasil,Minas Gerais,Pedra Bonita,ZUEC-PIS,18032,Rio Matipó (bacia do rio Doce),Characidium cf. timbuiense,-20.521666666667,-42.365833333333,18,02,2013
-Brasil,São Paulo,Brotas,ZUEC-PIS,3670,Ribeirão do Pinheirinho,Characidium cf. zebra,-22.280277777778,-48.119722222222,20,02,1987
-Brasil,São Paulo,Limeira,ZUEC-PIS,5624,"Ribeirão do Pilar, afluente do Rio Jaguari",Characidium cf. zebra,-22.56,-47.4,12,01,1979
-Brasil,São Paulo,Limeira,ZUEC-PIS,5629,"Ribeirão do Pilar, afluente do Rio Jaguari",Characidium cf. zebra,-22.56,-47.4,27,05,1978
-Brasil,São Paulo,Luis Antonio,ZUEC-PIS,5650,"Estação Experimental do Instituto Florestal, Fazenda Jataí",Characidium cf. zebra,-21.583333333333,-47.783333333333,24,02,1987
-Brasil,São Paulo,Limeira,ZUEC-PIS,6741,"Ribeirão do Pilar, afluente do Rio Jaguari",Characidium cf. zebra,-22.559999,-47.400002,01,01,1980
-Brasil,Mato Grosso,Chapada dos Guimarães,ZUEC-PIS,6802,Rio Claro (região das cabeceiras),Characidium cf. zebra,-15.333333333333,-55.883333333333,11,03,1984
-Brasil,São Paulo,Campinas,ZUEC-PIS,7885,"Bacia do Rio Capivari, arredores de Viracopos",Characidium cf. zebra,-23.037777777778,-47.151388888889,01,07,2012
-Brasil,Goiás,Pirenópolis,ZUEC-PIS,8003,Rio das Almas,Characidium cf. zebra,-15.846361111111,-48.921527777778,26,01,2014
-Brasil,Rondônia,Porto Velho,ZUEC-PIS,9939,"Rio Madeira, acima da cachoeira do Girau",Characidium cf. zebra,-9.3311111111111,-64.7375,15,08,2004
-Brasil,Rondônia,Porto Velho,ZUEC-PIS,9942,"Rio Madeira, cachoeira do Girau",Characidium cf. zebra,-9.3286111111111,-64.729444444444,15,08,2004
-Brasil,Pará,Monte Alegre,ZUEC-PIS,12130,"Rio Maicuru, na Estrada PA - 254",Characidium cf. zebra,-1.6136111111111,-54.376666666667,03,12,2015
-Brasil,Pará,Monte Alegre,ZUEC-PIS,12217,"Igarapé Açú, na estrada PA - 423",Characidium cf. zebra,-1.8175,-54.213333333333,02,12,2015
-Brasil,Amapá,Oiapoque,ZUEC-PIS,16403,Igarapé afl. rio Caciporé,Characidium cf. zebra,3.0161111111111,-51.453888888889,05,10,2017
-Brasil,Amapá,Porto Grande,ZUEC-PIS,16443,"Rio Cachorrinho (afl. rio Amapari), perto de Cupixi",Characidium cf. zebra,0.69777777777778,-51.890277777778,09,10,2017
-Brasil,Amapá,Pedra Branca do Amapari,ZUEC-PIS,16469,"Rio Água Fria (afl. rio Amapari), rodovia Perimetral Norte",Characidium cf. zebra,0.80972222222222,-51.979444444444,09,10,2017
-Brasil,Pará,Altamira,ZUEC-PIS,4527,"Rio Xingu, Costa Júnior",Characidium declivirostre,-3.4911111111111,-52.318611111111,24,09,1997
-Brasil,Amazonas,Atalaia do Norte,ZUEC-PIS,15184,Lago do rio Javari,Characidium etheostoma,-4.3611111111111,-70.201388888889,13,11,2017
-Brasil,Minas Gerais,Rio Manso,ZUEC-PIS,6389,"Córrego Pinguela, afl. rio Paraopeba (bacia do rio São Francisco)",Characidium fasciatum,-20.276944444444,-44.305,01,04,2011
-Brasil,Minas Gerais,Rio Manso,ZUEC-PIS,7014,Córrego da Pinguela (afl. Rio Paropeba),Characidium fasciatum,-20.275244444444,-44.304961111111,01,04,2011
-Brasil,Minas Gerais,Santana do Riacho,ZUEC-PIS,7632,"Serra do Cipó, Cardeal Mota, Cachoeira Fazenda da Lapa Grande",Characidium fasciatum,-19.348055555556,-43.640833333333,09,03,2003
-Brasil,São Paulo,Anhembi,ZUEC-PIS,4415,Rio Água Fria,Characidium gomesi,-22.816666666667,-48.1,17,04,1978
-Brasil,São Paulo,Botucatu,ZUEC-PIS,17138,Riacho Eucalipto (bacia do Rio Paranapanema),Characidium gomesi,-22.902222222222,-48.616666666667,22,08,2016
-Brasil,Pará,Monte Alegre,ZUEC-PIS,12126,"Rio Maicuru, na Estrada PA - 254",Characidium hasemani,-1.6136111111111,-54.376666666667,03,12,2015
-Brasil,Pará,Jacareacanga,ZUEC-PIS,14733,"Rio Teles Pires, cachoeira de Rasteira",Characidium hasemani,-8.745,-57.595833333333,08,07,2017
-Brasil,Mato Grosso,Paranatinga,ZUEC-PIS,15938,"Rio Culuene, PCH Paranatinga II (escada de peixes)",Characidium hasemani,-13.849444444444,-53.256111111111,24,01,2018
-Brasil,São Paulo,Iguape,ZUEC-PIS,1632,Riacho afluente do Rio Despraiado,Characidium pterostictum,-24.700277777778,-47.549722222222,17,04,1989
-Brasil,São Paulo,Sete Barras,ZUEC-PIS,2870,"Ribeirão da Serra, Parque Estadual Carlos Botelho",Characidium pterostictum,-24.2,-47.95,13,10,1990
-Brasil,São Paulo,Peruíbe,ZUEC-PIS,4047,"Rio Itinguçu, afluente do rio Una do Prelado, Estação Ecológica de Juréia-Itatins",Characidium pterostictum,-24.399722222222,-47.123611111111,27,03,1997
-Brasil,São Paulo,Sete Barras,ZUEC-PIS,5515,"Ribeirão da Serra, Parque Estadual Carlos Botelho",Characidium pterostictum,-24.2,-47.95,28,04,1990
-Uruguai,Paysandu,Paysandu,ZUEC-PIS,9212,"Arroyo Guaviyú (afl. Rio Uruguai), na Ruta 3",Characidium rachovii,-31.842777777778,-57.885,05,12,2014
-Brasil,Minas Gerais,Três Marias/São Gonçalo do Abaeté,ZUEC-PIS,8549,Córrego Curral das Éguas (afl. rio São Francisco),Characidium satoi,-18.120277777778,-45.414444444444,03,10,2007
-Brasil,São Paulo,Sete Barras,ZUEC-PIS,2865,"Ribeirão da Serra, Parque Estadual Carlos Botelho",Characidium sp.,-24.2,-47.95,13,10,1990
-Brasil,São Paulo,Sete Barras,ZUEC-PIS,2869,"Ribeirão da Serra, Parque Estadual Carlos Botelho",Characidium sp.,-24.2,-47.95,13,10,1990
-Brasil,Mato Grosso,Poconé,ZUEC-PIS,5475,"Rio Bento Gomes, primeira ponte da Rodovia Transpantaneira",Characidium sp.,-16.259166666667,-56.671111111111,08,08,1998
-Brasil,Mato Grosso,Santo Antônio de Leverger,ZUEC-PIS,5798,"Rio Cuiabá, Volta Grande",Characidium sp.,-15.916666666667,-56,07,07,1978
-Brasil,Mato Grosso,Poconé,ZUEC-PIS,6619,"Rio Pixaim, rodovia Transpantaneira",Characidium sp.,-16.75,-56.85,10,07,1981
-Brasil,Mato Grosso,Poconé,ZUEC-PIS,6660,"Rio Piraputanga, Fazenda Ipiranga",Characidium sp.,-16.5,-56.75,14,06,1998
-Brasil,Mato Grosso,Chapada dos Guimarães,ZUEC-PIS,6710,Rio Claro,Characidium sp.,-15.333333333333,-55.883333333333,04,08,1978
-Brasil,Minas Gerais,Grão Mogol,ZUEC-PIS,6925,Rio Itacambiruçú,Characidium sp.,-16.5975,-42.835,01,11,2011
-Brasil,Minas Gerais,Bocaiúva,ZUEC-PIS,7266,Rio Jequitinhonha,Characidium sp.,0,-43.369944444444,13,07,2012
-Brasil,Minas Gerais,Bocaiúva,ZUEC-PIS,7269,Rio São João (afl. rio Jequitinhonha),Characidium sp.,-17.519780555556,-43.353113888889,12,07,2012
-Brasil,Pará,Parauapebas,ZUEC-PIS,7355,"Rio Itacaiúnas, Serra dos Carajás",Characidium sp.,-6.0675,-49.902199,01,07,1986
-Brasil,Minas Gerais,Serro,ZUEC-PIS,7601,"Rio Ouro Limpo, cascata dos Malheiros",Characidium sp.,-18.651666666667,-43.446111111111,04,03,2003
-Brasil,Minas Gerais,Serro,ZUEC-PIS,7604,"""Cascatinha"", afluente do rio do Peixe",Characidium sp.,-18.565277777778,-43.407222222222,09,03,2003
-Brasil,Bahia,Mucuri,ZUEC-PIS,7687,"Rio Mucuri, próximo ao efluente da Fábrica Bahia Sul Celulose AS",Characidium sp.,-18.05,-39.933333333333,01,01,1995
-Brasil,Pará,Marabá,ZUEC-PIS,9066,"Igarapé afl. do rio Tapirapé, Cachoeirinha, Rebio Tapirapé",Characidium sp.,-5.5427777777778,-50.666388888889,01,12,2008
-Brasil,Pará,Marabá,ZUEC-PIS,9084,"Igarapé rio Grotão do Wilson, Rebio Tapirapé",Characidium sp.,-5.6744444444444,-50.3225,01,12,2008
-Brasil,Mato Grosso,Aripuanã,ZUEC-PIS,9259,"Rio Aripuanã, Balneário Primavera",Characidium sp.,-10.165555555556,-59.449722222222,06,07,2004
-Brasil,Mato Grosso,Aripuanã,ZUEC-PIS,9482,"Rio Aripuanã, imediatamente acima do Salto de Dardanelos/Andorinhas",Characidium sp.,-10.165,-59.456944444444,04,07,2004
-Brasil,Mato Grosso,Aripuanã,ZUEC-PIS,9689,"Rio Aripuanã, a jusante do Salto de Dardanelos/Andorinhas",Characidium sp.,-10.164444444444,-59.436944444444,08,07,2005
-Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10065,"Rio Claro, acima da estrada MT-235",Characidium sp.,-13.866666666667,-56.683333333333,12,05,2007
-Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10070,"Rio Claro, acima da estrada MT-235",Characidium sp.,-13.891666666667,-56.683611111111,04,05,2007
-Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10092,"Rio Claro, acima da estrada MT-235",Characidium sp.,-13.891666666667,-56.683611111111,05,05,2007
-Brasil,Mato Grosso,Colniza,ZUEC-PIS,10126,"Rio Muriru, afl. rio Aripuanã (P.E. Igarapés do Juruena)",Characidium sp.,-8.9627777777778,-59.054444444444,01,11,2007
-Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10289,"Córrego da Sucuri (foz), afluente rio Claro",Characidium sp.,-13.848055555556,-56.6975,09,05,2007
-Brasil,Mato Grosso,Lucas do Rio Verde,ZUEC-PIS,10376,"Rio Verde, abaixo de Lucas do Rio Verde",Characidium sp.,-13.043333333333,-55.906944444444,12,04,2007
-Brasil,Mato Grosso,Lucas do Rio Verde,ZUEC-PIS,10407,"Rio Verde, abaixo de Lucas do Rio Verde",Characidium sp.,-13.016666666667,-55.906666666667,13,04,2007
-Brasil,Mato Grosso,Alta Floresta,ZUEC-PIS,11206,"Igarapé do Rio Cristalino, próximo à pousada Cristalino Jungle Lodge",Characidium sp.,-9.5863888888889,-55.922777777778,01,08,2015
-Brasil,São Paulo,Peruíbe,ZUEC-PIS,12269,"Rio do Ouro, afl. rio Preto, bacia do rio Itanhaém",Characidium sp.,-24.183055555556,-47.001666666667,09,05,2014
-Brasil,São Paulo,Itanhaém,ZUEC-PIS,12270,Afl. rio Branco (bacia do rio Itanhaém),Characidium sp.,-24.043333333333,-46.7425,25,06,2014
-Brasil,São Paulo,Itanhaém,ZUEC-PIS,12272,Afl. rio Branco (bacia do rio Itanhaém),Characidium sp.,-24.043333333333,-46.7425,25,06,2014
-Brasil,Acre,Cruzeiro do Sul,ZUEC-PIS,13292,"Igarapé Canela Fina (afl. rio Juruá), balneário do Canhoto, na estrada para Guajará",Characidium sp.,-7.5672222222222,-72.661111111111,24,09,2016
-Brasil,Acre,Mâncio Lima,ZUEC-PIS,13406,Igarapé Branco (afl. rio Juruá),Characidium sp.,-7.6452777777778,-72.881944444444,30,09,2016
-Brasil,Pará,Jacareacanga,ZUEC-PIS,14728,"Rio Teles Pires, Igarapé Preto (Comunidade Munduruku)",Characidium sp.,-8.3655555555556,-57.665,05,07,2017
-Brasil,Amazonas,Atalaia do Norte,ZUEC-PIS,14982,Igarapé da Aldeia (afl. rio Javari),Characidium sp.,-4.3127777777778,-70.266944444444,14,11,2017
-Brasil,Amazonas,Atalaia do Norte,ZUEC-PIS,15460,"Igarapé do Adolfo, estrada Benjamin Constant / Atalaia do Norte",Characidium sp.,-4.4347222222222,-70.121944444444,11,11,2017
-Brasil,Amazonas,Benjamin Constant,ZUEC-PIS,15488,Igarapé do Palhau (ramal do Incra),Characidium sp.,-4.4077777777778,-70.023333333333,16,11,2017
-Brasil,Amazonas,Benjamin Constant,ZUEC-PIS,15500,Igarapé do Palhau (ramal do Incra),Characidium sp.,-4.4077777777778,-70.023333333333,16,11,2017
-Brasil,Amazonas,Benjamin Constant,ZUEC-PIS,15527,"Igarapé de Associação, estrada Benjamin Constant - Atalaia do Norte",Characidium sp.,-4.4102777777778,-70.035555555556,17,11,2017
-Brasil,Amapá,Pedra Branca do Amapari,ZUEC-PIS,16046,"Rio Amapari, abaixo da cidade",Characidium sp.,0.71805555555556,-51.889444444444,08,10,2017
-Brasil,Amazonas,São Gabriel da Cachoeira,ZUEC-PIS,16267,"Rio Miuá, Km 50 da BR 307 (estrada para Cucuí)",Characidium sp.,0.15583333333333,-66.801111111111,25,02,2018
-Brasil,Amapá,Calçoene,ZUEC-PIS,16528,"Rio Amapá Grande, próximo à BR 156",Characidium sp.,2.1611111111111,-50.9225,03,10,2017
-Brasil,Amapá,Tartarugalzinho,ZUEC-PIS,16602,Rio Ariramba (afl. rio Tartarugalzinho),Characidium sp.,1.3566666666667,-50.951111111111,02,10,2017
-Brasil,Amapá,Tartarugalzinho,ZUEC-PIS,16627,"Afl. rio Tracajatuba, perto da BR 156",Characidium sp.,1.0394444444444,-51.1025,26,09,2017
-Brasil,Amazonas,Benjamin Constant,ZUEC-PIS,16954,"Igarapé da Prosperidade, estrada Benjamnin Constant/Atalaia do Norte",Characidium sp.,-4.4380555555556,-70.089444444444,11,08,2018
-Brasil,Distrito Federal,Brasília,ZUEC-PIS,17242,"Córrego Roncador (afl. córrego Taquara, afl. ribeirão Gama, afl. Lago Paranoá)",Characidium sp.,-15.939722222222,-47.890833333333,01,05,2005
-Brasil,Tocantins,Monte do Carmo,ZUEC-PIS,18298,"Serra Alta, riacho afl. rio Água Suja",Characidium sp.,-10.734722222222,-48.038333333333,15,07,2023
-Brasil,Mato Grosso,Nortelândia,ZUEC-PIS,18525,"Rio Santana (afl. Rio Paraguai), PCH Diamante, fazenda Arrosensal",Characidium sp.,-14.345555555556,-56.794444444444,27,10,2005
-Brasil,Goiás,Alto Paraíso de Goiás,ZUEC-PIS,17332,"Rio Almécegas na Cachoeira de Almécegas II, afluente do rio dos Couros",Characidium sp. n.,-14.186388888889,-47.604166666667,28,11,2012
-Brasil,Mato Grosso,Peixoto de Azevedo,ZUEC-PIS,5998,"Rio Peixoto de Azevedo (afl. do rio Teles Pires), fazenda São José",Characidium steindachneri,-10.166666666667,-54.833333333333,01,08,1978
-Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10142,"Rio Claro, acima da estrada MT-235",Characidium steindachneri,-13.845277777778,-56.696111111111,11,05,2007
-Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10161,"Rio Claro, acima da estrada MT-235",Characidium steindachneri,-13.856388888889,-56.686388888889,06,05,2007
-Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,10231,"Rio Claro, abaixo da estrada MT-235",Characidium steindachneri,-13.799166666667,-56.697222222222,15,05,2007
-Brasil,Mato Grosso,Juara,ZUEC-PIS,17046,"Rio Arinos, praia na Fazenda Água Boa",Characidium steindachneri,-11.159166666667,-57.693333333333,21,11,2018
-Brasil,Mato Grosso,São José do Rio Claro,ZUEC-PIS,17111,"Rio Claro, abaixo da estrada MT - 235",Characidium steindachneri,-13.805555555556,-56.692777777778,04,10,2007
-Brasil,Bahia,Mucuri,ZUEC-PIS,7705,"Rio Mucuri, próximo ao efluente da Fábrica Bahia Sul Celulose AS",Characidium timbuiense,-18.05,-39.933333333333,01,01,1995
-Brasil,São Paulo,Jaú,ZUEC-PIS,11007,"Fazenda Salto São Pedro, Pouso Alegre",Characidium zebra,-22.215555555556,-48.62,23,10,2013
-Brasil,Goias,Cristalina,LAPEISA-ZOO,575,"Córrego Jambeiro, afluente do Rio São Marcos, drenagem do Rio Paranaíba, alto Paraná, Cristalina, Goias, Brasil.",Characidium indet.,-16.7686,-47.613602,NA,NA,NA
-Brasil,Minas Gerais,Conceição das Alagoas,LAPEISA-ZOO,294,"Ribeirão das Algoas (antigo ribeirão Eliezer), afuente do Rio Uberaba, drenagem do Rio Grande, bacia do alto Rio Paraná, Conceição das alagoas, Minas Gerais, Brasil.",Characidium zebra,-19.9147,-48.388302,05,12,2013
+Guiana,NA,NA,NHM-LONDON-ZOO,1911.10.31.160,"Maripicru Creek, British Guiana",Characidium zebra,0,0,NA,NA,NA
 Colombia,Meta,Villavicencio,FPR-COLOMBIA,70815,"5 Km. nororiente Villavicencio Hacienda ""LaGuardia""",Characidium,4.19194444444444,-73.5988888888889,NA,NA,NA
 Colombia,NA,NA,FPR-COLOMBIA,70856,Cuenca Amazónica,Characidium,0,0,NA,NA,NA
 Colombia,Meta,Puerto López,FPR-COLOMBIA,49816,Laguna de Menegua Río Metica,Characidium cf. catenatum,4.06722222222222,-72.9394444444444,NA,NA,NA
@@ -5266,7 +5263,6 @@ Brasil,Rio Grande do Sul,NA,CPUPF,92,Rio Passo Fundo,Characidium,0,0,11,01,1997
 Brasil,Rio Grande do Sul,NA,CPUPF,235,Rio Passo Fundo,Characidium,0,0,17,05,1997
 Brasil,Rio Grande do Sul,NA,CPUPF,106,Rio Passo Fundo,Characidium,0,0,11,01,1997
 Brasil,Rio Grande do Sul,NA,CPUPF,160,Rio Passo Fundo,Characidium,0,0,14,01,1997
-Brasil,Mato Grosso,Cáceres,LIPAN,7,Baía Caiçara,Characidium laterale,-16.118278,-57.736111,14,6,2014
 Brasil,Piauí,Barras,UESPIPHB,UESPIPH232,Margem esquerda do rio Longá na localidade de cospe fogo,Characidium zebra,-4.397222,-42.178611,23,11,2012
 Brasil,Mato Grosso do Sul,Bonito,ZUFMS-PIS,ZUFMS-PIS07007,Córrego Anhuma,Characidium zebra,-21.054316,-56.632593,17,01,2016
 Brasil,Mato Grosso do Sul,Bonito,ZUFMS-PIS,ZUFMS-PIS06957,Afluente do Córrego Retiro,Characidium zebra,-21.0371,-56.3109,30,04,2016
@@ -7189,33 +7185,6 @@ Brasil,Pará,Santarém,ZUEC-PIS,13833,"Rio Arapiuns em Acará, 5 Km acima de Sã
 Brasil,Pará,Jacareacanga,ZUEC-PIS,14697,"Rio Teles Pires, Igarapé Preto (Comunidade Munduruku)",Characidium longum,-8.3655555555556,-57.665,05,07,2017
 Brasil,Amazonas,Barcelos,ZUEC-PIS,18172,"Praia da Barca, rio Negro",Characidium longum,-1.1591666666667,-62.523611111111,25,01,2024
 Brasil,São Paulo,Cabreúva,ZUEC-PIS,4617,NA,Characidium oiticicai,0,-47.13,02,04,1978
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2667,"Potaro River, Amatuk, Guyana",Characidium,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2672,"Potaro River, Amatuk cataract (south bank), Guyana",Characidium,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2680-2681,"Potaro River, Amatuk, Guyana",Characidium,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2682,"Potaro River, (left branch of Amatuk cataract), Guyana",Characidium,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2684-2701,"Potaro River, (left branch of Amatuk cataract), Guyana",Characidium,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2702-2703,"Potaro River, Little Ewang, 4 miles below Amatuk, Guyana",Characidium,0,0,NA,NA,NA
-Peru,NA,NA,NHM-LONDON-ZOO,1977.3.10.73-81,"Peruvian Amazon, near Iquitos",Characidium,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.903-914,"Rio das Mortes, Brazil",Characidium,0,0,NA,NA,NA
-Peru,Loreto,Maynas,NHM-LONDON-ZOO,1997.6.26.239-242,Tonche Cano-Rio Orosa confluence at Madre Selva II casa flotante.,Characidium,-3.621111,-72.246944,12,8,1996
-Guiana,NA,NA,NHM-LONDON-ZOO,1911.10.31.162,"Rock Stone, Essequibo River, British Guiana",Characidium catenatum,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.959-977,"Rupununi River, Sandcreek pools",Characidium catenatum,0,0,NA,NA,NA
-Equador,NA,NA,NHM-LONDON-ZOO,1880.12.5.258-262,Sarayacu,Characidium fasciatum,0,0,NA,NA,NA
-Equador,NA,NA,NHM-LONDON-ZOO,1880.12.5.263,Sarayacu,Characidium fasciatum,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1896.7.4.22,"Colon. Alpina, Therezopolis",Characidium fasciatum,0,0,NA,NA,NA
-Brasil,Rio de Janeiro,NA,NHM-LONDON-ZOO,1913.10.30.14,NA,Characidium fasciatum,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1923.11.6.76-85,"Near Humboldt, Santa Catharina, Brazil",Characidium fasciatum,0,0,NA,NA,NA
-Guiana Francesa,NA,NA,NHM-LONDON-ZOO,1926.3.2.596,"Iponcin Creek, Approuage River, French Guiana",Characidium fasciatum,0,0,NA,NA,NA
-Paraguai,NA,NA,NHM-LONDON-ZOO,1927.11.23.28-30,"Swamp at Makthalawaiya, Paraguayan Chaco",Characidium fasciatum,0,0,NA,NA,NA
-Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.9,near Paysandu,Characidium fasciatum,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1946.12.23.112-123,"Mogi-Guascu River, Pirana System, Brazil",Characidium fasciatum,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1971.11.26.27-29,"Waruma River, Mazaruni, Guyana",Characidium fasciatum,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.935-938,"Rupununi, Awai Creek, Guyana",Characidium fasciatum,0,0,NA,NA,NA
-Brasil,Rio Grande do Sul,NA,NHM-LONDON-ZOO,1891.3.16.93,NA,Characidium interruptum,0,0,NA,NA,NA
-Paraguai,NA,NA,NHM-LONDON-ZOO,1895.1.30.16-19,Colonia Risso,Characidium laterale,0,0,NA,NA,NA
-Brasil,Rio Grande do Sul,NA,NHM-LONDON-ZOO,1891.3.16.94-95,NA,Characidium lateralis,0,0,NA,NA,NA
-Brasil,Mato Grosso,NA,NHM-LONDON-ZOO,1900.4.14.33-34,Carandasinho,Characidium lateralis,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1911.10.31.160,"Maripicru Creek, British Guiana",Characidium zebra,0,0,NA,NA,NA
 Brasil,Mato Grosso,Alto Taquari,ZUEC-PIS,14605,"Ribeirão afl. rio Araguaia, Fazenda Riacho",Characidium sp.,-17.725,-53.258333333333,16,11,2007
 Brasil,Pará,Jacareacanga,ZUEC-PIS,14708,"Rio Teles Pires, Igarapé Preto (Comunidade Munduruku)",Characidium sp.,-8.3655555555556,-57.665,05,07,2017
 Colômbia,Amazonas,Letícia,ZUEC-PIS,14861,Quebrada La Ponderosa,Characidium sp.,-4.1430555555556,-69.940555555556,22,11,2017
@@ -7247,6 +7216,42 @@ Brasil,Mato Grosso,Campinápolis,ZUEC-PIS,17896,"Rio Couto de Magalhães, ponte 
 Brasil,Espírito Santo,Santa Teresa,ZUEC-PIS,5143,Nova Lombardia,Characidium timbuiense,-19.935833333333,-40.6,08,01,1993
 Brasil,Bahia,Mucuri,ZUEC-PIS,7679,Rio Mucuri (parte do estuário),Characidium timbuiense,-18.916666666667,-39.566666666667,01,01,1995
 Brasil,Bahia,Mucuri,ZUEC-PIS,7712,Próximo à ponte do rio Mucuri (BR101),Characidium timbuiense,-18.098611111111,-39.893055555556,01,01,1995
+Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.11,near Paysandu,Characidium,0,0,NA,NA,NA
+Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.12,near Paysandu,Characidium,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2667,"Potaro River, Amatuk, Guyana",Characidium,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2672,"Potaro River, Amatuk cataract (south bank), Guyana",Characidium,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2683,"Potaro River, (left branch of Amatuk cataract), Guyana",Characidium,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2702-2703,"Potaro River, Little Ewang, 4 miles below Amatuk, Guyana",Characidium,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.915-921,"Xaventina Island, Rio das Mortes, Brazil",Characidium,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.922-927,"Xaventina Island, Rio das Mortes, Brazil",Characidium,0,0,NA,NA,NA
+Peru,Loreto,Maynas,NHM-LONDON-ZOO,1997.6.26.239-242,Tonche Cano-Rio Orosa confluence at Madre Selva II casa flotante.,Characidium,-3.621111,-72.246944,12,8,1996
+Guiana,NA,NA,NHM-LONDON-ZOO,1911.10.31.162,"Rock Stone, Essequibo River, British Guiana",Characidium catenatum,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.948-951,"Rupununi, Kakliriwav, Guyana",Characidium catenatum,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.952,"Rupununi, Karanambo",Characidium catenatum,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.959-977,"Rupununi River, Sandcreek pools",Characidium catenatum,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1868.7.8.5,Minas Geraes,Characidium fasciatum,0,0,NA,NA,NA
+Equador,NA,NA,NHM-LONDON-ZOO,1880.12.5.263,Sarayacu,Characidium fasciatum,0,0,NA,NA,NA
+Equador,NA,NA,NHM-LONDON-ZOO,1880.12.5.264,Sarayacu,Characidium fasciatum,0,0,NA,NA,NA
+Paraguai,Asunción,NA,NHM-LONDON-ZOO,1935.6.4.345-350,West Asunción,Characidium fasciatum,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1946.12.23.112-123,"Mogi-Guascu River, Pirana System, Brazil",Characidium fasciatum,0,0,NA,NA,NA
+Peru,NA,NA,NHM-LONDON-ZOO,1969.7.15.39-40,Quebrada Pijuyal Tributary of Rio Pachitea,Characidium fasciatum,0,0,1,8,1968
+Guiana,NA,NA,NHM-LONDON-ZOO,1971.11.26.27-29,"Waruma River, Mazaruni, Guyana",Characidium fasciatum,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.935-938,"Rupununi, Awai Creek, Guyana",Characidium fasciatum,0,0,NA,NA,NA
+Brasil,Rio Grande do Sul,NA,NHM-LONDON-ZOO,1891.3.16.93,NA,Characidium interruptum,0,0,NA,NA,NA
+Uruguai,NA,NA,NHM-LONDON-ZOO,1893.7.31.8-9,"Tributary of Rio Negro, near Mercedes, Uruguay",Characidium lateralis,0,0,NA,NA,NA
+Brasil,Mato Grosso,NA,NHM-LONDON-ZOO,1900.4.14.33-34,Carandasinho,Characidium lateralis,0,0,NA,NA,NA
+Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.10,near Paysandu,Characidium lateralis,0,0,NA,NA,NA
+Argentina,Formosa,NA,NHM-LONDON-ZOO,1971.2.12.35-40,(24° L.S.),Characidium lateralis,0,0,NA,NA,NA
+Equador,NA,NA,NHM-LONDON-ZOO,1890.6.13.17,"Canelos, Ecuador",Characidium purpuratum,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1979.3.20.217-219,"River Jurua, stream near Caravari, Brazil",Characidium,0,0,1,1,1978
+Paraguai,NA,NA,NHM-LONDON-ZOO,1895.5.17.128,Monte Sociedad,Characidium lateralis,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1895.5.17.129-135,"Descalvados, Matto Grosso",Characidium lateralis,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1902.2.10.28,River Coxipo,Characidium lateralis,0,0,NA,NA,NA
+Brasil,Mato Grosso,Cáceres,LIPAN,130,Baía dos Malheiros,Characidium laterale,-16.063611,-57.701389,21,9,2018
+Brasil,Mato Grosso,Cáceres,LIPAN,7,Baía Caiçara,Characidium laterale,-16.118278,-57.736111,14,6,2014
+Brasil,Mato Grosso do Sul,Selvíria,LAPEISA-ZOO,576,"Rio Dois córregos, afluente do Rio Paraná, drenagem do Rio Paraná, alto Rio Paraná, Selvíria, Mato Grosso do Sul, Brasil.",Characidium fasciatum,-20.367201,-51.4189,25,09,2012
+Brasil,Goias,Cristalina,LAPEISA-ZOO,575,"Córrego Jambeiro, afluente do Rio São Marcos, drenagem do Rio Paranaíba, alto Paraná, Cristalina, Goias, Brasil.",Characidium indet.,-16.7686,-47.613602,NA,NA,NA
+Brasil,São Paulo,Ilha Solteira,LAPEISA-ZOO,585,"Riacho do assentamento, afluente do Rio Paraná, alto Rio Paraná, Ilha Solteira, São Paulo, Brasil.",Characidium zebra,-20.43,-51.34,NA,NA,NA
 Brazil,Sao Paulo,NA,US-ANIMALIA,USNM 100870,"Bought in market, Sao Paulo, Brazil",Characidium,0,0,27,4,1935
 Brazil,Minas Gerais,NA,US-ANIMALIA,USNM 100927,"Lassance, Carrego, Sao Goncales das Tabacas, Brazil",Characidium,0,0,23,3,1935
 Brazil,Minas Gerais,NA,US-ANIMALIA,USNM 100957,"Piraporinha (Burity) opposite Pirapora, Rio Sao Francisco, Brazil, Minas Gerais",Characidium,0,0,23,3,1935
@@ -8574,9 +8579,6 @@ Brazil,SP,Osvaldo Cruz,SINBIOTA,883,Córrego Sem Nome,Characidium zebra,-21.7317
 Brazil,SP,Nova Independência,SINBIOTA,884,Córrego da Volta Grande,Characidium zebra,-21.138599,-51.407501,05,04,2000
 Brazil,SP,Pompéia,SINBIOTA,887,Córrego da Guairuvira,Characidium zebra,-22.1719,-50.234402,24,05,2000
 Brazil,SP,Ocauçu,SINBIOTA,888,Córrego Santo Antônio,Characidium zebra,-22.3692,-49.9142,25,05,2000
-Brasil,NA,NA,NHM-LONDON-ZOO,1979.3.20.217-219,"River Jurua, stream near Caravari, Brazil",Characidium,0,0,1,1,1978
-Paraguai,NA,NA,NHM-LONDON-ZOO,1895.5.17.128,Monte Sociedad,Characidium lateralis,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1895.5.17.129-135,"Descalvados, Matto Grosso",Characidium lateralis,0,0,NA,NA,NA
 Brazil,Mato Grosso,NA,HU-ZOO,174158,"Vila Bela da Santíssima Trindade, Córrego Longa Vida (trib. Rio Guaporé), Serra da Borda",Characidium,-14.75861,-59.70778,03,06,2005
 Brazil,Rio de Janeiro,NA,HU-ZOO,21425,"Rio Grande (Arroio Fundo), in urban Rio de Janeiro, at fazenda Santa Cruz",Characidium,-22.94,-43.21,01,04,1865
 Brazil,Rio de Janeiro,NA,HU-ZOO,21442,"RIO PARAHYBA [Rio Paraíba do Sul], probably near mouth.",Characidium,-22.26667,-42.75,01,01,1865
@@ -8602,5 +8604,3 @@ BRAZIL,RJ,Campos dos Goytacazes,NPM,7921,"Brasil, RJ, Campos dos Goytacazes, Rio
 BRAZIL,RJ,Silva Jardim,NPM,5300,"Brasil, RJ, Silva Jardim. Represa de Juturnaiba",Characidium sp.,-22.68083,-42.32528,13,12,2016
 BRAZIL,RJ,Silva Jardim,NPM,5320,"Brasil, RJ, Silva Jardim, Rio São João, a montante do Reservatório de Juturnaíba",Characidium sp.,-22.58917,-42.28472,08,08,2016
 BRAZIL,RJ,Campos dos Goytacazes,NPM,7917,"Brasil, RJ, Campos dos Goytacazes, Rio Imbé",Characidium vidali,-21.85528,-41.6875,06,08,2024
-Brasil,Mato Grosso do Sul,Selvíria,LAPEISA-ZOO,576,"Rio Dois córregos, afluente do Rio Paraná, drenagem do Rio Paraná, alto Rio Paraná, Selvíria, Mato Grosso do Sul, Brasil.",Characidium fasciatum,-20.367201,-51.4189,25,09,2012
-Brasil,São Paulo,Ilha Solteira,LAPEISA-ZOO,585,"Riacho do assentamento, afluente do Rio Paraná, alto Rio Paraná, Ilha Solteira, São Paulo, Brasil.",Characidium zebra,-20.43,-51.34,NA,NA,NA
