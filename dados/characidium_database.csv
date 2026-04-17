@@ -4274,8 +4274,6 @@ Brasil,Pará,Irituia,ZUEC-PIS,14348,Igarapé Grande (bacia do Rio Guamá),Charac
 Brasil,Pará,Mãe do Rio,ZUEC-PIS,14375,Igarapé Caju-Açú (bacia do rio Guamá),Characidium cf. etheostoma,-1.9672222222222,-47.448888888889,18,10,2011
 Brasil,Pará,Capitão Poço,ZUEC-PIS,14477,Igarapé Água Fria (bacia do rio Capim/Guamá),Characidium cf. etheostoma,-2.1994444444444,-47.331666666667,08,11,2011
 Brasil,Mato Grosso,Nortelândia,ZUEC-PIS,18524,"Rio Santana (afl. Rio Paraguai), PCH Diamante, fazenda Arrosensal",Characidium cf. gomesi,-14.345555555556,-56.794444444444,27,10,2005
-Brasil,Mato Grosso do Sul,Selvíria,LAPEISA-ZOO,576,"Rio Dois córregos, afluente do Rio Paraná, drenagem do Rio Paraná, alto Rio Paraná, Selvíria, Mato Grosso do Sul, Brasil.",Characidium fasciatum,-20.367201,-51.4189,25,09,2012
-Brasil,Minas Gerais,Conceição das Alagoas,LAPEISA-ZOO,294,"Ribeirão das Algoas (antigo ribeirão Eliezer), afuente do Rio Uberaba, drenagem do Rio Grande, bacia do alto Rio Paraná, Conceição das alagoas, Minas Gerais, Brasil.",Characidium zebra,-19.9147,-48.388302,05,12,2013
 BRAZIL,RJ,Conceição de Macabu,NPM,2494,"Brasil, RJ, Conceição de Macabu. Córrego na Fazenda Sossego - Ponto 3",Characidium alipioi,-22.19889,-41.84,26,05,2014
 BRAZIL,RJ,Macaé,NPM,6469,"Brazil, RJ, Macaé. Ponto S3, linha de transmissão Marlin Azul",Characidium interruptum,-22.3708,-41.7869,27,01,2022
 BRAZIL,RJ,Macaé,NPM,6880,"Brasil, RJ, Macaé, ponto S3 da linha de transmissão",Characidium interruptum,-22.3708,-41.7869,18,06,2021
@@ -4286,32 +4284,35 @@ BRAZIL,RJ,Silva Jardim,NPM,5320,"Brasil, RJ, Silva Jardim, Rio São João, a mon
 BRAZIL,RJ,Conceição de Macabu,NPM,2495,"Brasil, RJ, Conceição de Macabu. Córrego na Fazenda Sossego - Ponto 3",Characidium vidali,-22.19889,-41.84,26,05,2014
 BRAZIL,RJ,Campos dos Goytacazes,NPM,7899,"Brasil, RJ, Campos dos Goytacazes, Rio Imbé",Characidium vidali,-21.80583,-41.62917,05,08,2024
 Brasil,Mato Grosso,Cáceres,LIPAN,130,Baía dos Malheiros,Characidium laterale,-16.063611,-57.701389,21,9,2018
+Brasil,Mato Grosso,Cáceres,LIPAN,16,Baía dos Malheiros,Characidium aff. zebra,-16.063611,-57.701389,20,8,2015
 Brasil,Mato Grosso,Cáceres,LIPAN,7,Baía Caiçara,Characidium laterale,-16.118278,-57.736111,14,6,2014
+Brasil,Mato Grosso do Sul,Selvíria,LAPEISA-ZOO,576,"Rio Dois córregos, afluente do Rio Paraná, drenagem do Rio Paraná, alto Rio Paraná, Selvíria, Mato Grosso do Sul, Brasil.",Characidium fasciatum,-20.367201,-51.4189,25,09,2012
+Brasil,Goias,Cristalina,LAPEISA-ZOO,575,"Córrego Jambeiro, afluente do Rio São Marcos, drenagem do Rio Paranaíba, alto Paraná, Cristalina, Goias, Brasil.",Characidium indet.,-16.7686,-47.613602,NA,NA,NA
+Brasil,Minas Gerais,Conceição das Alagoas,LAPEISA-ZOO,294,"Ribeirão das Algoas (antigo ribeirão Eliezer), afuente do Rio Uberaba, drenagem do Rio Grande, bacia do alto Rio Paraná, Conceição das alagoas, Minas Gerais, Brasil.",Characidium zebra,-19.9147,-48.388302,05,12,2013
+Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.11,near Paysandu,Characidium,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2667,"Potaro River, Amatuk, Guyana",Characidium,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2682,"Potaro River, (left branch of Amatuk cataract), Guyana",Characidium,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2684-2701,"Potaro River, (left branch of Amatuk cataract), Guyana",Characidium,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2702-2703,"Potaro River, Little Ewang, 4 miles below Amatuk, Guyana",Characidium,0,0,NA,NA,NA
 Peru,NA,NA,NHM-LONDON-ZOO,1977.3.10.73-81,"Peruvian Amazon, near Iquitos",Characidium,0,0,NA,NA,NA
-Peru,Loreto,Maynas,NHM-LONDON-ZOO,1997.6.26.239-242,Tonche Cano-Rio Orosa confluence at Madre Selva II casa flotante.,Characidium,-3.621111,-72.246944,12,8,1996
+Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.893-902,"Carrego do Gato, Brazil",Characidium,0,0,NA,NA,NA
 Equador,NA,NA,NHM-LONDON-ZOO,1981.1.5.369-380,"Copataza, Copataza, Ecuador",Characidium boehlkei,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1911.10.31.162,"Rock Stone, Essequibo River, British Guiana",Characidium catenatum,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1868.7.8.5,Minas Geraes,Characidium fasciatum,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.952,"Rupununi, Karanambo",Characidium catenatum,0,0,NA,NA,NA
 Bolívia,NA,NA,NHM-LONDON-ZOO,1897.1.27.31-34,"Caiza, Bolivian Chaco",Characidium fasciatum,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1923.11.6.76-85,"Near Humboldt, Santa Catharina, Brazil",Characidium fasciatum,0,0,NA,NA,NA
+Guiana Francesa,NA,NA,NHM-LONDON-ZOO,1926.3.2.596,"Iponcin Creek, Approuage River, French Guiana",Characidium fasciatum,0,0,NA,NA,NA
+Paraguai,Asunción,NA,NHM-LONDON-ZOO,1935.6.4.345-350,West Asunción,Characidium fasciatum,0,0,NA,NA,NA
 Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.9,near Paysandu,Characidium fasciatum,0,0,NA,NA,NA
 Uruguai,NA,NA,NHM-LONDON-ZOO,1944.3.3.5,near Paysandu,Characidium fasciatum,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1971.11.26.27-29,"Waruma River, Mazaruni, Guyana",Characidium fasciatum,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.931-934,"Rupununi, Manari Creek, Guyana",Characidium fasciatum,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.935-938,"Rupununi, Awai Creek, Guyana",Characidium fasciatum,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.939-947,"Rupununi, Akakwai Creek, Guyana",Characidium fasciatum,0,0,NA,NA,NA
+Peru,NA,NA,NHM-LONDON-ZOO,1969.7.15.39-40,Quebrada Pijuyal Tributary of Rio Pachitea,Characidium fasciatum,0,0,1,8,1968
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.929-930,"Rupununi River, Sandcreek pools",Characidium fasciatum,0,0,NA,NA,NA
+Paraguai,NA,NA,NHM-LONDON-ZOO,1895.1.30.16-19,Colonia Risso,Characidium laterale,0,0,NA,NA,NA
+Brasil,Rio Grande do Sul,NA,NHM-LONDON-ZOO,1891.3.16.94-95,NA,Characidium lateralis,0,0,NA,NA,NA
 Brasil,Mato Grosso,NA,NHM-LONDON-ZOO,1900.4.14.33-34,Carandasinho,Characidium lateralis,0,0,NA,NA,NA
 Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.10,near Paysandu,Characidium lateralis,0,0,NA,NA,NA
 Argentina,Formosa,NA,NHM-LONDON-ZOO,1971.2.12.35-40,(24° L.S.),Characidium lateralis,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1971.11.26.26,"Waruma River, Mazaruni, Guyana",Characidium pteroides,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1913.1.1.15-17,Paranagua,Characidium rachovii,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1911.10.31.160,"Maripicru Creek, British Guiana",Characidium zebra,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1979.3.20.217-219,"River Jurua, stream near Caravari, Brazil",Characidium,0,0,1,1,1978
-Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.22.42,"Tarumazinho River, Rio Negro, Brazil",Characidium,0,0,NA,NA,NA
-Paraguai,NA,NA,NHM-LONDON-ZOO,1895.5.17.128,Monte Sociedad,Characidium lateralis,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1895.5.17.129-135,"Descalvados, Matto Grosso",Characidium lateralis,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1902.2.10.28,River Coxipo,Characidium lateralis,0,0,NA,NA,NA
 Brasil,Estado de Sao Paulo,Luis Antonio,LIRP,5105,"Rio Mogi-Guaçú, próximo à Estação ecológica de Jataí",Characidium sp.,-21.6122222,-47.8191667,08,10,2004
 Brasil,Estado de Goias,Catalao,LIRP,3378,"Córrego da Anta Gorda, junto à ponte na estrada de terra",Characidium sp.,-17.8819444,-47.6169444,25,04,2002
@@ -8578,44 +8579,43 @@ Brasil,Pará,Marabá,ZUEC-PIS,11171,"Rio Tapirapé, sítio Tatuzão, Rebio Tapir
 Brasil,Mato Grosso,Lucas do Rio Verde,ZUEC-PIS,11460,"Rio Verde, abaixo de Lucas do Rio Verde",Characidium sp.,-12.963888888889,-55.928055555556,14,04,2007
 Brasil,Pará,Alenquer,ZUEC-PIS,12120,"Igarapé do Paraíso, afl. rio Curuá",Characidium sp.,-1.4841666666667,-54.8425,05,12,2015
 Brasil,Acre,Mâncio Lima,ZUEC-PIS,13345,"Paraná de Pentecostes (afl. rio Moa), estrada do DER - Acre",Characidium sp.,-7.4672222222222,-72.960555555556,29,09,2016
-Brasil,Mato Grosso,Cáceres,LIPAN,16,Baía dos Malheiros,Characidium aff. zebra,-16.063611,-57.701389,20,8,2015
-Brasil,Goias,Cristalina,LAPEISA-ZOO,575,"Córrego Jambeiro, afluente do Rio São Marcos, drenagem do Rio Paranaíba, alto Paraná, Cristalina, Goias, Brasil.",Characidium indet.,-16.7686,-47.613602,NA,NA,NA
-Brasil,São Paulo,Ilha Solteira,LAPEISA-ZOO,585,"Riacho do assentamento, afluente do Rio Paraná, alto Rio Paraná, Ilha Solteira, São Paulo, Brasil.",Characidium zebra,-20.43,-51.34,NA,NA,NA
 BRAZIL,RJ,Conceição de Macabu,NPM,2493,"Brasil, RJ, Conceição de Macabu. Córrego na Fazenda Sossego - Ponto 3",Characidium litorale,-22.19889,-41.84,26,05,2014
 BRAZIL,RJ,Campos dos Goytacazes,NPM,7917,"Brasil, RJ, Campos dos Goytacazes, Rio Imbé",Characidium vidali,-21.85528,-41.6875,06,08,2024
-Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.11,near Paysandu,Characidium,0,0,NA,NA,NA
+Brasil,São Paulo,Ilha Solteira,LAPEISA-ZOO,585,"Riacho do assentamento, afluente do Rio Paraná, alto Rio Paraná, Ilha Solteira, São Paulo, Brasil.",Characidium zebra,-20.43,-51.34,NA,NA,NA
 Uruguai,NA,NA,NHM-LONDON-ZOO,1944.2.29.12,near Paysandu,Characidium,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2672,"Potaro River, Amatuk cataract (south bank), Guyana",Characidium,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2680-2681,"Potaro River, Amatuk, Guyana",Characidium,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2683,"Potaro River, (left branch of Amatuk cataract), Guyana",Characidium,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2702-2703,"Potaro River, Little Ewang, 4 miles below Amatuk, Guyana",Characidium,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.893-902,"Carrego do Gato, Brazil",Characidium,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2684-2701,"Potaro River, (left branch of Amatuk cataract), Guyana",Characidium,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.903-914,"Rio das Mortes, Brazil",Characidium,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.915-921,"Xaventina Island, Rio das Mortes, Brazil",Characidium,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.20.922-927,"Xaventina Island, Rio das Mortes, Brazil",Characidium,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.22.43-44,"Tarumazinho River, Rio Negro, Brazil",Characidium,0,0,NA,NA,NA
+Peru,Loreto,Maynas,NHM-LONDON-ZOO,1997.6.26.239-242,Tonche Cano-Rio Orosa confluence at Madre Selva II casa flotante.,Characidium,-3.621111,-72.246944,12,8,1996
 Equador,NA,NA,NHM-LONDON-ZOO,1981.1.5.381,"Puyo, Ecuador",Characidium boehlkei,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.948-951,"Rupununi, Kakliriwav, Guyana",Characidium catenatum,0,0,NA,NA,NA
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.952,"Rupununi, Karanambo",Characidium catenatum,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.953-958,"Rupununi River, Wichabai",Characidium catenatum,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.959-977,"Rupununi River, Sandcreek pools",Characidium catenatum,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1868.7.8.5,Minas Geraes,Characidium fasciatum,0,0,NA,NA,NA
 Equador,NA,NA,NHM-LONDON-ZOO,1880.12.5.258-262,Sarayacu,Characidium fasciatum,0,0,NA,NA,NA
 Equador,NA,NA,NHM-LONDON-ZOO,1880.12.5.263,Sarayacu,Characidium fasciatum,0,0,NA,NA,NA
 Equador,NA,NA,NHM-LONDON-ZOO,1880.12.5.264,Sarayacu,Characidium fasciatum,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1896.7.4.22,"Colon. Alpina, Therezopolis",Characidium fasciatum,0,0,NA,NA,NA
 Brasil,Rio de Janeiro,NA,NHM-LONDON-ZOO,1913.10.30.14,NA,Characidium fasciatum,0,0,NA,NA,NA
-Guiana Francesa,NA,NA,NHM-LONDON-ZOO,1926.3.2.596,"Iponcin Creek, Approuage River, French Guiana",Characidium fasciatum,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1923.11.6.76-85,"Near Humboldt, Santa Catharina, Brazil",Characidium fasciatum,0,0,NA,NA,NA
 Paraguai,NA,NA,NHM-LONDON-ZOO,1927.11.23.28-30,"Swamp at Makthalawaiya, Paraguayan Chaco",Characidium fasciatum,0,0,NA,NA,NA
-Paraguai,Asunción,NA,NHM-LONDON-ZOO,1935.6.4.345-350,West Asunción,Characidium fasciatum,0,0,NA,NA,NA
 Brasil,NA,NA,NHM-LONDON-ZOO,1946.12.23.112-123,"Mogi-Guascu River, Pirana System, Brazil",Characidium fasciatum,0,0,NA,NA,NA
-Peru,NA,NA,NHM-LONDON-ZOO,1969.7.15.39-40,Quebrada Pijuyal Tributary of Rio Pachitea,Characidium fasciatum,0,0,1,8,1968
-Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.929-930,"Rupununi River, Sandcreek pools",Characidium fasciatum,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1971.11.26.27-29,"Waruma River, Mazaruni, Guyana",Characidium fasciatum,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.931-934,"Rupununi, Manari Creek, Guyana",Characidium fasciatum,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.935-938,"Rupununi, Awai Creek, Guyana",Characidium fasciatum,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1972.7.27.939-947,"Rupununi, Akakwai Creek, Guyana",Characidium fasciatum,0,0,NA,NA,NA
 Brasil,Rio Grande do Sul,NA,NHM-LONDON-ZOO,1891.3.16.93,NA,Characidium interruptum,0,0,NA,NA,NA
-Paraguai,NA,NA,NHM-LONDON-ZOO,1895.1.30.16-19,Colonia Risso,Characidium laterale,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1911.10.31.161,"Amatuk, British Guiana",Characidium laterale,0,0,NA,NA,NA
 Guiana,NA,NA,NHM-LONDON-ZOO,1972.10.17.2677-2679,"Potaro River, Little Ewang creek, Guyana",Characidium laterale,0,0,NA,NA,NA
-Brasil,Rio Grande do Sul,NA,NHM-LONDON-ZOO,1891.3.16.94-95,NA,Characidium lateralis,0,0,NA,NA,NA
 Uruguai,NA,NA,NHM-LONDON-ZOO,1893.7.31.8-9,"Tributary of Rio Negro, near Mercedes, Uruguay",Characidium lateralis,0,0,NA,NA,NA
 Argentina,NA,NA,NHM-LONDON-ZOO,1912.3.1.44,La Plata,Characidium lateralis,0,0,NA,NA,NA
+Guiana,NA,NA,NHM-LONDON-ZOO,1971.11.26.26,"Waruma River, Mazaruni, Guyana",Characidium pteroides,0,0,NA,NA,NA
 Equador,NA,NA,NHM-LONDON-ZOO,1890.6.13.17,"Canelos, Ecuador",Characidium purpuratum,0,0,NA,NA,NA
-Brasil,NA,NA,NHM-LONDON-ZOO,1895.5.17.129-135,"Descalvados, Matto Grosso",Characidium lateralis,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1913.1.1.15-17,Paranagua,Characidium rachovii,0,0,NA,NA,NA
+Brasil,NA,NA,NHM-LONDON-ZOO,1985.6.22.42,"Tarumazinho River, Rio Negro, Brazil",Characidium,0,0,NA,NA,NA
+Paraguai,NA,NA,NHM-LONDON-ZOO,1895.5.17.128,Monte Sociedad,Characidium lateralis,0,0,NA,NA,NA
