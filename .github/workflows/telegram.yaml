@@ -20,7 +20,7 @@ jobs:
     env:
       R_TELEGRAM_BOT_SPALERT_BOT: ${{ secrets.R_TELEGRAM_BOT_SPALERT_BOT }}
       SPECIESLINK_API_KEY: ${{ secrets.SPECIESLINK_API_KEY }}
-      GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
+      GITHUB_PAT: ${{ secrets.spalert_gh }}
 
     steps:
       - uses: actions/checkout@v4
