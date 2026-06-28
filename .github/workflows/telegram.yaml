@@ -40,6 +40,7 @@ jobs:
             glue
             purrr
             httr2
+            piggyback
           needs: false
 
       - name: Run script
