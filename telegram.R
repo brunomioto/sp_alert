@@ -76,8 +76,7 @@ database_csv <- readr::read_csv(
 )
 
 database_csv_vouchers <- database_csv |>
-  dplyr::select(collectioncode, catalognumber, scientificname) |>
-  dplyr::slice(-(1:5))
+  dplyr::select(collectioncode, catalognumber, scientificname)
 
 new_records_vouchers <- setdiff(
   characidium_all_3_vouchers,
