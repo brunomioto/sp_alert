@@ -35,16 +35,28 @@ speciesLink_mioto_genus <- function(genus, offset = 0) {
     httr2::resp_body_json()
 
   resp_properties <- resp$features %>%
-    purrr::map(purrr::pluck, "properties") |>
-  dplyr::mutate(
-    decimallatitude = as.numeric(decimallatitude),
-    decimallongitude = as.numeric(decimallongitude),
-    yearcollected = as.numeric(yearcollected)
-  ) 
+    purrr::map(purrr::pluck, "properties") %>%
+    purrr::map(function(props) {
+      purrr::map(props, function(v) {
+        if (is.null(v) || length(v) == 0) {
+          NA_character_
+        } else {
+          paste(as.character(unlist(v)), collapse = " | ")
+        }
+      })
+    })
 
-  resp_df <- dplyr::bind_rows(resp_properties)
+  if (length(resp_properties) == 0) return(tibble::tibble())
 
-  return(resp_df)
+  dplyr::bind_rows(resp_properties) %>%
+    dplyr::mutate(dplyr::across(
+      dplyr::any_of(c(
+        "decimallatitude", "decimallongitude",
+        "year", "month", "day",
+        "coordinateprecision", "elevation", "maximumelevation", "minimumelevation"
+      )),
+      function(x) suppressWarnings(as.numeric(x))
+    ))
 }
 
 
