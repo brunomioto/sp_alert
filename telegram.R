@@ -35,7 +35,12 @@ speciesLink_mioto_genus <- function(genus, offset = 0) {
     httr2::resp_body_json()
 
   resp_properties <- resp$features %>%
-    purrr::map(purrr::pluck, "properties")
+    purrr::map(purrr::pluck, "properties") |>
+  dplyr::mutate(
+    decimallatitude = as.numeric(decimallatitude),
+    decimallongitude = as.numeric(decimallongitude),
+    yearcollected = as.numeric(yearcollected)
+  ) 
 
   resp_df <- dplyr::bind_rows(resp_properties)
 
