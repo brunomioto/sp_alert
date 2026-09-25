@@ -31,6 +31,8 @@ speciesLink_mioto_genus <- function(genus, offset = 0) {
       limit = 5000,
       apikey = apikey
     ) %>%
+    httr2::req_timeout(120) %>%
+    httr2::req_retry(max_tries = 3) %>%
     httr2::req_perform() %>%
     httr2::resp_body_json()
 
@@ -60,10 +62,32 @@ speciesLink_mioto_genus <- function(genus, offset = 0) {
 }
 
 
-characidium_all_1 <- speciesLink_mioto_genus("characidium", 0)
-characidium_all_2 <- speciesLink_mioto_genus("characidium", 5000)
+# busca todas as paginas ate vir uma pagina incompleta
+PAGE_SIZE <- 5000
+pages <- list()
+offset <- 0
+repeat {
+  page <- tryCatch(
+    speciesLink_mioto_genus("characidium", offset),
+    error = function(e) {
+      bot$sendMessage(glue::glue("Erro ao consultar speciesLink: {conditionMessage(e)}"))
+      quit(status = 1)
+    }
+  )
+  pages <- c(pages, list(page))
+  if (nrow(page) < PAGE_SIZE) break
+  offset <- offset + PAGE_SIZE
+}
 
-characidium_all_3 <- dplyr::bind_rows(characidium_all_1, characidium_all_2) |>
+characidium_api <- dplyr::bind_rows(pages)
+
+if (nrow(characidium_api) == 0) {
+  bot$sendMessage("speciesLink retornou 0 registros, base não foi atualizada")
+  quit(status = 1)
+}
+
+# tudo como texto para comparar e salvar com tipos estaveis
+characidium_all_3 <- characidium_api |>
   dplyr::select(
     country,
     stateprovince,
@@ -78,31 +102,22 @@ characidium_all_3 <- dplyr::bind_rows(characidium_all_1, characidium_all_2) |>
     monthcollected,
     yearcollected
   ) |>
-  dplyr::mutate(
-    decimallatitude = as.numeric(decimallatitude),
-    decimallongitude = as.numeric(decimallongitude),
-    yearcollected = as.numeric(yearcollected)
-  ) |>
+  dplyr::mutate(dplyr::across(dplyr::everything(), as.character)) |>
   dplyr::distinct()
 
-characidium_all_3_vouchers <- characidium_all_3 |>
-  dplyr::select(collectioncode, catalognumber, scientificname)
+# base acumulativa: guarda tudo que ja foi visto, nunca remove.
+# assim registros que somem da API por um dia (colecao fora do ar)
+# nao voltam como "novos" no dia seguinte
+database_path <- "dados/characidium_database.csv"
 
 database_csv <- readr::read_csv(
-  "https://raw.githubusercontent.com/brunomioto/sp_alert/master/dados/characidium_database.csv"
-)
-
-database_csv_vouchers <- database_csv |>
-  dplyr::select(collectioncode, catalognumber, scientificname)
-
-new_records_vouchers <- setdiff(
-  characidium_all_3_vouchers,
-  database_csv_vouchers
+  database_path,
+  col_types = readr::cols(.default = readr::col_character())
 )
 
 new_records <- characidium_all_3 |>
-  dplyr::semi_join(
-    new_records_vouchers,
+  dplyr::anti_join(
+    database_csv,
     by = c("collectioncode", "catalognumber", "scientificname")
   )
 
@@ -210,5 +225,9 @@ if (nrow(new_records) > 0) {
   piggyback::pb_upload(tmp_path, repo = "brunomioto/sp_alert", tag = "latest")
 }
 
-# salvar a versao csv
-readr::write_csv(characidium_all_3, "dados/characidium_database.csv")
+# salvar a versao csv (base antiga + novos registros com data da primeira aparicao)
+database_updated <- dplyr::bind_rows(
+  database_csv,
+  new_records |> dplyr::mutate(first_seen = as.character(Sys.Date()))
+)
+readr::write_csv(database_updated, database_path)
