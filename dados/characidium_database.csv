@@ -9882,3 +9882,971 @@ Brasil,NA,NA,NHM-LONDON-ZOO,1895.5.17.129-135,"Descalvados, Matto Grosso",Charac
 Brasil,NA,NA,NHM-LONDON-ZOO,1902.2.10.28,River Coxipo,Characidium lateralis,0,0,NA,NA,NA,2026-09-26
 Equador,NA,NA,NHM-LONDON-ZOO,1890.6.13.17,"Canelos, Ecuador",Characidium purpuratum,0,0,NA,NA,NA,2026-09-26
 Guiana,NA,NA,NHM-LONDON-ZOO,1911.10.31.160,"Maripicru Creek, British Guiana",Characidium zebra,0,0,NA,NA,NA,2026-09-26
+NA,NA,NA,DZSJRP-Pisces,20934,NA,Characidium,NA,NA,31,12,2015,2026-09-30
+Brasil,Rio de Janeiro,Silva Jardim,DZSJRP-Pisces,13850,"Afluente do rio São João, Gaviões, 3º Distr, RJ126",Characidium alipioi,-22.58333,-42.57889,31,05,2011,2026-09-30
+Brasil,Rio de Janeiro,Silva Jardim,DZSJRP-Pisces,13869,"Rio São João, RJ 126",Characidium alipioi,-22.5825,-42.57528,31,05,2011,2026-09-30
+Brasil,São Paulo,Silveiras,DZSJRP-Pisces,13907,"Riacho no aceso em terra ao bairro Colinas, em fente ao Sítio Fazendinha 3 Irmãos, estr Silveiras-Cunha",Characidium alipioi,-22.83333,-44.8475,01,06,2010,2026-09-30
+Brasil,Rio Grande do Norte,Taipu,DZSJRP-Pisces,15270,Rio Ceará Mirim. Distrito de Umari.,Characidium bimaculatum,-5.62972,-35.61694,01,04,2001,2026-09-30
+Brasil,Rio Grande do Norte,Taipu,DZSJRP-Pisces,15273,Rio Ceará Mirim. Distrito de Umari.,Characidium bimaculatum,-5.62972,-35.61694,11,08,2001,2026-09-30
+Brasil,Rio Grande do Norte,Taipu,DZSJRP-Pisces,15269,Rio Ceará Mirim. Distrito de Umari.,Characidium bimaculatum,-5.62972,-35.61694,26,01,2002,2026-09-30
+Brasil,Paraíba,Caapora,DZSJRP-Pisces,19905,"Ribeirão Camosim, drenagem Gramame. LM4",Characidium bimaculatum,-7.49889,-34.88944,05,11,2013,2026-09-30
+Brasil,Mato Grosso,Sao Jose Dos Quatro Marcos,DZSJRP-Pisces,4063,"Fazenda São Pedro, rio Jauru, afluente do rio Paraguai",Characidium borellii,-15.58556,-58.18694,29,03,1986,2026-09-30
+Brasil,Mato Grosso do Sul,Miranda,DZSJRP-Pisces,725,"Rio Miranda, Morro do Azeite, Fazenda Bodoquena drenagem do rio Paraguai",Characidium borellii,-20.11722,-56.74639,21,11,1989,2026-09-30
+Brasil,São Paulo,Botucatu,DZSJRP-Pisces,3346,"Rio Capivara, rio Alambari e córrego Água Fria (afl. r. Lavapés), rio Tietê",Characidium fasciatum,-22.88056,-48.44028,22,01,1986,2026-09-30
+Brasil,São Paulo,Botucatu,DZSJRP-Pisces,3462,"Rio Capivara, rio Alambari e córrego Água Fria (afl. r. Lavapés), rio Tietê",Characidium fasciatum,-22.88056,-48.44028,22,01,1986,2026-09-30
+Brasil,São Paulo,Botucatu,DZSJRP-Pisces,3469,"Rio Capivara, rio Alambari e córrego Água Fria (afl. r. Lavapés), rio Tietê",Characidium fasciatum,-22.88056,-48.44028,22,01,1986,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13762,"Córrego Olaria, Propriedade Chantal",Characidium fasciatum,-21.02972,-56.61556,19,01,2009,2026-09-30
+Brasil,São Paulo,Botucatu,DZSJRP-Pisces,3961,"Rio Araquá, drenagem do rio Tietê, UHE Barra Bonita",Characidium fasciatum,-22.88056,-48.44028,28,05,1999,2026-09-30
+Brasil,São Paulo,Palmares Paulista,DZSJRP-Pisces,717,"Riacho afluente do ribeirão da Onça, rio Turvo, rio Grande",Characidium fasciatum,-21.09,-48.80778,03,06,1984,2026-09-30
+Brasil,São Paulo,Monte Aprazivel,DZSJRP-Pisces,2829,"Represa Municipal, afluente do rio São José dos Dourados",Characidium fasciatum,-20.77472,-49.72722,06,05,1981,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,2869,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,03,04,1993,2026-09-30
+Brasil,Mato Grosso do Sul,Tres Lagoas,DZSJRP-Pisces,5183,"Rio Paraná, Jupiá, reservatório",Characidium fasciatum,-20.85556,-51.63111,24,09,1999,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,707,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,15,10,1984,2026-09-30
+Brasil,São Paulo,Adolfo,DZSJRP-Pisces,2933,"Riacho afluente do Ribeirão da Fartura, drenagem do rio Tietê",Characidium fasciatum,-21.23056,-49.64028,08,08,1998,2026-09-30
+Brasil,Minas Gerais,Cristiano Otoni,DZSJRP-Pisces,16134,"Riacho no bairro São Geraldo, afluente do rio Paraopeba, São Francisco.",Characidium fasciatum,-20.81083,-43.86556,04,09,2012,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,737,"Córrego da Boa Vista, drenagem do rio Tietê",Characidium fasciatum,-21.04278,-49.37722,10,03,1988,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,726,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,10,03,1988,2026-09-30
+Brasil,São Paulo,Adolfo,DZSJRP-Pisces,741,"Córrego na estrada de Adolfo à Prainha, afluente do rio Tietê",Characidium fasciatum,-21.23056,-49.64028,04,10,1988,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,1900,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,06,04,1994,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,3754,"Córrego da Fazenda Santa Inês, ponte da Rod. J.D.Netto, Vila Azul, rio Grande",Characidium fasciatum,-20.87139,-49.37806,17,01,1998,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,4143,"Córrego da Fazenda Santa Inês; de próx à nascente ao curso médio, rio Grande",Characidium fasciatum,-20.87361,-49.38944,04,01,1999,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,3779,"1o. afluente do lado esquerdo do córrego da Boa Esperança, afl. do rio Grande",Characidium fasciatum,-20.89056,-49.39944,15,05,1999,2026-09-30
+Brasil,São Paulo,Jacupiranga,DZSJRP-Pisces,3188,"Rio Cantia, afluente do rio Ribeira do Iguape",Characidium fasciatum,-24.6925,-48.00222,26,08,1985,2026-09-30
+Brasil,São Paulo,Jacupiranga,DZSJRP-Pisces,3172,"Fazenda Jamapá, Br 116 km 472, drenagem do rio Ribeira do Iguape",Characidium fasciatum,-24.6925,-48.00222,20,08,1985,2026-09-30
+Brasil,São Paulo,Macaubal,DZSJRP-Pisces,3933,"Ribeirão Santa Bárbara (espraiado), afluente do rio Tiête",Characidium fasciatum,-20.96722,-50.01861,24,05,2000,2026-09-30
+Brasil,Minas Gerais,Piedade Do Rio Grande,DZSJRP-Pisces,8603,"Riachinho na MG338, Ibertioga- Piedade do Rio Grande",Characidium fasciatum,-21.45917,-44.11556,24,05,2006,2026-09-30
+Brasil,Minas Gerais,Madre De Deus De Minas,DZSJRP-Pisces,8610,"1º riacho após Rio Grande, MG338, Madre de Deus a S V Minas",Characidium fasciatum,-21.52306,-44.34944,24,05,2006,2026-09-30
+Brasil,Minas Gerais,Santa Rita Do Sapucai,DZSJRP-Pisces,8634,"Riacho após Sta Rita do Sapucai, acesso em terra à dir, 100m do asfalto",Characidium fasciatum,-22.25611,-45.82917,26,05,2006,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12285,"Riacho sob ponte na estr de terra (entrada à esq na MT370) sentido Itiquira, prox à Igreja",Characidium fasciatum,-17.11056,-54.46639,13,08,2009,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12565,"Rio Itiquira, próximo ao Sítio do Tonico Boa Pessoa",Characidium fasciatum,-17.20111,-54.13833,04,06,2010,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12596,"Riacho sob ponte na estr de terra (entrada à esq na MT370) sentido Itiquira, prox à Igreja",Characidium fasciatum,-17.11056,-54.46639,05,06,2010,2026-09-30
+Brasil,Minas Gerais,Presidente Olegario,DZSJRP-Pisces,19052,"Riacho em pasto na estr Pres Olegário à Galena, após Galena no sentido da BR365, rio São Francisco",Characidium fasciatum,-18.30556,-46.09611,21,09,2013,2026-09-30
+Brasil,Minas Gerais,Tres Marias,DZSJRP-Pisces,19056,"Rio Curral das Éguas, BR040 de São Gonçalo do Abaeté a Três Marias, rio São Francisco",Characidium fasciatum,-18.12694,-45.41944,21,09,2013,2026-09-30
+Brasil,São Paulo,Macaubal,DZSJRP-Pisces,3577,"Ribeirão Santa Bárbara (espraiado), afluente do rio Tiête",Characidium fasciatum,-20.96722,-50.01861,08,10,1999,2026-09-30
+Brasil,São Paulo,Macaubal,DZSJRP-Pisces,3720,"Ribeirão Santa Bárbara (espraiado), afluente do rio Tiête",Characidium fasciatum,-20.96722,-50.01861,16,12,1999,2026-09-30
+Brasil,São Paulo,Jacupiranga,DZSJRP-Pisces,2295,"Fazenda S.E.A.R.A. (riacho dentro da mata), drenagem do rio Ribeira do Iguape",Characidium fasciatum,-24.6925,-48.00222,23,08,1985,2026-09-30
+Brasil,São Paulo,Mirassolandia,DZSJRP-Pisces,735,"Rio Preto - Macaúbas (lagoas e entrada das lagoas marginais), rio Grande",Characidium fasciatum,-20.61667,-49.46389,30,04,1988,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,739,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,23,11,1989,2026-09-30
+Brasil,São Paulo,Nhandeara,DZSJRP-Pisces,738,"Rio São José dos Dourados, Fazenda Liberdade, Br154 sentido Nhandeara",Characidium fasciatum,-20.54056,-50.05778,16,04,1989,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,682,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,28,08,1982,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,14278,"Ribeirão Extrema, afluente do rio São Francisco.",Characidium fasciatum,-15.84611,-47.38528,23,09,2010,2026-09-30
+Brasil,Minas Gerais,Abaete,DZSJRP-Pisces,19005,Drenagem do rio São Francisco. TM220,Characidium fasciatum,-18.95278,-45.63667,02,09,2010,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13721,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium fasciatum,-21.035,-56.615,23,05,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13733,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium fasciatum,-20.685,-56.77778,28,05,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13827,"Córrego Luciano, entorno PARNA S. da Canastra, entrada do pq sob ponte",Characidium fasciatum,-20.31278,-46.5375,16,06,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13822,"Córrego Cachoeirinha, entorno PARNA S. da Canastra, em frente à Brazil. Diamonds",Characidium fasciatum,-20.32417,-46.5375,17,06,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13723,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium fasciatum,-21.035,-56.615,21,07,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13766,"Córrego Mutum, propriedade do Sr Jorge",Characidium fasciatum,-21.30028,-56.43556,21,07,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13735,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium fasciatum,-20.685,-56.77778,25,07,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13823,"Córrego Cachoeirinha, entorno PARNA S. da Canastra, em frente à Brazil. Diamonds",Characidium fasciatum,-20.32417,-46.5375,07,08,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13817,"Córrego Cerrado, entorno PARNA s. Canastra, propriedade Sr. Joaquim Evaristo",Characidium fasciatum,-20.33333,-46.47528,08,08,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Miranda,DZSJRP-Pisces,13717,"Córrego Taquaral, Faz do Sr Faete, PARNA Serra da Bodoquena",Characidium fasciatum,-20.10389,-56.63333,19,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13767,"Córrego Mutum, propriedade do Sr Jorge",Characidium fasciatum,-21.30028,-56.43556,22,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13808,"Córrego Mutum, propriedade do Sr Jorge",Characidium fasciatum,-21.30028,-56.43556,20,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13737,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium fasciatum,-20.685,-56.77778,27,09,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13813,"Córrego Grande, entorno Parna S. Canastra, propriedade Sr Elmo",Characidium fasciatum,-20.34028,-46.46556,08,10,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13727,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium fasciatum,-21.035,-56.615,15,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13769,"Córrego Mutum, propriedade do Sr Jorge",Characidium fasciatum,-21.30028,-56.43556,16,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Miranda,DZSJRP-Pisces,13718,"Córrego Taquaral, Faz do Sr Faete, PARNA Serra da Bodoquena",Characidium fasciatum,-20.10389,-56.63333,18,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13739,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium fasciatum,-20.685,-56.77778,20,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13751,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium fasciatum,-20.75861,-56.75194,21,09,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13814,"Córrego Grande, entorno Parna S. Canastra, propriedade Sr Elmo",Characidium fasciatum,-20.34028,-46.46556,09,12,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13835,"Córrego Lavra, entorno PARNA S. da Canastra, propr. Sr. Vítor, à montante ponte",Characidium fasciatum,-20.31,-46.43306,09,12,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13831,"Córrego Luciano, entorno PARNA S. da Canastra, entrada do pq sob ponte",Characidium fasciatum,-20.31278,-46.5375,10,12,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13753,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium fasciatum,-20.75861,-56.75194,17,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13729,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium fasciatum,-21.035,-56.615,22,01,2009,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13832,"Córrego Luciano, entorno PARNA S. da Canastra, entrada do pq sob ponte",Characidium fasciatum,-20.31278,-46.5375,06,02,2009,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13820,"Córrego Cerrado, entorno PARNA s. Canastra, propriedade Sr. Joaquim Evaristo",Characidium fasciatum,-20.33333,-46.47528,07,02,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13764,"Córrego Olaria, Propriedade Chantal",Characidium fasciatum,-21.02972,-56.61556,05,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Miranda,DZSJRP-Pisces,13720,"Córrego Taquaral, Faz do Sr Faete, PARNA Serra da Bodoquena",Characidium fasciatum,-20.10389,-56.63333,07,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13743,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium fasciatum,-20.685,-56.77778,11,03,2009,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13833,"Córrego Luciano, entorno PARNA S. da Canastra, entrada do pq sob ponte",Characidium fasciatum,-20.31278,-46.5375,24,03,2009,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13821,"Córrego da Mandioca, entorno PARNA s. da Canastra, Faz Passaredo",Characidium fasciatum,-20.31472,-46.43944,28,03,2009,2026-09-30
+Brasil,São Paulo,Cedral,DZSJRP-Pisces,740,"Fazenda São Francisco, drenagem do rio Grande",Characidium fasciatum,-20.90278,-49.26833,30,04,1984,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,700,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,10,03,1980,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,687,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,17,03,1980,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,706,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,05,09,1980,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,698,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,23,10,1980,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,733,Córrego da Barra Funda,Characidium fasciatum,-20.70194,-49.40611,08,12,1980,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,693,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,16,12,1980,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,702,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,08,01,1981,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,688,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,07,02,1981,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,705,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,25,02,1981,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,694,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,04,04,1981,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,686,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,16,04,1981,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,675,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,22,11,1982,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,679,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,16,08,1983,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,680,"Córrego da Barra Funda, nascente, afluente rio Preto, rio Grande",Characidium fasciatum,-20.65667,-49.38722,16,08,1983,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,3004,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,09,10,1985,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,2189,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,27,03,1987,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,730,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,21,08,1987,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,677,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,07,12,1988,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,2005,"Córrego Barra Funda, curso médio e desembocadura, drenagem do rio Grande",Characidium fasciatum,-20.65667,-49.38722,25,08,1989,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,742,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,07,02,1990,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,727,"Córrego Figueira, drenagem do rio Tietê",Characidium fasciatum,-21.04278,-49.37722,31,10,1990,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,2463,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,24,04,1992,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,3589,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,16,11,1992,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,713,"Represa Municipal de São José do Rio Preto, rio Grande",Characidium fasciatum,-20.8225,-51.50194,19,05,1983,2026-09-30
+Brasil,São Paulo,Florida Paulista,DZSJRP-Pisces,4017,"Ribeirão Santa Maria, afl. do rio do Peixe, rio Paraná, vicinal para Flora Rica",Characidium fasciatum,-21.61056,-51.17028,01,10,1987,2026-09-30
+Brasil,Minas Gerais,Tres Marias,DZSJRP-Pisces,2433,Rio São Francisco,Characidium fasciatum,-18.18917,-45.25472,01,01,1984,2026-09-30
+Brasil,São Paulo,Patrocinio Paulista,DZSJRP-Pisces,12923,"Riacho afl Ribeirão Sta Bárbara, rio Sapucai, rio Grande",Characidium gomesi,-20.84667,-47.52889,02,11,2010,2026-09-30
+Brasil,São Paulo,Patrocinio Paulista,DZSJRP-Pisces,12940,"Riacho afl do Ribeirão Sta Bárbara, rio Sapucai, rio Grande",Characidium gomesi,-20.76639,-47.49972,02,11,2010,2026-09-30
+Brasil,São Paulo,Monte Aprazivel,DZSJRP-Pisces,8076,"Córrego da Água Limpa, bacia do São José dos Dourados, trecho4 (quarta ordem)",Characidium gomesi,-20.80167,-49.69028,17,04,2004,2026-09-30
+Brasil,São Paulo,Monte Aprazivel,DZSJRP-Pisces,8115,"Córrego da Água Limpa, bacia do São José dos Dourados, trecho4 (quarta ordem)",Characidium gomesi,-20.80167,-49.69028,08,07,2004,2026-09-30
+Brasil,São Paulo,Apiai,DZSJRP-Pisces,3964,"Riacho afl. do rio Apiaí-Guaçu, rio Apiaí, drenagem do rio Paranapanema",Characidium gomesi,-24.4775,-48.7625,01,01,1900,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17975,"Rio Cachoeirão, fazenda Taruana, drenagem rio Aquidauana, alto rio Paraguai.",Characidium gomesi,-20.50194,-55.25722,01,09,2008,2026-09-30
+Brasil,Minas Gerais,Carandai,DZSJRP-Pisces,16167,"Rio Carandaí, sob ponte no bairro Ponte Chaves, perto da linha do trem.",Characidium gomesi,-20.95333,-43.77611,05,09,2012,2026-09-30
+Brasil,São Paulo,Sao Joao Da Boa Vista,DZSJRP-Pisces,12322,"Sertãozinho, Faz Cachoeira",Characidium gomesi,-22.01333,-46.71528,01,01,1900,2026-09-30
+Brasil,São Paulo,Sao Joao Da Boa Vista,DZSJRP-Pisces,12327,"Córrego Cachoeira, faz Cachoeira.",Characidium gomesi,-21.96056,-46.79028,01,01,1900,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18819,"Afluente do rio Sepotuba, afluente do rio Paraguai.",Characidium gomesi,-14.63111,-57.71111,20,11,2007,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18867,"Afluente do rio Sepotuba, drenagem do rio Paraguai. TSA-6",Characidium gomesi,-14.62528,-57.62972,23,11,2007,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18888,"Rio Sepotuba, bacia do Paraguai. TSB-3",Characidium gomesi,-14.47639,-57.40556,25,11,2007,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,9733,Córrego da Areia Branca,Characidium gomesi,-20.69,-49.45111,27,07,2005,2026-09-30
+Brasil,Minas Gerais,Jacui,DZSJRP-Pisces,8576,"Riacho 50m da rod. Altino Arantes (SP351/BR265), antes km 29",Characidium gomesi,-21.00278,-46.82417,22,05,2006,2026-09-30
+Brasil,Minas Gerais,Prata,DZSJRP-Pisces,8760,"Riacho afl rio das Pedras, acesso em terra para Patrimônio",Characidium gomesi,-19.45389,-48.82333,04,09,2006,2026-09-30
+Brasil,Minas Gerais,Araxa,DZSJRP-Pisces,8741,"Corr Sto Antonio, vicinal (terra) BR262, após Corr Marmelo, sent Uberaba",Characidium gomesi,-19.57861,-47.15556,07,09,2006,2026-09-30
+Brasil,São Paulo,Aguas De Santa Barbara,DZSJRP-Pisces,11317,"Rio Guarantã, Estação Ecológica Águas de Santa Bárbara",Characidium gomesi,-22.80417,-49.25222,16,09,2008,2026-09-30
+Brasil,Minas Gerais,Muzambinho,DZSJRP-Pisces,14050,"Riacho afl do rio Muzambinho, rio Pardo, rio Grande",Characidium gomesi,-21.38917,-46.47722,09,08,2011,2026-09-30
+Brasil,Minas Gerais,Presidente Olegario,DZSJRP-Pisces,19015,"Riacho na estrada de terra após o distrito de Onça, rio Paranaíba",Characidium gomesi,-18.39889,-46.55278,20,09,2013,2026-09-30
+Brasil,Minas Gerais,Carandai,DZSJRP-Pisces,20993,"Córrego Ibaré ou Ibaté, BR040 à dir no sentido Cristiano Otoni-RJ, porção média, dren do rio Grande",Characidium gomesi,-20.967778,-43.787222,14,04,2016,2026-09-30
+Brasil,Rondônia,Santa Luzia D'Oeste,DZSJRP-Pisces,14704,"Bacia do rio Machado, drenagem do rio Madeira, ponto 11.",Characidium gomesi,-11.89583,-61.67222,30,08,2011,2026-09-30
+Brasil,São Paulo,Salto De Pirapora,DZSJRP-Pisces,13643,"Rio Sarapuí, rio Tietê",Characidium gomesi,-23.71028,-47.59111,03,09,2010,2026-09-30
+Brasil,São Paulo,Sao Miguel Arcanjo,DZSJRP-Pisces,13665,"Rio Lageado, rio Paranapanema",Characidium gomesi,-23.87056,-47.99028,05,11,2010,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,15713,"Córrego da Roseira, alto rio Paraná.",Characidium gomesi,-21.10722,-49.33667,30,09,2011,2026-09-30
+Brasil,São Paulo,Bocaina,DZSJRP-Pisces,16409,"Ribeirão da Boa Vista, rio Jacaré-Pepira, rio Tietê",Characidium gomesi,-22.12583,-48.41694,28,03,2012,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,18512,"Córrego da Roseira, rio Cubatão, rio Tietê.",Characidium gomesi,-21.10722,-49.33667,24,01,2013,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,18515,"Córrego da Roseira, rio Cubatão, rio Tietê.",Characidium gomesi,-21.10722,-49.33667,24,01,2013,2026-09-30
+Brasil,Minas Gerais,Acucena,DZSJRP-Pisces,20597,"Rio Corrente Grande, bacia do rio Doce, entre Açucena e Gonzaga.",Characidium gomesi,-18.95778,-42.45972,19,05,2015,2026-09-30
+Brasil,São Paulo,Corumbatai,DZSJRP-Pisces,7913,"Alto Corumbataí, próximo à cidade, afluente da margem direita do Rio Corumbataí",Characidium gomesi,-22.20361,-47.63611,07,08,2003,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13794,Córrego Gallheiro,Characidium gomesi,-19.08667,-51.885,05,06,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13786,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium gomesi,-19.05,-52.14861,04,08,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13791,"Córrego Cedro, Faz do Sr Orizon",Characidium gomesi,-19.15333,-51.75028,01,10,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13799,Córrego Gallheiro,Characidium gomesi,-19.08667,-51.885,28,11,2008,2026-09-30
+Brasil,São Paulo,Sete Barras,DZSJRP-Pisces,3187,"Ribeirão da Serra, Parque Estadual Carlos Botelho, rio Ribeira do Iguape",Characidium gomesi,-24.38778,-47.92556,26,05,1990,2026-09-30
+Brasil,Goias,Itumbiara,DZSJRP-Pisces,18702,"Reservatório de São Simão, rio Paranaíba",Characidium gomesi,-18.48417,-49.77917,01,09,2012,2026-09-30
+Brasil,Minas Gerais,Santa Vitoria,DZSJRP-Pisces,18679,"Reservatório de São Simão, rio Paranaíba",Characidium gomesi,-18.92167,-50.09889,01,09,2012,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,2881,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium gomesi,-20.64528,-49.40306,18,11,1985,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,729,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium gomesi,-20.64528,-49.40306,02,09,1987,2026-09-30
+Brasil,São Paulo,Guarei,DZSJRP-Pisces,22788,"Ribeirão da Cachoeira, afl Rio Guareí",Characidium gomesi,-23.4261111111,-48.4202777778,20,09,2017,2026-09-30
+Brasil,São Paulo,Guarei,DZSJRP-Pisces,22750,"Ribeirão Guarda Mor, afl Rio Guareí",Characidium gomesi,-23.380075,-48.1619916667,NA,NA,NA,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,20461,"Córrego Itaúna, área aberta, drenagem do rio Paranapanema",Characidium gomesi,-23.16639,-48.62556,24,04,2014,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,20483,"Córrego Itaúna, área fechada, drenagem do rio Paranapanema",Characidium gomesi,-23.16139,-48.63194,24,04,2014,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,20472,"Córrego Itaúna, área aberta, drenagem do rio Paranapanema",Characidium gomesi,-23.16639,-48.62556,25,09,2014,2026-09-30
+Brasil,São Paulo,Avare,DZSJRP-Pisces,20509,"Córrego Farias, área aberta, drenagem do rio Paranapanema",Characidium gomesi,-23.02139,-48.91944,09,10,2014,2026-09-30
+Brasil,Minas Gerais,Paraisopolis,DZSJRP-Pisces,19000,"Rio Capivari, Bairro dos Martins. P1",Characidium gomesi,-22.58361,-45.88389,01,01,1900,2026-09-30
+Brasil,São Paulo,Bananal,DZSJRP-Pisces,20416,"Ribeirão das Cobras, afl rio Praíba do Sul",Characidium japuhybense,-22.79389,-44.37833,26,05,2015,2026-09-30
+Brasil,São Paulo,Pindamonhangaba,DZSJRP-Pisces,18711,"Riacho na entrada da Faz Gokula, afl Rib Grande, Paraíba do Sul",Characidium japuhybense,-22.77333,-45.45944,05,07,2013,2026-09-30
+Brasil,São Paulo,Pindamonhangaba,DZSJRP-Pisces,18716,"Riacho na estr terra apõs a entrada da Faz Gokula, afl Rib Grande, Paraíba do Sul",Characidium japuhybense,-22.7675,-45.46361,05,07,2013,2026-09-30
+Brasil,São Paulo,Pindamonhangaba,DZSJRP-Pisces,18718,"Riacho sob ponte ao final do asfalto em direção á Faz Gokula, afl Rib Grande, Paraíba do Sul",Characidium japuhybense,-22.78556,-45.45528,05,07,2013,2026-09-30
+Brasil,Rio de Janeiro,Parati,DZSJRP-Pisces,20441,"Riacho afl margem dir rio Graúna, povoado de Graúna",Characidium japuhybense,-23.14944,-44.73194,28,05,2015,2026-09-30
+Brasil,São Paulo,Americo De Campos,DZSJRP-Pisces,16112,"Córrego do Mangue, drenagem Turvo-Grande.",Characidium lagosantense,-20.36917,-49.83278,08,07,2005,2026-09-30
+Brasil,São Paulo,Vitoria Brasil,DZSJRP-Pisces,4851,"Sítio Santo Afonso, córrego do Cedro, afluente do rio Grande",Characidium lagosantense,-20.22028,-50.50306,16,09,2001,2026-09-30
+Brasil,São Paulo,Vitoria Brasil,DZSJRP-Pisces,5008,"Afluente do córrego da Helena, Sitio São Manoel, rio Grande",Characidium lagosantense,-20.17694,-50.50056,18,12,2001,2026-09-30
+Brasil,São Paulo,Junqueiropolis,DZSJRP-Pisces,6808,"Córrego Sucuri, porção represada (Ponto 2), fazenda Alvorada.",Characidium lagosantense,-21.31111,-51.3525,31,08,2004,2026-09-30
+Brasil,Mato Grosso do Sul,Nova Andradina,DZSJRP-Pisces,7571,"Córrego do Laranjal, Rio Ivinhema",Characidium lagosantense,-22.05167,-53.67306,23,04,2005,2026-09-30
+Brasil,São Paulo,Luis Antonio,DZSJRP-Pisces,17512,"Córrego Beija Flor, estação ecológica Jataí. P3",Characidium lagosantense,-21.55056,-47.70028,02,07,2012,2026-09-30
+Brasil,São Paulo,Mirassolandia,DZSJRP-Pisces,18356,"Rio Preto - Macaúbas (lagoas e entrada das lagoas marginais), rio Grande",Characidium lagosantense,-20.61667,-49.46389,11,06,1986,2026-09-30
+Brasil,São Paulo,Iguape,DZSJRP-Pisces,20733,"Córrego da Cachoeira, Estação Ecológica Juréia-Itatins",Characidium lanei,-24.708535,-47.555687,14,06,2013,2026-09-30
+Brasil,São Paulo,Caraguatatuba,DZSJRP-Pisces,13161,"Rio Juqueriquere, ADA traçado rod dos Tamoios",Characidium lanei,-23.62056,-45.41028,01,08,2010,2026-09-30
+Brasil,São Paulo,Bertioga,DZSJRP-Pisces,6521,"Córrego no Jardim São Lourenço,8 Km N de Bertioga,SP",Characidium lanei,-23.85444,-46.13861,18,02,2003,2026-09-30
+Brasil,Mato Grosso do Sul,Anastacio,DZSJRP-Pisces,18065,"Afluente do córrego Acôgo, fazenda Boa Esperança, drenagem rio Aquidauana, alto rio Paraguai. AQDN 15",Characidium laterale,-20.73611,-56.03389,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17943,"Afluente do rio Cachoeirão, fazenda Taruana, rio Aquidauana, alto rio Paraguai.",Characidium laterale,-20.50306,-55.25806,01,09,2008,2026-09-30
+Brasil,NA,NA,DZSJRP-Pisces,15296,Drenagem costeira. Sem dados adicionais,Characidium lauroi,0,0,29,12,2008,2026-09-30
+Brasil,Rio de Janeiro,Itatiaia,DZSJRP-Pisces,22879,"Rio Campo Belo, entre Itatiaia e a entrada do Parque Nacional",Characidium lauroi,-22.4783055556,-44.5668333333,30,05,2019,2026-09-30
+Brasil,Rio de Janeiro,Itatiaia,DZSJRP-Pisces,22887,"Rio Campo Belo entre Itatiaia e a entrada do Parque Nacional, prox à ponte",Characidium lauroi,-22.4757777778,-44.5782222222,30,05,2019,2026-09-30
+Brasil,Paraná,Paranagua,DZSJRP-Pisces,21160,"Rio Ribeirão, P3",Characidium lauroi,-25.59,-48.6113888889,02,07,2017,2026-09-30
+Brasil,São Paulo,Bananal,DZSJRP-Pisces,15282,"Córrego na estação ecológica Bananal, drenagem alto Paraná.",Characidium oiticicai,-22.68056,-44.32028,15,01,2008,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,2874,"Ribeirão Venerando, afluente do rio Claro, rio Tietê, E.Biológica de Boracéia",Characidium oiticicai,-23.53056,-45.84028,07,02,1993,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,2257,"Rio Claro, abaixo da barragem de Rib.dos Campos, E.Bio.Boracéia, rio Tietê",Characidium oiticicai,-23.53056,-45.43056,08,02,1993,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,8335,"Ribeirão do Campo, pé da barragem à confluência com rio Claro, EBBoracéia",Characidium oiticicai,-23.53056,-45.43056,31,10,2005,2026-09-30
+Brasil,São Paulo,Piedade,DZSJRP-Pisces,13678,"Ribeirão das Furnas, rio tietê",Characidium oiticicai,-23.80417,-47.3575,22,10,2010,2026-09-30
+Brasil,São Paulo,Pindamonhangaba,DZSJRP-Pisces,12729,"Rio Piracuama, afl Paraíba do Sul",Characidium pterostictum,-22.8675,-45.58444,20,10,2009,2026-09-30
+Brasil,São Paulo,Pariquera-Acu,DZSJRP-Pisces,3197,"Fazenda S.E.A.R.A., km 467 da BR 116, drenagem do rio Ribeira do Iguape",Characidium pterostictum,-24.715,-47.88111,07,10,1987,2026-09-30
+Brasil,São Paulo,Registro,DZSJRP-Pisces,7611,"Canal artificial que desagua no Rio Jacupiranga, atrás do arrozal, Apta(Cedaval)",Characidium pterostictum,-24.60361,-47.89278,27,04,2005,2026-09-30
+Brasil,São Paulo,Pariquera-Acu,DZSJRP-Pisces,7625,"Afluente do rio Jacupiranga, atrás do bambuzal, Apta (Cedaval)",Characidium pterostictum,-24.60722,-47.89639,27,04,2005,2026-09-30
+Brasil,Paraná,Morretes,DZSJRP-Pisces,5730,"Rio Sagrado, rio Nhundiaquara",Characidium pterostictum,-25.55444,-48.80056,08,09,2003,2026-09-30
+Brasil,São Paulo,Pindamonhangaba,DZSJRP-Pisces,18714,"Riacho na entrada da Faz Gokula, afl Rib Grande, Paraíba do Sul",Characidium pterostictum,-22.77333,-45.45944,05,07,2013,2026-09-30
+Brasil,Rio de Janeiro,Resende,DZSJRP-Pisces,20361,"Rio Roncador, estrada Penedo - Maromba, drenagem Paraiba do Sul.",Characidium pterostictum,-22.35778,-44.50111,23,04,2015,2026-09-30
+Brasil,Rio de Janeiro,Resende,DZSJRP-Pisces,20365,"Rio Alambari, estrada Penedo- Maromba, drenagem Paraiba do Sul.",Characidium pterostictum,-22.40278,-44.51361,23,04,2015,2026-09-30
+Brasil,Rio de Janeiro,Resende,DZSJRP-Pisces,20369,"Rio Alambari, sob ponte na estrada Penedo - Maromba, drenagem Paraiba do Sul.",Characidium pterostictum,-22.41194,-44.50444,23,04,2015,2026-09-30
+Brasil,Minas Gerais,Santa Barbara Do Tugurio,DZSJRP-Pisces,20986,"Rio Pomba e Rib Fernandes, drenagem do rio Paraíba do Sul",Characidium pterostictum,-21.020833,-43.66,15,04,2016,2026-09-30
+Brasil,São Paulo,Ibiuna,DZSJRP-Pisces,13679,"Ribeirão das Vargens, rio Ribeira de Iguape",Characidium pterostictum,-23.855,-47.24083,06,08,2010,2026-09-30
+Brasil,São Paulo,Pilar Do Sul,DZSJRP-Pisces,13659,"Rio Pinhal, rio Paranapanema",Characidium pterostictum,-23.88833,-47.77,24,09,2010,2026-09-30
+Brasil,São Paulo,Iguape,DZSJRP-Pisces,13252,"Rio Verde, Estação Ecológica Juréia-Itatins",Characidium schubarti,-24.54806,-47.24361,13,04,2009,2026-09-30
+Brasil,São Paulo,Itarare,DZSJRP-Pisces,20637,"Rio Afluente Verde, sub-bacia do rio Verde.",Characidium schubarti,-24.08444,-49.20194,12,09,2014,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,20484,"Córrego Itaúna, área fechada, drenagem do rio Paranapanema",Characidium schubarti,-23.16139,-48.63194,24,04,2014,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,11424,"Rio Paraitinga, alto rio Tiete",Characidium sp.,-23.525,-45.78833,09,12,2008,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,6933,"Rio Paraitinga, (Tietê), próx. á divisa de Salesópolis",Characidium sp.,-23.52917,-45.76861,16,08,2004,2026-09-30
+Brasil,Goias,Planaltina,DZSJRP-Pisces,22966,Afluente da margem esquerda do Córrego Rico,Characidium sp.,-15.1202194444,-47.8582527778,07,08,2018,2026-09-30
+Brasil,Goias,Agua Fria De Goias,DZSJRP-Pisces,22950,Córrego com nome desconhecido na Faz do Sr Batista,Characidium sp.,-15.0292305556,-47.8730472222,08,08,2018,2026-09-30
+Brasil,Goias,Agua Fria De Goias,DZSJRP-Pisces,22951,Córrego com nome desconhecido na Faz do Sr Batista,Characidium sp.,-15.0292305556,-47.8730472222,08,08,2018,2026-09-30
+Brasil,Bahia,NA,DZSJRP-Pisces,13708,Cabeceira do rio Paraguaçú,Characidium sp.,0,0,01,01,1900,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,5392,"Afl. rib. da Arapuca, afl. Piracanjuba, Sítio Rancho Alegre, rio Paranaíba",Characidium sp.,-16.97278,-48.95333,04,03,2003,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18927,"Rio Sepotuba, bacia do Paraguai. TSB-7",Characidium sp.,-14.58056,-57.39667,25,11,2007,2026-09-30
+Brasil,São Paulo,Itanhaem,DZSJRP-Pisces,15363,"Bacia do rio Itanhaém, drenagem costeira",Characidium sp.,-24.18056,-46.78028,31,12,2006,2026-09-30
+Brasil,Minas Gerais,Itabira,DZSJRP-Pisces,3877,"Riacho afluente do ribeirão Aliança, estrada BJAmparo/Ipoema, rio Doce",Characidium sp.,-19.65778,-43.4475,15,08,1998,2026-09-30
+Brasil,Minas Gerais,Piumhi,DZSJRP-Pisces,3847,"Riacho das Araras, MG 050, afluente do rio São Francisco",Characidium sp.,-20.44139,-45.92389,16,08,1998,2026-09-30
+Brasil,São Paulo,Pauliceia,DZSJRP-Pisces,15442,"Lagoa, foz do Aguapeí, faz. Buritis. Drenagem do Paraná.",Characidium sp.,-21.12083,-51.775,07,02,2012,2026-09-30
+Brasil,São Paulo,Vitoria Brasil,DZSJRP-Pisces,10997,"Sítio Santo Afonso, córrego do Cedro, afluente do rio Grande",Characidium sp.,-20.22028,-50.50306,16,09,2001,2026-09-30
+Brasil,São Paulo,Jales,DZSJRP-Pisces,5417,"Ponte de concreto sobre o córr. da Roça, estr. terra V.Brasil a Jales, r. Grande",Characidium sp.,-20.24111,-50.51667,04,03,2003,2026-09-30
+Brasil,Mato Grosso do Sul,Corumba,DZSJRP-Pisces,20314,Lagoas marginais Pantanal. BEP14,Characidium sp.,-19.57722,-57.01917,15,11,2014,2026-09-30
+Brasil,Goias,Cristalina,DZSJRP-Pisces,6415,"Córrego afl m esq r Paineiras, km 163,5 GO020 a 800 m da BR050, dren Paranaíba",Characidium sp.,-16.76861,-47.61361,04,01,2004,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22067,"Riacho J04, bacia do Rio Juruena, Rio Tabajós",Characidium sp.,-11.5352777778,-58.7172222222,31,05,2018,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18899,"Rio Sepotuba, bacia do Paraguai, TSB-4",Characidium sp.,-14.63917,-57.39167,24,11,2007,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18917,"Rio Sepotuba, bacia do Paraguai. TSB-6",Characidium sp.,-14.55361,-57.37194,25,11,2007,2026-09-30
+Brasil,São Paulo,Fernandopolis,DZSJRP-Pisces,2828,"Foz do Córrego do Veadão, Brasitãnia",Characidium sp.,-20.28056,-50.24028,26,09,2001,2026-09-30
+Brasil,São Paulo,Suzanapolis,DZSJRP-Pisces,6092,"riacho sem nome, drenagem do SJDourados",Characidium sp.,-20.52472,-51.04889,17,07,2003,2026-09-30
+Brasil,Minas Gerais,Uberaba,DZSJRP-Pisces,7518,"rio Uberaba, estrada Uberaba-Almeida Campos e Nova Ponte, rio Grande",Characidium sp.,-19.66111,-47.82306,21,05,2003,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,5574,"Ribeirão da Arapuca, vicinal em terra da GO020 (BR352), próximo à Cristianópolis",Characidium sp.,-17.10444,-48.71889,22,05,2003,2026-09-30
+Brasil,Goias,Montividiu,DZSJRP-Pisces,5653,"Córrego Formosa, km 77 da GO174, entre Amorinópolis e Montividiu. Paranaíba",Characidium sp.,-17.16028,-51.15944,24,05,2003,2026-09-30
+Brasil,Goias,Montividiu,DZSJRP-Pisces,5657,"Córrego da Porteira, GO174 entre Montividiu e Rio Verde, rio Paranaíba",Characidium sp.,-17.48583,-51.13778,24,05,2003,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,7008,"Córrego Arapuquinha, rio Corumbá, dren. do Paranaíba, GO-020,Km 78",Characidium sp.,-17.08694,-48.76778,31,10,2004,2026-09-30
+Brasil,Minas Gerais,Araxa,DZSJRP-Pisces,8744,"Corr Sto Antonio, vicinal (terra) BR262, após Corr Marmelo, sent Uberaba",Characidium sp.,-19.57861,-47.15556,07,09,2006,2026-09-30
+Brasil,Goias,Corumbaiba,DZSJRP-Pisces,10530,Riacho sob ponte de concreto na GO 406 (Ipameri - Corumbaíba),Characidium sp.,-18.11,-48.50361,09,06,2007,2026-09-30
+Brasil,Pará,Portel,DZSJRP-Pisces,11220,"Igarape sem nome, dren. Pacaja, Fazenda Jutaituba",Characidium sp.,-3.04917,-50.1,25,04,2008,2026-09-30
+Brasil,Rio de Janeiro,Tinguá,DZSJRP-Pisces,12507,"Riacho na Faz Atlântica, a 100m do centro de Tinguá, drenagem litorânea",Characidium sp.,-22.58778,-43.41833,22,05,2010,2026-09-30
+Brasil,São Paulo,Mongagua,DZSJRP-Pisces,13920,"Riacho no Bairro Quatinga, ao lado do boteco do Seu João, rio Aguapeú",Characidium sp.,-24.06667,-46.70222,03,06,2011,2026-09-30
+Brasil,São Paulo,Mongagua,DZSJRP-Pisces,13935,Rio Aguapeú,Characidium sp.,-24.10222,-46.73139,03,06,2011,2026-09-30
+Brasil,Minas Gerais,Tres Marias,DZSJRP-Pisces,19057,"Rio Curral das Éguas, BR040 de São Gonçalo do Abaeté a Três Marias, rio São Francisco",Characidium sp.,-18.12694,-45.41944,21,09,2013,2026-09-30
+Brasil,Minas Gerais,Francisco Dumont,DZSJRP-Pisces,19170,"Rio Imbaiacaia na estr de terra de Jequitaí a Fco Dumont, rio São Francisco",Characidium sp.,-17.31944,-44.28722,22,09,2013,2026-09-30
+Brasil,Minas Gerais,Itamarandiba,DZSJRP-Pisces,19155,"Riacho afl rio Itamarandiba, rio Jequitinhonha",Characidium sp.,-18.0975,-42.94556,26,09,2013,2026-09-30
+Brasil,Mato Grosso,Vila Bela Da Santissima Trindade,DZSJRP-Pisces,19456,"Córrego Paraíso na Fazenda Pelicano, Serra de Ricardo Franco, drenagem do rio Guaporé, afluente do rio Madeira.",Characidium sp.,-14.83806,-60.19306,27,03,2014,2026-09-30
+Brasil,Minas Gerais,Braunas,DZSJRP-Pisces,20104,"Riacho afluente do Sto. Antonio, drenagem do Doce",Characidium sp.,-19.03694,-42.71861,25,08,2014,2026-09-30
+Brasil,Minas Gerais,Braunas,DZSJRP-Pisces,20110,"Riacho na estr de terra de Guanhães à Braúnas, próx à Braúnas, rio Doce",Characidium sp.,-19.01611,-42.75972,26,08,2014,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,20168,"Riacho na vicinal a direita, estrada de terra, São Roque de Minas para São José do Barreiro, antes de Vargem Bonita, drenagem do São Francisco.",Characidium sp.,-20.32194,-46.39083,18,11,2014,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,20175,"Riacho Grande, estrada Vargem Bonita p/ São José do Barreiro, sentido Casca d'Anta, drenagem do rio São Francisco.",Characidium sp.,-20.33611,-46.46306,18,11,2014,2026-09-30
+Brasil,São Paulo,Bananal,DZSJRP-Pisces,20424,"Riacho após a Est. Ecológica de Bananal, rio Paraíba do Sul",Characidium sp.,-22.80722,-44.37167,26,05,2015,2026-09-30
+Brasil,Maranhão,Carolina,DZSJRP-Pisces,20862,"Ribeirão Lajes, próx à desembocadura no rio Farinha, Pq Nac da Chapada das Mesas, rio Tocantins",Characidium sp.,-6.93278,-47.38167,01,12,2015,2026-09-30
+Brasil,Rondônia,Alvorada D'Oeste,DZSJRP-Pisces,14435,"Bacia do rio Machado, drenagem do rio Madeira, ponto 2.",Characidium sp.,-11.49194,-62.41417,25,08,2011,2026-09-30
+Brasil,Rondônia,Nova Uniao,DZSJRP-Pisces,14520,"Bacia do rio Machado, drenagem do rio Madeira, ponto 6.",Characidium sp.,-10.81028,-62.42611,27,08,2011,2026-09-30
+Brasil,São Paulo,Casa Branca,DZSJRP-Pisces,19553,"Riacho afluente do rio Jaguari - Mirim, drenagem do rio Mogi-Guaçu. SJP13",Characidium sp.,-21.965,-46.98472,05,02,2014,2026-09-30
+Brasil,São Paulo,Rio Claro,DZSJRP-Pisces,7916,"Córrego Ibitinga, Ribeirão Claro, fazenda Jequitibá",Characidium sp.,-22.40306,-47.48667,02,03,2004,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,14266,"Córrego Olho D'agua, afluente do rio São Francisco.",Characidium sp.,-15.65528,-47.40611,23,09,2010,2026-09-30
+Brasil,Mato Grosso,Campos De Julio,DZSJRP-Pisces,13197,"Rio Formiga, afl rio Juruena, rio Tapajós, PCH Divisa, salvamento",Characidium sp.,-13.9,-59.14778,18,09,2010,2026-09-30
+Brasil,Mato Grosso,Campos De Julio,DZSJRP-Pisces,13198,"Rio Formiga, afl rio Juruena, rio Tapajós, PCH Divisa, salvamento",Characidium sp.,-13.9,-59.14778,18,09,2010,2026-09-30
+Brasil,Mato Grosso,Campos De Julio,DZSJRP-Pisces,16290,"Rio Juruena, afluente do Tapajós, PCH Segredo, salvamento.",Characidium sp.,-13.9,-59.14778,01,06,2012,2026-09-30
+Brasil,Goias,Alto Paraiso De Goias,DZSJRP-Pisces,13339,"Córrego dos Ingleses, 4 km do alojamento do IBAMA, Vila de São Jorge, rio Tocantins",Characidium sp.,-14.13556,-47.76583,01,01,1900,2026-09-30
+Brasil,Mato Grosso,Alto Taquari,DZSJRP-Pisces,19990,Afluente do rio Taquari.,Characidium sp.,-17.82667,-53.2825,01,04,2011,2026-09-30
+Brasil,Tocantins,Xambioa,DZSJRP-Pisces,18558,"Córrego do Zuza, drenagem do rio Araguaia. A1",Characidium sp.,-6.45833,-48.42028,31,10,2012,2026-09-30
+Brasil,Tocantins,Xambioa,DZSJRP-Pisces,18581,"Córrego do Zuza, drenagem do rio Araguaia, A4",Characidium sp.,-6.42972,-48.42472,31,10,2012,2026-09-30
+Brasil,Tocantins,Xambioa,DZSJRP-Pisces,18582,"Córrego do Zuza, drenagem do rio Araguaia, A4",Characidium sp.,-6.42972,-48.42472,31,10,2012,2026-09-30
+Brasil,São Paulo,Sete Barras,DZSJRP-Pisces,2319,"Rio Saíbadela, Parque Estadual Fazenda Intervales, rio Ribeira do Iguape",Characidium sp.,-24.38778,-47.93111,04,03,1994,2026-09-30
+Brasil,Minas Gerais,Aiuruoca,DZSJRP-Pisces,19951,"Córrego Corguinho, afluente do rio Ingaí.",Characidium sp.,-21.97611,-44.60333,01,02,2010,2026-09-30
+Brasil,Rio Grande do Sul,Maquine,DZSJRP-Pisces,11352,Rio Maquiné,Characidium sp.,-29.67556,-50.2075,01,01,1900,2026-09-30
+Brasil,Rio Grande do Sul,Maquine,DZSJRP-Pisces,11353,Rio Maquiné,Characidium sp.,-29.67556,-50.2075,01,01,1900,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,3659,"Represa Municipal de São José do Rio Preto, rio Grande",Characidium sp.,-20.8225,-51.50194,22,06,1982,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,102,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium sp.,-20.60889,-49.42028,21,08,1987,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,3806,Córrego da Barra Funda,Characidium sp.,-20.70194,-49.40611,07,10,1987,2026-09-30
+Brasil,Goias,Planaltina,DZSJRP-Pisces,22708,Afluente da margem esquerda do Ribeirão Cocal,Characidium xanthopterum,-15.1358972222,-48.5580555556,09,01,2019,2026-09-30
+Brasil,Goias,Rio Quente,DZSJRP-Pisces,15737,"Rio quente, abaixo da estação de tratamento de água de Rio Quente, drenagem do rio Paranaíba.",Characidium xanthopterum,-17.77556,-48.76556,07,03,2012,2026-09-30
+Brasil,Goias,Rio Quente,DZSJRP-Pisces,15744,"Rio Quente, sob ponte de madeira na Esplanada (área hoteis), drenagem Paranaíba.",Characidium xanthopterum,-17.77278,-48.75639,08,03,2012,2026-09-30
+Brasil,Goias,Caldas Novas,DZSJRP-Pisces,15767,"Riacho no Capão da Serra, drenagem do rio Paranaíba,.",Characidium xanthopterum,-17.84917,-48.65278,09,03,2012,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6508,"Riacho sem nome, afl. do Arapuca, Faz. Arapuca (Décio), Rio Paranaíba",Characidium xanthopterum,-17.09222,-48.72972,29,04,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6853,"Riacho sem nome (poça da nascente),Rio Corumbá,dren. do Rio Paranaíba,fazArapuca",Characidium xanthopterum,-17.0925,-48.72972,13,07,2004,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,13348,"Lagoa Barrenta, Res de Jupiá, rio Tietê",Characidium zebra,0,0,30,08,2007,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,7060,"Córrego sem nome, rio Corumbá, dren. do Paranaíba, GO-020, Km 82",Characidium xanthopterum,-17.06667,-48.73333,07,02,2005,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21507,"Riacho 03, Rio Aripuana",Characidium zebra,-10.1627777778,-59.4402777778,27,07,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21551,"Riacho A05, bacia do Rio Aripuanã",Characidium zebra,-10.1272222222,-59.4255555556,28,07,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21597,"Riacho A08, bacia do Rio Aripuana",Characidium zebra,-10.0461111111,-59.4563888889,29,07,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21650,"Riacho A11, bacia do Rio Aripuanã",Characidium zebra,-10.1375,-59.4158333333,31,07,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21688,"Riacho A14, bacia do Rio Aripuanã",Characidium zebra,-10.1152777778,-59.5247222222,01,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21749,"Riacho A17, bacia do Rio Aripuanã",Characidium zebra,-10.3494444444,-59.3619444444,NA,NA,NA,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21799,"Riacho A19, bacia do Rio Aripuanã",Characidium zebra,-10.4330555556,-59.3613888889,02,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21880,"Riacho A25, bacia do Rio Aripuanã",Characidium zebra,-11.4636111111,-59.0319444444,05,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21934,"Riacho A28, bacia do rio Aripuanã",Characidium zebra,-11.5352777778,-59.1941666667,09,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21983,"Riacho A30, bacia do Rio Aripuanã",Characidium zebra,-11.4675,-59.1247222222,09,08,2017,2026-09-30
+Brasil,São Paulo,Dourado,DZSJRP-Pisces,3966,"Rio Alambari, afl. rio Tietê, Br273 ou SP300 sentido Conchas",Characidium zebra,-22.09,-48.32194,01,01,1900,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,11423,"Rio Paraitinga, alto rio Tiete",Characidium zebra,-23.525,-45.78833,09,12,2008,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,6934,"Rio Paraitinga, (Tietê), próx. á divisa de Salesópolis",Characidium zebra,-23.52917,-45.76861,16,08,2004,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,12432,Córrego Corrente na Faz Corrente II (MMX),Characidium zebra,-20.51306,-55.39639,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,12875,"Rio Cachoeirão, Faz Taruana, rio Aquidauana, alto rio Paraguai",Characidium zebra,-20.50194,-55.25722,01,02,2008,2026-09-30
+Brasil,São Paulo,Narandiba,DZSJRP-Pisces,14360,"Córrego Água do Silveira, afluente do rio Paranapanema, fazenda do Sossego.",Characidium zebra,-22.59389,-52.55389,25,09,2011,2026-09-30
+Brasil,São Paulo,Patrocinio Paulista,DZSJRP-Pisces,12939,"Riacho afl do Ribeirão Sta Bárbara, rio Sapucai, rio Grande",Characidium zebra,-20.76639,-47.49972,02,11,2010,2026-09-30
+Brasil,São Paulo,Monte Aprazivel,DZSJRP-Pisces,15145,"Bacia do baixo Tietê, drenagem do Paraná, Ponto 1.",Characidium zebra,-20.72389,-49.87861,04,10,2011,2026-09-30
+Brasil,Minas Gerais,Uberlandia,DZSJRP-Pisces,21024,"córrego represado, afluente da margem esquerda do córrego Douradinho, próximo ao Pq Florestal Vertente Grande",Characidium zebra,-18.91907,-48.27762,19,07,2016,2026-09-30
+Brasil,São Paulo,Nhandeara,DZSJRP-Pisces,9223,"Ribeirão Bom Sucesso, abaixo da SP 461",Characidium zebra,-20.57722,-50.03306,25,07,2006,2026-09-30
+Brasil,Goias,Planaltina,DZSJRP-Pisces,22706,Afluente da margem esquerda do Ribeirão Cocal,Characidium zebra,-15.1358972222,-48.5580555556,09,01,2019,2026-09-30
+Brasil,Goias,Planaltina,DZSJRP-Pisces,22651,"Afluente da margem direita do Rib Cocal, no cruzamento com a GO 230",Characidium zebra,-15.1849805556,-47.6997277778,10,01,2019,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,13374,"Lagoa Flórida, Res de Jupiá, rio Tietê",Characidium zebra,0,0,11,09,2007,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,13414,"Lagoa Pernilongo, Res de Jupiá, rio Tietê",Characidium zebra,0,0,16,10,2007,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,10812,"Ribeirão Bananal, Bacia do Lago Paranoá no PNB, drenagem do Paraná",Characidium zebra,-15.72861,-47.91083,28,09,2006,2026-09-30
+Brasil,São Paulo,Cardoso,DZSJRP-Pisces,16084,"Ribeirão sem nome, afluente do Ribeirão Guariroba, drenagem do Turvo-Grande.",Characidium zebra,-20.11,-49.82333,13,07,2005,2026-09-30
+Brasil,São Paulo,Jaboticabal,DZSJRP-Pisces,17647,"Córrego Rico,bacia do rio Grande, drenagem do Alto rio Paraná.",Characidium zebra,-21.25056,-48.32028,31,12,2007,2026-09-30
+Brasil,São Paulo,Itirapina,DZSJRP-Pisces,8430,"Córrego da Lapa, trecho inferior",Characidium zebra,-22.37833,-47.7825,10,10,2002,2026-09-30
+Brasil,São Paulo,Lavinia,DZSJRP-Pisces,10321,"Ribeirão Água Fria, drenagem do Baixo Tietê",Characidium zebra,-21.06028,-51.01111,20,04,2007,2026-09-30
+Brasil,São Paulo,Santo Antonio Do Aracangua,DZSJRP-Pisces,10602,"Córrego do Bugio, Baixo Tietê",Characidium zebra,-20.75028,-50.75222,01,05,2007,2026-09-30
+Brasil,Mato Grosso do Sul,Inocencia,DZSJRP-Pisces,10726,"Riacho afluente do Rio Pântano, ponto 4b",Characidium zebra,-19.63694,-52.0325,21,07,2007,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17925,"Córrego Correntes, fazenda Correntes II, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.45556,-55.42139,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Anastacio,DZSJRP-Pisces,18010,"Córrego Acôgo, fazenda Boa Esperança, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.72417,-56.01722,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Anastacio,DZSJRP-Pisces,18011,"Córrego Acôgo, fazenda Boa Esperança, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.72417,-56.01722,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Anastacio,DZSJRP-Pisces,18066,"Afluente do córrego Acôgo, fazenda Boa Esperança, drenagem rio Aquidauana, alto rio Paraguai. AQDN 15",Characidium zebra,-20.73611,-56.03389,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17461,"Represa, fazenda Taruana, drenagem do alto rio Paraguai.",Characidium zebra,-20.50222,-55.26861,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17859,"Córrego Correntes, fazenda Correntes II, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.51306,-55.39639,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Anastacio,DZSJRP-Pisces,18067,"Afluente do córrego Acôgo, fazenda Boa Esperança, drenagem rio Aquidauana, alto rio Paraguai. AQDN 15",Characidium zebra,-20.73611,-56.03389,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,18130,"Rio Dois Irmãos do Buriti, fazenda Vô Fiorindo, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.59333,-55.44167,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17905,"Córrego Correntes, fazenda Correntes II, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.495,-55.41306,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17976,"Rio Cachoeirão, fazenda Taruana, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.50194,-55.25722,01,09,2008,2026-09-30
+Brasil,São Paulo,Promissao,DZSJRP-Pisces,18416,"Drenagem do rio Aguapeí, alto rio Paraná.",Characidium zebra,-21.53056,-49.85028,28,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,18812,"Represa, fazenda Vô Fiorindo, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.59472,-55.42278,01,01,1900,2026-09-30
+Brasil,São Paulo,Coroados,DZSJRP-Pisces,10931,"Córrego afl r Tietê, UGRHI Baixo Tietê",Characidium zebra,-21.21694,-50.24583,29,07,2007,2026-09-30
+Brasil,São Paulo,Pauliceia,DZSJRP-Pisces,15436,"Poço ao lado da estrada de terra, foz do Aguapeí, drenagem do Alto Paraná.",Characidium zebra,-21.13417,-51.79583,07,02,2012,2026-09-30
+Brasil,Goias,Rio Quente,DZSJRP-Pisces,15738,"Rio quente, abaixo da estação de tratamento de água de Rio Quente, drenagem do rio Paranaíba.",Characidium zebra,-17.77556,-48.76556,07,03,2012,2026-09-30
+Brasil,São Paulo,Novo Horizonte,DZSJRP-Pisces,9934,"Ribeirão Três Pontes, ponto 2, ponte na rod NHorizonte a Catanduva",Characidium zebra,-21.46472,-49.1875,21,12,2006,2026-09-30
+Brasil,São Paulo,Cafelandia,DZSJRP-Pisces,9951,"Riacho afl direto do rio Tietê, faz logo após a ponte sobre o rio, SP333 (m esq)",Characidium zebra,-21.64556,-49.32833,21,12,2006,2026-09-30
+Brasil,São Paulo,Estrela D'Oeste,DZSJRP-Pisces,4742,"Córrego do Veadão, afluente do rib. Santa Rita, Estância Cajueiro, rio Grande",Characidium zebra,-20.2075,-50.43917,18,08,2001,2026-09-30
+Brasil,São Paulo,Pontes Gestal,DZSJRP-Pisces,17706,"Rio Preto na área de lazer Cachoeira de São Roberto, drenagem Turvo-Grande. p1",Characidium zebra,-20.18583,-49.685,17,06,2012,2026-09-30
+Brasil,Rondônia,Machadinho D'Oeste,DZSJRP-Pisces,16777,"Bacia do rio machado, drenagem do rio Madeira, ponto 36.",Characidium zebra,-9.51444,-61.96528,25,06,2012,2026-09-30
+Brasil,Rondônia,Machadinho D'Oeste,DZSJRP-Pisces,16801,"Bacia do rio Machado, drenagem do rio Madeira, ponto 37.",Characidium zebra,-9.55528,-61.92917,25,06,2012,2026-09-30
+Brasil,São Paulo,Pontes Gestal,DZSJRP-Pisces,19507,"Cachoeira de São Roberto, rio Preto, drenagem do Turvo-Grande. P1",Characidium zebra,-20.18583,-49.685,14,12,2013,2026-09-30
+Brasil,Mato Grosso,Nobres,DZSJRP-Pisces,14810,"Rio Quebó, bacia do rio Cuiabazinho, drenagem do Paraguay. A beira da ponte da Br 248",Characidium zebra,-14.61611,-55.97861,29,08,2010,2026-09-30
+Brasil,São Paulo,Assis,DZSJRP-Pisces,20569,Represa Campestre.,Characidium zebra,-22.5975,-50.37056,25,10,2007,2026-09-30
+Brasil,São Paulo,Sao Joao Da Boa Vista,DZSJRP-Pisces,12317,"Riacho afl margem dir do Córrego da Cachoeira, Faz Cachoeira",Characidium zebra,-22.00389,-46.705,01,01,1900,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,16516,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,27,10,2012,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,14997,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 18",Characidium zebra,-9.61583,-62.26889,09,09,2011,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,15024,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 19.",Characidium zebra,-9.62444,-62.33694,10,09,2011,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,15093,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 22",Characidium zebra,-10.07028,-61.96917,22,10,2011,2026-09-30
+Brasil,Rondônia,Theobroma,DZSJRP-Pisces,15122,"Bacia do rio Machado, drenagem do rio Madeira, Ponto 23.",Characidium zebra,-10.14306,-61.90889,23,10,2011,2026-09-30
+Brasil,Rondônia,Rondônia,DZSJRP-Pisces,16544,"Bacia do Rio Machado, drenagem do rio Madeira, ponto 24.",Characidium zebra,-9.53611,-61.65417,08,06,2012,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,16594,"Bacia do rio Machado, drenagem do rio Madeira, ponto 26.",Characidium zebra,-9.54194,-61.64444,08,06,2012,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,16612,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 27",Characidium zebra,-9.54833,-61.62833,08,06,2012,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22058,"Riacho J04, bacia do Rio Juruena, Rio Tabajós",Characidium zebra,-11.5352777778,-58.7172222222,31,05,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22117,"Riacho J06, bacia do Rio Juruena, Rio Tapajós",Characidium zebra,-11.3697222222,-58.7713888889,01,06,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22170,"Riacho J08, bacia do Rio Juruena",Characidium zebra,-11.2552777778,-58.5961111111,02,06,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22283,"Riacho J15, drenagem do Rio Juruena",Characidium zebra,-11.3477777778,-58.7419444444,04,06,2018,2026-09-30
+Brasil,Mato Grosso,Cotriguacu,DZSJRP-Pisces,22510,"Riacho J25, bacia do rio Juruena",Characidium zebra,-9.9022222222,-58.5658333333,09,06,2018,2026-09-30
+Brasil,Mato Grosso,Cotriguacu,DZSJRP-Pisces,22576,"Riacho J28, bacia do Rio Juruena",Characidium zebra,-9.8119444444,-58.3388888889,10,06,2018,2026-09-30
+Brasil,Mato Grosso,Cotriguacu,DZSJRP-Pisces,22583,"Riacho J29, bacia do Rio Juruena",Characidium zebra,-9.1155555556,-58.4666666667,11,06,2018,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18839,"Afluente do rio Sepotuba, drenagem do rio Paraguai. TSA 2",Characidium zebra,-14.66611,-57.68639,22,11,2007,2026-09-30
+Brasil,São Paulo,Aparecida D'Oeste,DZSJRP-Pisces,19269,Córrego Água Ruim afluente do São Jospe dos Dourados. SDJ34,Characidium zebra,-20.51889,-50.92694,05,09,2013,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,6309,"Rio Borá, entre Nova Aliança e Potirendaba, drenagem do Tietê",Characidium zebra,-21.02167,-49.45972,22,11,2003,2026-09-30
+Brasil,São Paulo,General Salgado,DZSJRP-Pisces,5962,"Córrego Grande, Faz. Sta. Luzia, drenagem do SJDourados",Characidium zebra,-20.5975,-50.28167,17,04,2003,2026-09-30
+Brasil,São Paulo,Meridiano,DZSJRP-Pisces,5992,"Córrego São Domingos, Faz. Sta. Luzia, drenagem do SJDourados",Characidium zebra,-20.44417,-50.26333,24,05,2003,2026-09-30
+Brasil,São Paulo,Sao Joao De Iracema,DZSJRP-Pisces,6034,"Saltinho da Boa Vista, drenagem do São José dos Dourados",Characidium zebra,-20.52833,-50.32083,03,06,2003,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,7162,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium zebra,-20.64528,-49.40306,18,08,2003,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,7600,"Rio Boroboleta, rio Tietê, próx. Frig Nutribem, entre N.A. e Bady",Characidium zebra,-20.99889,-49.48889,30,04,2005,2026-09-30
+Brasil,São Paulo,Tanabi,DZSJRP-Pisces,9669,Córrego Cambão,Characidium zebra,-20.42333,-49.61611,09,07,2005,2026-09-30
+Brasil,São Paulo,Cardoso,DZSJRP-Pisces,9549,"Sem nome, afluente do Ribeirão Guariroba",Characidium zebra,-20.11,-49.82333,13,07,2005,2026-09-30
+Brasil,São Paulo,Nova Granada,DZSJRP-Pisces,9693,Córrego do Piau,Characidium zebra,-20.38472,-49.40056,14,07,2005,2026-09-30
+Brasil,São Paulo,Riolandia,DZSJRP-Pisces,9607,"Sem nome, afluente do Córrego Cuiabano",Characidium zebra,-20.095,-49.67278,15,07,2005,2026-09-30
+Brasil,São Paulo,Paulo De Faria,DZSJRP-Pisces,9614,Córrego Açoita Cavalo,Characidium zebra,-20.15194,-49.55667,15,07,2005,2026-09-30
+Brasil,São Paulo,Estrela D'Oeste,DZSJRP-Pisces,7340,Córrego do Desengano,Characidium zebra,-20.155,-50.4375,19,07,2004,2026-09-30
+Brasil,São Paulo,Coroados,DZSJRP-Pisces,6973,"Córrego do Baixote, mun. de Birigui, bacia do Baixo Tietê, trecho 2",Characidium zebra,-21.35583,-50.30056,06,02,2003,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,5785,"Córrego do Macaco, ponto 2, drenagem do rio Preto",Characidium zebra,-20.84111,-49.35194,16,10,2003,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,6536,"Rio Borboleta, drenagem do rio Tietê, Faz Cruzeiro",Characidium zebra,-20.98889,-49.48778,12,03,2004,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,6546,"Rio Borboleta,dren.do Tietê,sítio do Sr.Nelson Piton",Characidium zebra,-21.03528,-49.49139,12,03,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6852,"Riacho sem nome (poça da nascente),Rio Corumbá,dren. do Rio Paranaíba,fazArapuca",Characidium zebra,-17.0925,-48.72972,13,07,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6883,"Córrego sem nome, Rio Corumbá, dren.Paranaíba, faz. Arapuca,+ ou - 25Km daGO-020",Characidium zebra,-17.06861,-48.73306,25,07,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,7019,"Córrego sem nome, rio Corumbá, dren. do Paranaíba, GO-020, Km 82",Characidium zebra,-17.06667,-48.73333,01,11,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6981,"Córrego sem nome, rio Corumbá, drenagem do Paranaíba,GO-020, Km 78",Characidium zebra,-17.1,-48.73333,02,11,2004,2026-09-30
+Brasil,Mato Grosso do Sul,Angelica,DZSJRP-Pisces,7506,"Córrego Ouro Verde (Nascente), Rio Ivinhema",Characidium zebra,-22.15167,-53.81861,22,04,2005,2026-09-30
+Brasil,Mato Grosso do Sul,Nova Andradina,DZSJRP-Pisces,7570,"Córrego do Laranjal, Rio Ivinhema",Characidium zebra,-22.05167,-53.67306,23,04,2005,2026-09-30
+Brasil,São Paulo,Lavinia,DZSJRP-Pisces,7692,"Córrego 15 de janeiro, afluente do rio Aguapeí, faz Paturí/Queixada",Characidium zebra,-21.28333,-51.10028,11,07,2005,2026-09-30
+Brasil,Minas Gerais,Oliveira,DZSJRP-Pisces,8351,"Córrego do Açude, BR494 (Oliveira- SJDelRei), entrada à direita",Characidium zebra,-20.77889,-44.68167,10,12,2005,2026-09-30
+Brasil,Mato Grosso do Sul,Aparecida Do Taboado,DZSJRP-Pisces,8806,"Brejo Comprido (cabeceira), Reservatório de Ilha Solteira, dren. Paraná",Characidium zebra,-20.17611,-51.20528,26,08,2006,2026-09-30
+Brasil,Minas Gerais,Araguari,DZSJRP-Pisces,8666,"Córrego Vertente Grande, vicinal em terra da BR365, sent NW, acima cachoeira",Characidium zebra,-18.8675,-48.03222,05,09,2006,2026-09-30
+Brasil,Minas Gerais,Monte Carmelo,DZSJRP-Pisces,8681,"Corr Rancharia, Faz Castelhana 1, vicinal (terra) BR365",Characidium zebra,-18.87056,-47.39083,05,09,2006,2026-09-30
+Brasil,Minas Gerais,Serra Do Salitre,DZSJRP-Pisces,8698,"Corr Areia, vicinal (terra) MG187, após Salitre de Minas, sent SSalitre",Characidium zebra,-19.09028,-46.76583,06,09,2006,2026-09-30
+Brasil,Minas Gerais,Ibia,DZSJRP-Pisces,8714,"Riacho na rod Mario Rodrigues de Paiva, vicinal (terra) BR262, antes Araxá",Characidium zebra,-19.54861,-46.83417,07,09,2006,2026-09-30
+Brasil,Minas Gerais,Uberaba,DZSJRP-Pisces,10539,"Riacho Grotão, vicinal (terra) BR262, Faz N Sra Abadia",Characidium zebra,-19.69194,-47.71583,12,05,2007,2026-09-30
+Brasil,Goias,Morrinhos,DZSJRP-Pisces,10428,"Riacho em estrada de terra Buriti Alegre- Morrinhos, à direita na GO 419",Characidium zebra,-17.93944,-49.1525,07,06,2007,2026-09-30
+Brasil,Goias,Morrinhos,DZSJRP-Pisces,10429,Riacho sob ponte na GO 213,Characidium zebra,-17.72417,-49.04722,07,06,2007,2026-09-30
+Brasil,São Paulo,Aguas De Santa Barbara,DZSJRP-Pisces,11316,"Rio Guarantã, Estação Ecológica Águas de Santa Bárbara",Characidium zebra,-22.80417,-49.25222,16,09,2008,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12242,"Cabeceira do rio Corrente, Fazenda Romera",Characidium zebra,-17.23361,-53.7375,11,08,2009,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12261,"Córrego São João, Sítio Vaca Preta, na MT370, sentido Itiquira",Characidium zebra,-17.19944,-54.15694,12,08,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Aparecida Do Taboado,DZSJRP-Pisces,12639,"Córrego da Divisa, rio Quitéria, Alto Paraná",Characidium zebra,-20.05389,-51.22194,29,05,2010,2026-09-30
+Brasil,Mato Grosso do Sul,Aparecida Do Taboado,DZSJRP-Pisces,12649,"Riacho acima da represa de captação da usina de álcool, rio Quitéria, Alto Paraná",Characidium zebra,-20.09833,-51.29278,30,05,2010,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12555,"Cabeceira do rio Corrente, Fazenda Romera",Characidium zebra,-17.23361,-53.7375,03,06,2010,2026-09-30
+Brasil,Mato Grosso,Rondonopolis,DZSJRP-Pisces,12586,"Riacho sob ponte em estr terra, vicinal à dir da MT370, sent Itiquira-Rondonópol",Characidium zebra,-17.17333,-54.35667,04,06,2010,2026-09-30
+Brasil,Mato Grosso,Rondonopolis,DZSJRP-Pisces,12601,"Riacho em estr de terra à esq na BR163, sentido Rondonópolis",Characidium zebra,-17.05167,-54.77056,05,06,2010,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,12951,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,27,11,2010,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,12965,"Rio Cubatão, drenagem do rio Tietê",Characidium zebra,-21.17361,-49.3975,27,11,2010,2026-09-30
+Brasil,Minas Gerais,Delfim Moreira,DZSJRP-Pisces,14022,"Rio Santo Antônio, bairro Água Limpa, km 81 Estr Itajubá-Delfim Moreira, rio Grande",Characidium zebra,-22.46667,-45.35333,07,08,2011,2026-09-30
+Brasil,Minas Gerais,Cachoeira De Minas,DZSJRP-Pisces,14037,"Riacho na MG173, entre Cachoeira de Minas e Carmo dos Ouros, rio Sapucaí-Mirim, rio Grande",Characidium zebra,-22.37861,-45.77222,08,08,2011,2026-09-30
+Brasil,São Paulo,Queiroz,DZSJRP-Pisces,14072,"Riacho sob ponte próximo a canavial, afluente do rio Tibiriçá, rio Aguapeí.",Characidium zebra,-21.78444,-50.14389,28,08,2011,2026-09-30
+Brasil,Minas Gerais,Presidente Olegario,DZSJRP-Pisces,19051,"Riacho em pasto na estr Pres Olegário à Galena, após Galena no sentido da BR365, rio São Francisco",Characidium zebra,-18.30556,-46.09611,21,09,2013,2026-09-30
+Brasil,Minas Gerais,Bocaiuva,DZSJRP-Pisces,19091,"Córrego da Cachoeira sob ponte na BR135, rio São Francisco",Characidium zebra,-17.1475,-43.82583,22,09,2013,2026-09-30
+Brasil,Minas Gerais,Capelinha,DZSJRP-Pisces,19122,"Riacho afl do rio Itamarandiba, na estr Capelinha à Aricanduva, rio Jequitinhonha",Characidium zebra,-17.81944,-42.56917,25,09,2013,2026-09-30
+Brasil,Mato Grosso,Vila Bela Da Santissima Trindade,DZSJRP-Pisces,19476,"Riacho na estrada de terra, antes da entrada do Parque Estadual da Serra de Ricardo Franco, drenagem do rio Guaporé, afluente do rio Madeira.",Characidium zebra,-14.96917,-59.9825,28,03,2014,2026-09-30
+Brasil,Maranhão,Carolina,DZSJRP-Pisces,20831,"Rio Farinha, à jusante da Cach de São Romão, Pq Nac da Chapada das Mesas, rio Tocantins",Characidium zebra,-7.02056,-47.04083,27,11,2015,2026-09-30
+Brasil,Maranhão,Carolina,DZSJRP-Pisces,20810,"Ribeirão Cancela, próx ao limite do Pq Nac da Chapada das Mesas, afl rio Farinha, rio Tocantins",Characidium zebra,-7.06472,-47.28111,28,11,2015,2026-09-30
+Brasil,Maranhão,Carolina,DZSJRP-Pisces,20824,"Riacho Velho, Pq Nac da Chapada das Mesas, Tocantins",Characidium zebra,-6.95306,-47.26222,02,12,2015,2026-09-30
+Brasil,São Paulo,Itajobi,DZSJRP-Pisces,14348,"Córrego afluente da margem direita do ribeirão dos Porcos, próximo a Vila do Açaí, drenagem do rio Tietê.",Characidium zebra,-21.47111,-48.84528,06,09,2011,2026-09-30
+Brasil,Rondônia,Nova Uniao,DZSJRP-Pisces,14519,"Bacia do rio Machado, drenagem do rio Madeira, ponto 6.",Characidium zebra,-10.81028,-62.42611,27,08,2011,2026-09-30
+Brasil,Rondônia,Theobroma,DZSJRP-Pisces,16898,Bacia do rio Machado. drenagem do rio Madeira. Ponto 41.,Characidium zebra,-10.30333,-62.64444,29,06,2012,2026-09-30
+Brasil,Rondônia,Presidente Medici,DZSJRP-Pisces,16996,"Bacia do rio Machado, drenagem do rio Madeira. ponto 48.",Characidium zebra,-11.00278,-61.83611,06,07,2012,2026-09-30
+Brasil,Rondônia,Nova Brasilandia D'Oeste,DZSJRP-Pisces,17023,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 49.",Characidium zebra,-11.36417,-62.05528,07,07,2012,2026-09-30
+Brasil,Rondônia,Ji-Parana,DZSJRP-Pisces,17084,"Bacia do rio Machado, drenagem do rio Madeira, ponto 52.",Characidium zebra,-11.015,-61.99278,09,07,2012,2026-09-30
+Brasil,Rondônia,Ji-Parana,DZSJRP-Pisces,17109,"Bacia do rio Machado, drenagem do rio Madeira, ponto 53.",Characidium zebra,-11.0575,-61.97944,09,07,2012,2026-09-30
+Brasil,Rondônia,Ji-Parana,DZSJRP-Pisces,17118,"Bacia do rio Machado, drenagem do rio Madeira, ponto 54.",Characidium zebra,-11.09194,-61.9775,09,07,2012,2026-09-30
+Brasil,Rondônia,Alvorada D'Oeste,DZSJRP-Pisces,17143,"Bacia do rio Machado, drenagem do rio Madeira, ponto 55.",Characidium zebra,-11.33972,-62.18472,10,07,2012,2026-09-30
+Brasil,Rondônia,Cacoal,DZSJRP-Pisces,17199,"Bacia do rio Machado, drenagem do rio Madeira, ponto 57.",Characidium zebra,-11.42972,-61.53444,11,07,2012,2026-09-30
+Brasil,Rondônia,Castanheiras,DZSJRP-Pisces,17233,"Bacia do rio Machado, drenagem do rio Madeira, ponro 59.",Characidium zebra,-11.46944,-61.79722,12,07,2012,2026-09-30
+Brasil,Rondônia,Vilhena,DZSJRP-Pisces,17262,"Bacia do rio Machado, drenagem do rio Madeira, ponto 61.",Characidium zebra,-12.87333,-60.46278,15,07,2012,2026-09-30
+Brasil,Rondônia,Chupinguaia,DZSJRP-Pisces,17285,"Bacia do rio Machado, drenagem do rio Madeira, ponto 65.",Characidium zebra,-12.81083,-60.65389,17,07,2012,2026-09-30
+Brasil,Rondônia,Chupinguaia,DZSJRP-Pisces,17297,"Bacia do rio Machado, drenagem do rio Madeira, ponto 66.",Characidium zebra,-12.85139,-60.63278,17,07,2012,2026-09-30
+Brasil,Rondônia,Primavera De Rondonia,DZSJRP-Pisces,17308,"Bacia do rio Machado, drenagem do rio Madeira, ponto 67.",Characidium zebra,-11.7625,-61.27472,19,07,2012,2026-09-30
+Brasil,Rondônia,Rolim De Moura,DZSJRP-Pisces,17358,"Bacia do rio Machado, drenagem do rio Madeira, ponto 71.",Characidium zebra,-11.83806,-61.56139,20,07,2012,2026-09-30
+Brasil,Rondônia,Rolim De Moura,DZSJRP-Pisces,17398,"Bacia do rio Machado, drenagem do rio Madeira, ponto 73.",Characidium zebra,-11.74556,-61.54722,20,07,2012,2026-09-30
+Brasil,Rondônia,Sao Felipe D'Oeste,DZSJRP-Pisces,17437,"Bacia do rio Machado, drenagem do rio Madeira, ponto 75.",Characidium zebra,-11.87028,-61.42667,21,07,2012,2026-09-30
+Brasil,São Paulo,Salto De Pirapora,DZSJRP-Pisces,13645,"Rio Sarapuí, rio Tietê",Characidium zebra,-23.71028,-47.59111,03,09,2010,2026-09-30
+Brasil,São Paulo,Catanduva,DZSJRP-Pisces,15702,"Córrego do Matão, alto rio Paraná.",Characidium zebra,-20.93472,-48.91,31,12,2011,2026-09-30
+Brasil,São Paulo,Catanduva,DZSJRP-Pisces,15703,Junção do córrego da Estiva com o córrego Catiguazinho.,Characidium zebra,-21.07417,-49.02028,31,12,2011,2026-09-30
+Brasil,São Paulo,Sao Joao Da Boa Vista,DZSJRP-Pisces,19223,"Afluente do rio Jaguari-Mirim, drenagem do rio Grande.",Characidium zebra,-21.94306,-46.92056,12,07,2013,2026-09-30
+Brasil,São Paulo,Dracena,DZSJRP-Pisces,16431,"Córrego do Prado, Rio do Peixe.",Characidium zebra,-21.64972,-51.54333,14,12,2011,2026-09-30
+Brasil,São Paulo,Dracena,DZSJRP-Pisces,16432,"Córrego do Prado, Rio do Peixe.",Characidium zebra,-21.64972,-51.54333,14,12,2011,2026-09-30
+Brasil,São Paulo,Bocaina,DZSJRP-Pisces,16416,"Afluente do ribeirão da Bocaina, rio Jacaré-Pepira, bacia do rio Tiête.",Characidium zebra,-22.10722,-48.48278,26,03,2012,2026-09-30
+Brasil,São Paulo,Bocaina,DZSJRP-Pisces,16410,"Ribeirão da Boa Vista, rio Jacaré-Pepira, rio Tietê",Characidium zebra,-22.12583,-48.41694,28,03,2012,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,17615,"Córrego da Roseira, rio Cubatão, rio Tietê.",Characidium zebra,-21.10722,-49.33667,25,07,2012,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,17620,"Córrego do Coqueiral, rio Tietê, drenagem do Alto rio Paraná.",Characidium zebra,-21.14861,-49.46167,25,07,2012,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,17632,"Afluente do Ribeirão Barro Grande, drenagem do Tietê.",Characidium zebra,-21.19167,-49.39417,26,07,2012,2026-09-30
+Brasil,São Paulo,Catanduva,DZSJRP-Pisces,17579,"Rio São domingos, bacia do Turvo-Grande.",Characidium zebra,-20.99667,-48.95722,27,07,2012,2026-09-30
+Brasil,São Paulo,Novais,DZSJRP-Pisces,17592,"Córrego do Matão, afluente do Ribeirão da Onça, afluente do rio São Domingos, drenagem do rio Turvo - Grande, alto rio Paraná.",Characidium zebra,-20.93472,-48.91,27,07,2012,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,18534,"Córrego da Roseira, rio Cubatão, rio Tietê.",Characidium zebra,-21.10722,-49.33667,30,10,2012,2026-09-30
+Brasil,São Paulo,Bocaina,DZSJRP-Pisces,18490,Bacia do rio Tietê.,Characidium zebra,-22.05556,-48.48583,31,10,2012,2026-09-30
+Brasil,Minas Gerais,Delfim Moreira,DZSJRP-Pisces,13956,"Rio Sto Antonio, à jusante da Cachoeira Ninho da Águia, afl rio Sapucaí, rio Grande",Characidium zebra,-22.46833,-45.35,15,06,2011,2026-09-30
+Brasil,Mato Grosso,Denise,DZSJRP-Pisces,18932,"riacho da drenagem do rio Paraguai, ponto 1",Characidium zebra,-14.74056,-57.05417,01,01,1900,2026-09-30
+Brasil,São Paulo,Itirapina,DZSJRP-Pisces,7976,"Passa Cinco, bairro Cantagalo, Córrego Cantagalo",Characidium zebra,-22.40139,-47.81083,22,02,2003,2026-09-30
+Brasil,São Paulo,Itirapina,DZSJRP-Pisces,7946,"Rio Passa Cinco, bairro Passa cinco, afluente da margem dir. do Rio Passa Cinco",Characidium zebra,-22.36194,-47.81917,18,07,2003,2026-09-30
+Brasil,São Paulo,Itirapina,DZSJRP-Pisces,8003,"Rio Passa Cinco, fazenda Sinimbú, afluente da margem direita do Rib. Pirapitinga",Characidium zebra,-22.30917,-47.83472,10,03,2004,2026-09-30
+Brasil,NA,NA,DZSJRP-Pisces,7925,Alto rio Paraná.,Characidium zebra,0,0,18,03,2004,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,14174,"Rio da Palma (PARNA BsB), afluente do rio Maranhão, drenagem do Tocantins-Araguaia.",Characidium zebra,-15.52778,-48.06583,29,09,2010,2026-09-30
+Brasil,Goias,NA,DZSJRP-Pisces,14243,"Rio Preto, afluente do rio São Francisco.",Characidium zebra,-15.66806,-47.25833,18,11,2010,2026-09-30
+Brasil,Goias,Cavalcante,DZSJRP-Pisces,21053,"Rio Conceição, Reserva Natural Serra do Tombador, Fundação O Boticário, pt 1, cachoeira",Characidium zebra,-13.63433,-47.84352,18,11,2016,2026-09-30
+Brasil,São Paulo,Icem,DZSJRP-Pisces,9421,"Lagoa 45, rio Turvo",Characidium zebra,-20.41556,-49.265,23,09,2005,2026-09-30
+Brasil,São Paulo,Nova Granada,DZSJRP-Pisces,9447,"Lagoa do Ganzella, rio Turvo",Characidium zebra,-20.41972,-49.26667,23,03,2006,2026-09-30
+Brasil,São Paulo,Nova Granada,DZSJRP-Pisces,9353,"Lagoa Federal, rio Turvo",Characidium zebra,-20.37972,-49.27722,29,03,2006,2026-09-30
+Brasil,Mato Grosso do Sul,NA,DZSJRP-Pisces,18644,"Rio Salobra, drenagem do Alto Paraguai",Characidium zebra,0,0,29,05,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13757,"Córrego Olaria, Propriedade Chantal",Characidium zebra,-21.02972,-56.61556,30,05,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13772,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium zebra,-19.05,-52.14861,06,06,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13828,"Córrego Luciano, entorno PARNA S. da Canastra, entrada do pq sob ponte",Characidium zebra,-20.31278,-46.5375,16,06,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13724,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium zebra,-21.035,-56.615,21,07,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13748,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium zebra,-20.75861,-56.75194,24,07,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13781,"Ribeirão Grande, Faz do Sr Lázaro",Characidium zebra,-19.18556,-51.33917,31,07,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13750,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium zebra,-20.75861,-56.75194,26,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13798,Córrego Gallheiro,Characidium zebra,-19.08667,-51.885,02,10,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13761,"Córrego Olaria, Propriedade Chantal",Characidium zebra,-21.02972,-56.61556,14,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13728,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium zebra,-21.035,-56.615,15,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13770,"Córrego Mutum, propriedade do Sr Jorge",Characidium zebra,-21.30028,-56.43556,16,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13782,"Ribeirão Grande, Faz do Sr Lázaro",Characidium zebra,-19.18556,-51.33917,28,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13800,Córrego Gallheiro,Characidium zebra,-19.08667,-51.885,28,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13763,"Córrego Olaria, Propriedade Chantal",Characidium zebra,-21.02972,-56.61556,19,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13742,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium zebra,-20.685,-56.77778,25,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13777,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium zebra,-19.05,-52.14861,30,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13802,Córrego Ritinha,Characidium zebra,-19.16361,-51.66944,31,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13765,"Córrego Olaria, Propriedade Chantal",Characidium zebra,-21.02972,-56.61556,05,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13810,"Córrego Mutum, propriedade do Sr Jorge",Characidium zebra,-21.30028,-56.43556,06,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13732,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium zebra,-21.035,-56.615,09,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13756,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium zebra,-20.75861,-56.75194,10,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13744,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium zebra,-20.685,-56.77778,11,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13779,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium zebra,-19.05,-52.14861,16,03,2009,2026-09-30
+Brasil,Mato Grosso,Barra Do Garcas,DZSJRP-Pisces,19857,"Córrego fundo II, bacia do Araguaia.",Characidium zebra,-15.89056,-52.25694,31,10,2005,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13784,"Ribeirão Grande, Faz do Sr Lázaro",Characidium zebra,-19.18556,-51.33917,17,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13803,Córrego Ritinha,Characidium zebra,-19.16361,-51.66944,18,03,2009,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,7215,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,15,10,2002,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,7255,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,26,02,2003,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,7167,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,22,08,2003,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,7238,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,01,12,2003,2026-09-30
+Brasil,São Paulo,Brejo Alegre,DZSJRP-Pisces,18329,"Drenagem do rio Tietê, alto rio Paraná.",Characidium zebra,-21.16056,-50.18028,25,10,2008,2026-09-30
+Brasil,São Paulo,Luis Antonio,DZSJRP-Pisces,17503,"Córrego Beija Flor, estação ecológica Jataí. P3",Characidium zebra,-21.55056,-47.70028,09,11,2011,2026-09-30
+Brasil,São Paulo,Luis Antonio,DZSJRP-Pisces,17526,"Córrego Beija Flor, estação ecológica Jataí. P3",Characidium zebra,-21.55056,-47.70028,03,07,2012,2026-09-30
+Brasil,São Paulo,Promissao,DZSJRP-Pisces,18410,"Barragem de Promissão, Br153 sentido Promissão-Ubarana, drenagem do rio Tietê",Characidium zebra,-21.53056,-49.85028,28,08,1980,2026-09-30
+Brasil,São Paulo,Mirassolandia,DZSJRP-Pisces,18379,"Rio Preto - Macaúbas (lagoas e entrada das lagoas marginais), rio Grande",Characidium zebra,-20.61667,-49.46389,13,02,1990,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,18344,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,17,01,1997,2026-09-30
+Brasil,Minas Gerais,Carmo Do Rio Claro,DZSJRP-Pisces,21138,"Afluente do Rio Sapucai, alto Paraná",Characidium zebra,-21.0123138889,-46.0886472222,13,04,2017,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,20473,"Córrego Itaúna, área aberta, drenagem do rio Paranapanema",Characidium zebra,-23.16639,-48.62556,25,09,2014,2026-09-30
+Brasil,Minas Gerais,Juiz De Fora,DZSJRP-Pisces,19011,"Rio do Peixe ( trecho de vazão reduzida), drenagem do rio Paraíba do Sul.",Characidium alipioi,-21.88694,-43.54111,15,12,2012,2026-09-30
+Brasil,Rio de Janeiro,Silva Jardim,DZSJRP-Pisces,13887,"Riacho na RJ126, drenagem do rio São João",Characidium alipioi,-22.58167,-42.57167,31,05,2011,2026-09-30
+Brasil,Rio Grande do Norte,Taipu,DZSJRP-Pisces,15271,Rio Ceará Mirim. Distrito de Umari.,Characidium bimaculatum,-5.62972,-35.61694,14,07,2001,2026-09-30
+Brasil,Rio Grande do Norte,Taipu,DZSJRP-Pisces,15272,Rio Ceará Mirim. Distrito de Umari.,Characidium bimaculatum,-5.62972,-35.61694,27,04,2002,2026-09-30
+Brasil,São Paulo,Penapolis,DZSJRP-Pisces,2333,"Vazante da Represa do Colégio Agrícola de Penápolis, drenagem do rio Tietê",Characidium fasciatum,-21.41444,-50.07694,08,02,1988,2026-09-30
+Brasil,Goias,Planaltina,DZSJRP-Pisces,22707,Afluente da margem esquerda do Ribeirão Cocal,Characidium fasciatum,-15.1358972222,-48.5580555556,09,01,2019,2026-09-30
+Brasil,São Paulo,Jose Bonifacio,DZSJRP-Pisces,736,"Riacho afluente do rio Tietê, km 93 da Br 153",Characidium fasciatum,-21.05278,-49.68833,12,02,1988,2026-09-30
+Brasil,Minas Gerais,Bom Despacho,DZSJRP-Pisces,2914,"Rio Capivari, vicinal à direita na Br 262, afluente do rio São Francisco",Characidium fasciatum,-19.82889,-45.23806,14,08,1998,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,734,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,04,10,1988,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,4159,"Córrego da Boa Esperança; ponte onde passaria a br 153, drenagem do rio Grande",Characidium fasciatum,-20.89333,-49.41083,18,10,1998,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13792,"Córrego Cedro, Faz do Sr Orizon",Characidium gomesi,-19.15333,-51.75028,27,11,2008,2026-09-30
+Brasil,São Paulo,Jacupiranga,DZSJRP-Pisces,3150,"Fazenda S.E.A.R.A. (riacho dentro da mata), drenagem do rio Ribeira do Iguape",Characidium fasciatum,-24.6925,-48.00222,16,08,1985,2026-09-30
+Brasil,São Paulo,Adolfo,DZSJRP-Pisces,743,"Cabeceira do Ribeirão Barra Mansa, afl. do rio Tietê, estrada p/ Adolfo",Characidium fasciatum,-21.23056,-49.64028,11,04,1968,2026-09-30
+Brasil,São Paulo,Macaubal,DZSJRP-Pisces,4321,"Ribeirão Santa Bárbara (espraiado), afluente do rio Tiête",Characidium fasciatum,-20.96722,-50.01861,18,08,2000,2026-09-30
+Brasil,São Paulo,Macaubal,DZSJRP-Pisces,4333,"Ribeirão Santa Bárbara (corredeira), afluente do rio Tiête",Characidium fasciatum,-20.96639,-50.01833,18,08,2000,2026-09-30
+Brasil,Minas Gerais,Oliveira,DZSJRP-Pisces,8598,"Córrego do Açude, BR494 (Oliveira- SJDelRei), entrada à direita",Characidium fasciatum,-20.77889,-44.68167,23,05,2006,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12248,"Rio Itiquira, próximo ao Sítio do Tonico Boa Pessoa",Characidium fasciatum,-17.20111,-54.13833,12,08,2009,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12262,"Córrego São João, Sítio Vaca Preta, na MT370, sentido Itiquira",Characidium fasciatum,-17.19944,-54.15694,12,08,2009,2026-09-30
+Brasil,Mato Grosso,Rondonopolis,DZSJRP-Pisces,12273,"Riacho sob ponte em estr terra, vicinal à dir da MT370, sent Itiquira-Rondonópol",Characidium fasciatum,-17.17333,-54.35667,13,08,2009,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12577,"Córrego São João, Sítio Vaca Preta, na MT370, sentido Itiquira",Characidium fasciatum,-17.19944,-54.15694,04,06,2010,2026-09-30
+Brasil,São Paulo,Macaubal,DZSJRP-Pisces,3695,"Ribeirão Santa Bárbara (espraiado), afluente do rio Tiête",Characidium fasciatum,-20.96722,-50.01861,19,11,1999,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,724,"2o.riacho afl. do cór. Barra Funda, após Ipiguá, próx. curso médio, rio Grande",Characidium fasciatum,-20.65667,-49.38722,20,10,1989,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,676,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,28,08,1982,2026-09-30
+Brasil,Minas Gerais,Quartel Geral,DZSJRP-Pisces,19006,"Córrego do Jacu, drenagem do rio São Francisco. UFLA 6825",Characidium fasciatum,-19.31778,-45.5125,05,09,2010,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,14223,"Rio Piripipau, afluente do rio São Bartolomeu, drenagem do Alto rio Paraná.",Characidium fasciatum,-15.58139,-47.50583,24,09,2010,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,14191,"Córrego do Buraco, afluente do rio Maranhão, drenagem do Tocantins - Araguaia.",Characidium fasciatum,-15.59694,-47.90917,28,09,2010,2026-09-30
+Brasil,Goias,Formosa,DZSJRP-Pisces,14251,"Córrego Santo Inácio, afluente do rio São Francisco.",Characidium fasciatum,-15.72444,-47.16667,18,11,2010,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13804,"Córrego Mutum, propriedade do Sr Jorge",Characidium fasciatum,-21.30028,-56.43556,24,05,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13745,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium fasciatum,-20.75861,-56.75194,27,05,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Miranda,DZSJRP-Pisces,13715,"Córrego Taquaral, Faz do Sr Faete, PARNA Serra da Bodoquena",Characidium fasciatum,-20.10389,-56.63333,31,05,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13811,"Córrego Grande, entorno Parna S. Canastra, propriedade Sr Elmo",Characidium fasciatum,-20.34028,-46.46556,19,06,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13758,"Córrego Olaria, Propriedade Chantal",Characidium fasciatum,-21.02972,-56.61556,22,07,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Miranda,DZSJRP-Pisces,13716,"Córrego Taquaral, Faz do Sr Faete, PARNA Serra da Bodoquena",Characidium fasciatum,-20.10389,-56.63333,23,07,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13747,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium fasciatum,-20.75861,-56.75194,24,07,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13785,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium fasciatum,-19.05,-52.14861,04,08,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13812,"Córrego Grande, entorno Parna S. Canastra, propriedade Sr Elmo",Characidium fasciatum,-20.34028,-46.46556,06,08,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13829,"Córrego Luciano, entorno PARNA S. da Canastra, entrada do pq sob ponte",Characidium fasciatum,-20.31278,-46.5375,07,08,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13725,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium fasciatum,-21.035,-56.615,24,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13749,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium fasciatum,-20.75861,-56.75194,26,09,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13830,"Córrego Luciano, entorno PARNA S. da Canastra, entrada do pq sob ponte",Characidium fasciatum,-20.31278,-46.5375,07,10,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13818,"Córrego Cerrado, entorno PARNA s. Canastra, propriedade Sr. Joaquim Evaristo",Characidium fasciatum,-20.33333,-46.47528,09,10,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13834,"Córrego Lavra, entorno PARNA S. da Canastra, propr. Sr. Vítor, à montante ponte",Characidium fasciatum,-20.31,-46.43306,09,10,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13760,"Córrego Olaria, Propriedade Chantal",Characidium fasciatum,-21.02972,-56.61556,14,09,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13819,"Córrego Cerrado, entorno PARNA s. Canastra, propriedade Sr. Joaquim Evaristo",Characidium fasciatum,-20.33333,-46.47528,09,12,2008,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13824,"Córrego Cachoeirinha, entorno PARNA S. da Canastra, em frente à Brazil. Diamonds",Characidium fasciatum,-20.32417,-46.5375,10,12,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Miranda,DZSJRP-Pisces,13719,"Córrego Taquaral, Faz do Sr Faete, PARNA Serra da Bodoquena",Characidium fasciatum,-20.10389,-56.63333,21,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13741,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium fasciatum,-20.685,-56.77778,25,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13776,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium fasciatum,-19.05,-52.14861,30,01,2009,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13825,"Córrego Cachoeirinha, entorno PARNA S. da Canastra, em frente à Brazil. Diamonds",Characidium fasciatum,-20.32417,-46.5375,07,02,2009,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13815,"Córrego Grande, entorno Parna S. Canastra, propriedade Sr Elmo",Characidium fasciatum,-20.34028,-46.46556,08,02,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13809,"Córrego Mutum, propriedade do Sr Jorge",Characidium fasciatum,-21.30028,-56.43556,06,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13731,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium fasciatum,-21.035,-56.615,09,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13755,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium fasciatum,-20.75861,-56.75194,10,03,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13789,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium fasciatum,-19.05,-52.14861,16,03,2009,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13816,"Córrego Grande, entorno Parna S. Canastra, propriedade Sr Elmo",Characidium fasciatum,-20.34028,-46.46556,25,03,2009,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,13826,"Córrego Cachoeirinha, entorno PARNA S. da Canastra, em frente à Brazil. Diamonds",Characidium fasciatum,-20.32417,-46.5375,26,03,2009,2026-09-30
+Brasil,Minas Gerais,Agua Comprida,DZSJRP-Pisces,18655,"Reservatório de Volta Grande, rio Grande",Characidium sp.,-19.91806,-48.0875,01,11,2011,2026-09-30
+Brasil,São Paulo,Palestina,DZSJRP-Pisces,711,"Córrego Formiga, Sítio Santa Isabel, afluente do rio Grande",Characidium fasciatum,-20.39,-49.43306,27,05,1984,2026-09-30
+Brasil,São Paulo,Cedral,DZSJRP-Pisces,720,Córrego da Abelha,Characidium fasciatum,-20.8525,-49.23444,16,06,1984,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,690,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,31,03,1980,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,689,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,19,04,1980,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,692,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,10,05,1980,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,695,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,04,07,1980,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,699,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,04,07,1980,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,697,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,04,08,1980,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,685,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,04,10,1980,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,684,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,27,01,1981,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,691,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,27,01,1981,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,703,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,02,03,1981,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,701,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,24,07,1981,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,704,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,24,08,1981,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,731,"Represa Municipal de São José do Rio Preto, rio Grande",Characidium fasciatum,-20.8225,-51.50194,25,08,1981,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,696,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,24,10,1981,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,683,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,08,05,1982,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,709,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,22,11,1982,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,708,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,18,02,1983,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,712,"Represa Municipal de São José do Rio Preto, rio Grande",Characidium fasciatum,-20.8225,-51.50194,03,08,1983,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,3358,"Ribeirão da Barra Grande, afluente do rio Grande, Fazenda Três Barras",Characidium fasciatum,0,0,28,10,1983,2026-09-30
+Brasil,São Paulo,Mirassolandia,DZSJRP-Pisces,2840,"Rio Preto - Macaúbas (lagoas e entrada das lagoas marginais), rio Grande",Characidium fasciatum,-20.61667,-49.46389,29,04,1985,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,1975,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,20,08,1986,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,3489,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,12,08,1987,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,723,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,23,09,1987,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,728,"2° córrego afluente do rib. Barra Mansa, afl. rio Tietê, estrada Irapuã-Mendonça",Characidium fasciatum,-21.27056,-49.40028,12,04,1988,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,715,"Represa Municipal de São José do Rio Preto, rio Grande",Characidium fasciatum,-20.8225,-51.50194,01,09,1988,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,681,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium fasciatum,-20.60889,-49.42028,23,11,1988,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,719,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium fasciatum,-20.64528,-49.40306,07,12,1988,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,718,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,09,12,1988,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,714,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,26,02,1989,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,678,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,09,01,1990,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,3510,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium fasciatum,-21.19111,-49.39333,23,03,1993,2026-09-30
+Brasil,São Paulo,Brotas,DZSJRP-Pisces,722,"Bacia do Rio Jacaré - Pepira, afluente do rio Tietê",Characidium fasciatum,-22.27917,-48.11639,31,01,1988,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18832,"Afluente do rio Sepotuba, drenagem do rio Paraguai. TSA 2",Characidium gomesi,-14.66611,-57.68639,22,11,2007,2026-09-30
+Brasil,São Paulo,Florida Paulista,DZSJRP-Pisces,3609,"Ribeirão Santa Maria, afl. do rio do Peixe, rio Paraná, vicinal para Flora Rica",Characidium fasciatum,-21.61056,-51.17028,01,10,1987,2026-09-30
+Brasil,São Paulo,Adamantina,DZSJRP-Pisces,2039,"Nasc. r. Tucuruvi, afl. do r. Feio ou Aguapeí Vermelho, 4Km da cidade, r. Paraná",Characidium fasciatum,-21.68056,-51.07028,21,10,1987,2026-09-30
+Brasil,São Paulo,Dourado,DZSJRP-Pisces,3967,"Rio Alambari, afl. rio Tietê, Br273 ou SP300 sentido Conchas",Characidium gomesi,-22.09,-48.32194,01,01,1900,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,12876,"Rio Cachoeirão, Faz Taruana, rio Aquidauana, alto rio Paraguai",Characidium gomesi,-20.50194,-55.25722,01,02,2008,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,10236,"Rio Borá, entre Nova Aliança e Potirendaba, drenagem do Tietê",Characidium gomesi,-21.02167,-49.45972,29,09,2006,2026-09-30
+Brasil,São Paulo,Onda Verde,DZSJRP-Pisces,13962,"Fazenda Fisher, UGRHI Turvo-Grande",Characidium gomesi,-20.55056,-49.24417,01,07,2007,2026-09-30
+Brasil,São Paulo,Onda Verde,DZSJRP-Pisces,17820,"Fazenda Fischer, drenagem Turvo-Grande.",Characidium gomesi,-20.55056,-49.24417,01,01,1900,2026-09-30
+Brasil,São Paulo,Jaboticabal,DZSJRP-Pisces,17646,"Córrego Rico,bacia do rio Grande, drenagem do Alto rio Paraná.",Characidium gomesi,-21.25056,-48.32028,31,12,2007,2026-09-30
+Brasil,São Paulo,Nhandeara,DZSJRP-Pisces,9218,"Ribeirão Bom Sucesso, abaixo da SP 461",Characidium gomesi,-20.57722,-50.03306,25,07,2006,2026-09-30
+Brasil,Mato Grosso,Aragarças,DZSJRP-Pisces,13438,"Córrego Jaraguá, rio Araguaia",Characidium sp.,0,0,23,05,2005,2026-09-30
+Brasil,São Paulo,Votuporanga,DZSJRP-Pisces,19319,Afluente do Turvo-Grande. PA769,Characidium gomesi,-20.3725,-49.92083,06,08,2013,2026-09-30
+Brasil,São Paulo,Cosmorama,DZSJRP-Pisces,9583,Córrego do Moinho,Characidium gomesi,-20.42611,-49.81389,08,07,2005,2026-09-30
+Brasil,Minas Gerais,Madre De Deus De Minas,DZSJRP-Pisces,8609,"1º riacho após Rio Grande, MG338, Madre de Deus a S V Minas",Characidium gomesi,-21.52306,-44.34944,24,05,2006,2026-09-30
+Brasil,Minas Gerais,Carmo De Minas,DZSJRP-Pisces,8628,"Riacho em vicinal à esq. da MG347, sent CarmodeMinas-Pedralva, antes km 62",Characidium gomesi,-22.14639,-45.15417,26,05,2006,2026-09-30
+Brasil,Minas Gerais,Monte Carmelo,DZSJRP-Pisces,8680,"Corr Rancharia, Faz Castelhana 1, vicinal (terra) BR365",Characidium gomesi,-18.87056,-47.39083,05,09,2006,2026-09-30
+Brasil,Minas Gerais,Serra Do Salitre,DZSJRP-Pisces,8697,"Corr Areia, vicinal (terra) MG187, após Salitre de Minas, sent SSalitre",Characidium gomesi,-19.09028,-46.76583,06,09,2006,2026-09-30
+Brasil,Minas Gerais,Ibia,DZSJRP-Pisces,8726,"Riacho na rod Mario Rodrigues de Paiva, vicinal (terra) BR262, antes Araxá",Characidium gomesi,-19.54861,-46.83417,07,09,2006,2026-09-30
+Brasil,São Paulo,Aguas De Santa Barbara,DZSJRP-Pisces,11331,"Riacho Água do Passarinho, EE Águas de Santa Bárbara",Characidium gomesi,-22.80611,-49.18222,17,09,2008,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,12459,"Riacho em estrada de terraà dir na estrada de Sta Branca a Salesópolis, rio Paraíba do Sul",Characidium gomesi,-23.45333,-45.87139,19,05,2010,2026-09-30
+Brasil,Minas Gerais,Delfim Moreira,DZSJRP-Pisces,14021,"Rio Santo Antônio, bairro Água Limpa, km 81 Estr Itajubá-Delfim Moreira, rio Grande",Characidium gomesi,-22.46667,-45.35333,07,08,2011,2026-09-30
+Brasil,Minas Gerais,Muzambinho,DZSJRP-Pisces,14046,"Afluente do rio Muzambinho, rio Pardo, rio Grande",Characidium gomesi,-21.38,-46.47417,09,08,2011,2026-09-30
+Brasil,Minas Gerais,Carandai,DZSJRP-Pisces,16160,"Afluente do rio Carandaí, à jusante da cidade, vicinal à direita na BR - 040, sentido RJ, drenagem do rio Grande.",Characidium gomesi,-20.97389,-43.78722,05,09,2012,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13787,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium gomesi,-19.05,-52.14861,02,10,2008,2026-09-30
+Brasil,Minas Gerais,Aricanduva,DZSJRP-Pisces,19126,"Rio Itamarandiba na estr de Aricanduva à Contrato e Itamarandiba, rio Jequitinhonha",Characidium gomesi,-17.815,-42.6575,25,09,2013,2026-09-30
+Brasil,Rondônia,Ministro Andreazza,DZSJRP-Pisces,16981,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 47.",Characidium gomesi,-11.01528,-61.60417,06,07,2012,2026-09-30
+Brasil,São Paulo,Itarare,DZSJRP-Pisces,20638,"Rio Verde, sub-bacia do Verde.",Characidium gomesi,-24.085,-49.20139,12,09,2014,2026-09-30
+Brasil,São Paulo,Catanduva,DZSJRP-Pisces,15701,"Córrego do Matão, alto rio Paraná.",Characidium gomesi,-20.93472,-48.91,31,12,2011,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,14131,"Córrego da Roseira, rio Cubatão, rio Tietê.",Characidium gomesi,-21.10722,-49.33667,20,01,2011,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,18535,"Córrego da Roseira, rio Cubatão, rio Tietê.",Characidium gomesi,-21.10722,-49.33667,30,10,2012,2026-09-30
+Brasil,São Paulo,Sao Joao Da Boa Vista,DZSJRP-Pisces,18441,"Rio Jaguari Mirim, bacia do rio do Peixe, bacia do Mogi-Guaçu.",Characidium gomesi,-21.98806,-46.91222,27,02,2013,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,14210,"Córrego Três Barras, afluente do Lago Paranoá, drenagem do Alto rio Paraná.",Characidium gomesi,-15.66694,-47.9525,08,10,2010,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13771,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium gomesi,-19.05,-52.14861,06,06,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13796,Córrego Gallheiro,Characidium gomesi,-19.08667,-51.885,03,08,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13788,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium gomesi,-19.05,-52.14861,29,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13778,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium gomesi,-19.05,-52.14861,16,03,2009,2026-09-30
+Brasil,São Paulo,Sao Carlos,DZSJRP-Pisces,19255,"Córrego São José, bacia do Jacaré-Guaçu, drenagem do rio Tietê, alto rio Paraná. Ponto II",Characidium gomesi,-22.0775,-47.80556,21,05,2013,2026-09-30
+Brasil,Mato Grosso,Alto Taquari,DZSJRP-Pisces,19953,Afluente do rio Taquari.,Characidium gomesi,-17.82667,-53.2825,01,07,2011,2026-09-30
+Brasil,São Paulo,Ituverava,DZSJRP-Pisces,18658,"Reservatório de Volta Grande, rio Grande",Characidium gomesi,-20.28583,-47.77972,01,09,2011,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,721,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium gomesi,-20.64528,-49.40306,21,05,1985,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,732,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium gomesi,-20.60889,-49.42028,21,08,1987,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,710,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium gomesi,-20.64528,-49.40306,07,12,1988,2026-09-30
+Brasil,Minas Gerais,Carmo Do Rio Claro,DZSJRP-Pisces,21136,"Afluente do Rio Sapucai, alto Paraná",Characidium gomesi,-21.0583138889,-46.1479361111,NA,NA,NA,2026-09-30
+Brasil,Minas Gerais,Carmo Do Rio Claro,DZSJRP-Pisces,21135,"Pedra Molhada, afl Rio Sapucai, alto Paraná",Characidium gomesi,-21.0049583333,-46.2967416667,12,04,2017,2026-09-30
+Brasil,São Paulo,Guarei,DZSJRP-Pisces,22836,"Ribeirão do Durvalino, Rio GUareí",Characidium gomesi,-23.4436027778,-48.3446666667,17,04,2017,2026-09-30
+Brasil,São Paulo,Guarei,DZSJRP-Pisces,22772,"Ribeirão da Cachoeira, afl Rio Guareí",Characidium gomesi,-23.4261111111,-48.4202777778,08,08,2017,2026-09-30
+Brasil,São Paulo,Guarei,DZSJRP-Pisces,22837,"Córrego do Durvalino, Rio Guareí",Characidium gomesi,-23.4436027778,-48.3446666667,21,05,2018,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,10117,"Ribeirão da Quinta, Bacia do Rio Paranapanema",Characidium gomesi,-23.10194,-48.49083,24,06,2005,2026-09-30
+Brasil,São Paulo,Avare,DZSJRP-Pisces,20505,"Córrego Farias, área aberta, drenagem do rio Paranapanema",Characidium gomesi,-23.02139,-48.91944,10,04,2014,2026-09-30
+Brasil,São Paulo,Avare,DZSJRP-Pisces,20515,"Córrego Farias, área fechada, drenagem do rio Paranapanema",Characidium gomesi,-23.01972,-48.92667,10,04,2014,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,20496,"Córrego Itaúna, área fechada, drenagem do rio Paranapanema",Characidium gomesi,-23.16139,-48.63194,25,09,2014,2026-09-30
+Brasil,São Paulo,Planalto,DZSJRP-Pisces,17807,"Fazenda Taperão, UGRHI baixo Tietê",Characidium lagosantense,-20.99056,-49.98056,11,06,2007,2026-09-30
+Brasil,São Paulo,Planalto,DZSJRP-Pisces,13978,"Fazenda Taperão, UGRHI baixo Tietê",Characidium lagosantense,-20.99056,-49.98056,01,06,2007,2026-09-30
+Brasil,São Paulo,Pauliceia,DZSJRP-Pisces,15500,"Riacho Ponte Queimada, braço lêntico, foz do rio Aguapeí, drenagem do alto Paraná.",Characidium lagosantense,-21.12861,-51.8,07,02,2012,2026-09-30
+Brasil,São Paulo,Alvares Florence,DZSJRP-Pisces,9572,Córrego do Mangue,Characidium lagosantense,-20.36917,-49.83278,08,07,2005,2026-09-30
+Brasil,Mato Grosso do Sul,Angelica,DZSJRP-Pisces,7515,"Córrego Ouro Verde, Rio Ivinhema",Characidium lagosantense,-22.14111,-53.80472,22,04,2005,2026-09-30
+Brasil,Mato Grosso do Sul,Ivinhema,DZSJRP-Pisces,7529,"Rio Piravevê, afl. da margem direita do Rio Ivinhema, Alto Rio Paraná",Characidium lagosantense,-22.23306,-53.78333,23,04,2005,2026-09-30
+Brasil,São Paulo,Luis Antonio,DZSJRP-Pisces,17500,"Córrego Beija Flor, estação ecológica Jataí. P3",Characidium lagosantense,-21.55056,-47.70028,11,06,2011,2026-09-30
+Brasil,São Paulo,Iguape,DZSJRP-Pisces,13249,"Ribeirão Grajaúna, Estação Ecológica Juréia-Itatins",Characidium lanei,-24.52139,-47.20111,08,11,2009,2026-09-30
+Brasil,São Paulo,Caraguatatuba,DZSJRP-Pisces,13164,"Rio Juqueriquere, à jusante ADA traçado rod dos Tamoios",Characidium lanei,-23.62056,-45.41028,01,08,2010,2026-09-30
+Brasil,São Paulo,Caraguatatuba,DZSJRP-Pisces,12473,"Poça ao lado da Rio-Santos, praia Tabatinga, antes do posto BR, prox à div Caraguá-Ubatuba, drenagem litorânea",Characidium lanei,-23.56583,-45.26917,20,05,2010,2026-09-30
+Brasil,São Paulo,Ibiuna,DZSJRP-Pisces,13680,"Ribeirão das Vargens, rio Ribeira de Iguape",Characidium lanei,-23.855,-47.24083,06,08,2010,2026-09-30
+Brazil,Mato Grosso do Sul,Dois Irmãos do Buriti,DZSJRP-Pisces,12855,"Afluente do rio Cachoeirão, Fazenda Taruana",Characidium laterale,-20.50306,-55.25806,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Anastacio,DZSJRP-Pisces,18042,"Represa, fazenda Boa Esperança, drenagem rio Aquidauana, alto rio Paraguai.",Characidium laterale,-20.72806,-56.04194,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Anastacio,DZSJRP-Pisces,19950,"Represa, fazenda Boa Esperança, drenagem rio Aquidauana, alto rio Paraguai.",Characidium laterale,-20.72806,-56.04194,01,09,2008,2026-09-30
+Brasil,São Paulo,Peruibe,DZSJRP-Pisces,13235,"Ribeirão Tetequera, Estação Ecológica Juréia-Itatins",Characidium lauroi,-24.39056,-47.09694,06,11,2009,2026-09-30
+Brasil,São Paulo,Campos Do Jordao,DZSJRP-Pisces,3959,"Ribeirão Grande, afluente do rio Sapucaí-Guaçu, rio Paraíba do Sul",Characidium lauroi,-22.73056,-45.59028,01,01,1900,2026-09-30
+Brazil,São Paulo,Monteiro Lobato,DZSJRP-Pisces,5517,"Riacho afl. rio Buquira, estrada Monteiro Lobato - Caçapava, rio Paraíba do Sul",Characidium lauroi,-22.99333,-45.79278,10,07,2003,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,12842,"Rio Paraitinga, alto rio Tiete",Characidium oiticicai,-23.525,-45.78833,01,11,2007,2026-09-30
+Brasil,São Paulo,Paraibuna,DZSJRP-Pisces,6949,"Rio Paraitinga, próx. à divisa de Salesópolis, reg. de mata nativa,prof.m.0.26",Characidium oiticicai,-23.53333,-45.68333,25,08,2004,2026-09-30
+Brasil,São Paulo,Jundiai,DZSJRP-Pisces,10086,"Riacho do Cachorro, microbacia do Rib Caguaçu, Bacia do Rio Jundiaí",Characidium oiticicai,-23.18056,-46.88028,24,07,2006,2026-09-30
+Brasil,São Paulo,Embu Guaçu,DZSJRP-Pisces,12354,"Cabeceira do rio Embu Guaçu, PESM Núcleo Curucutu",Characidium oiticicai,-23.98833,-46.74917,01,11,2007,2026-09-30
+Brasil,São Paulo,município desconhecido,DZSJRP-Pisces,12361,"Rio Capivari, bacia do rio Itanhaem, PESM Núcleo Curucutu",Characidium oiticicai,-23.92083,-46.69528,01,11,2007,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,2877,"Rio Claro, abaixo da barragem de Rib.dos Campos, E.Bio.Boracéia, rio Tietê",Characidium oiticicai,-23.53056,-45.43056,07,02,1993,2026-09-30
+Brasil,São Paulo,Salesopolis,DZSJRP-Pisces,8329,"Rio Claro, acima da barragem do Ribeirão do Campo, Est. Biol. Boracéia (Tietê)",Characidium oiticicai,-23.63583,-45.8325,30,10,2005,2026-09-30
+Brasil,São Paulo,Iguape,DZSJRP-Pisces,13261,"Ribeirão Grajaúna, Estação Ecológica Juréia-Itatins",Characidium pterostictum,-24.51889,-47.21194,20,01,2009,2026-09-30
+Brasil,São Paulo,Iguape,DZSJRP-Pisces,20738,"Rio do Engenho, Estação Ecológica Juréia-Itatins",Characidium pterostictum,-24.708535,-47.555687,11,06,2013,2026-09-30
+Brasil,São Paulo,Jacupiranga,DZSJRP-Pisces,3165,"Fazenda Sambaiú, Br 116 km 471 - 472, drenagem do rio Ribeira do Iguape",Characidium pterostictum,-24.6925,-48.00222,14,08,1985,2026-09-30
+Brasil,São Paulo,Taubate,DZSJRP-Pisces,21076,"Rio Una, afluente do rio Paraíba do Sul",Characidium pterostictum,-22.9315277778,-45.5234166667,01,12,2015,2026-09-30
+Brasil,Paraná,Quatro Barras,DZSJRP-Pisces,5740,"Rio Taquari, rio Nhumdiaquara",Characidium pterostictum,-25.31028,-48.93444,08,09,2003,2026-09-30
+Brasil,Paraná,Quatro Barras,DZSJRP-Pisces,5741,"Rio Taquari, rio Nhumdiaquara",Characidium pterostictum,-25.31028,-48.93444,08,09,2003,2026-09-30
+Brasil,Rio de Janeiro,Itatiaia,DZSJRP-Pisces,22880,"Rio Campo Belo, entre Itatiaia e a entrada do Parque Nacional",Characidium pterostictum,-22.4783055556,-44.5668333333,30,05,2019,2026-09-30
+Brasil,São Paulo,Piedade,DZSJRP-Pisces,13650,"Rio Turvo, drenagem do rio Paranapanema",Characidium schubarti,-23.85667,-47.40333,03,09,2010,2026-09-30
+Brasil,Mato Grosso do Sul,Dourados,DZSJRP-Pisces,15281,"Córrego afluente do rio Dourados, drenagem do alto Paraná. Ponto 19.",Characidium schubarti,-22.40611,-55.17639,25,07,2008,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,20497,"Córrego Itaúna, área fechada, drenagem do rio Paranapanema",Characidium schubarti,-23.16139,-48.63194,25,09,2014,2026-09-30
+Brasil,São Paulo,Araraquara,DZSJRP-Pisces,13313,Riacho afl rio Grande,Characidium sp.,-21.61528,-48.24,26,11,2010,2026-09-30
+Brasil,Goias,Planaltina,DZSJRP-Pisces,22930,Afluente da margem direita do Córrego Rico no cruzamento com a rodovia GO230,Characidium sp.,-15.1849805556,-47.6997277778,07,08,2018,2026-09-30
+Brasil,Goias,Planaltina,DZSJRP-Pisces,22931,Afluente da margem direita do Córrego Rico no cruzamento com a rodovia GO230,Characidium sp.,-15.1849805556,-47.6997277778,07,08,2018,2026-09-30
+Brasil,Goias,Aragarcas,DZSJRP-Pisces,13527,"Praia Quarto Crescente, rio Araguaia",Characidium sp.,-15.89806,-52.25111,01,06,2006,2026-09-30
+Brasil,São Paulo,Patrocinio Paulista,DZSJRP-Pisces,19947,"Próximo a Usina CEVASA, bacia do rio Sapucaí, drenagem do rio Grande.",Characidium sp.,-20.74056,-47.34389,01,01,1900,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,10822,"Córrego Barriguda Rib. Santa Maria/ Torto, Bacia lago Paranoá, dren do Paraná",Characidium sp.,-15.66722,-47.95194,09,10,2006,2026-09-30
+Brasil,NA,NA,DZSJRP-Pisces,20703,"Procedência presumida drenagens dos rios Tapajós, Tocantins ou Xingu",Characidium sp.,0,0,01,01,1900,2026-09-30
+Brasil,São Paulo,Taquarituba,DZSJRP-Pisces,18972,"Alto rio Taquari, bacia do rio Paranapanema",Characidium sp.,-23.53056,-49.24028,01,02,2013,2026-09-30
+Brasil,São Paulo,Monte Alto,DZSJRP-Pisces,12211,"Córrego Rico, antes da Estaçao de Tratamento de Monte Alto",Characidium sp.,-21.31222,-48.44833,01,02,2009,2026-09-30
+Brasil,São Paulo,Monte Alto,DZSJRP-Pisces,12213,"Córrego Rico, antes da Estaçao de Tratamento de Monte Alto",Characidium sp.,-21.31222,-48.44833,01,02,2009,2026-09-30
+Brasil,São Paulo,Itanhaem,DZSJRP-Pisces,15365,"Bacia do rio Itanhaém, drenagem costeira",Characidium sp.,-24.18056,-46.78028,31,12,2006,2026-09-30
+Brasil,São Paulo,Itanhaem,DZSJRP-Pisces,15366,"Bacia do rio Itanhaém, drenagem costeira",Characidium sp.,-24.18056,-46.78028,31,12,2006,2026-09-30
+Brasil,São Paulo,Itanhaem,DZSJRP-Pisces,15357,"Sub-bacia do rio Preto, bacia do rio Itanhaém, drenagem costeira",Characidium sp.,-24.12028,-46.95667,01,04,2006,2026-09-30
+Brasil,Minas Gerais,Sao Goncalo Do Para,DZSJRP-Pisces,2814,"Rio Pará, BR 262, afluente do rio São Francisco",Characidium sp.,-19.88278,-44.87611,14,08,1998,2026-09-30
+Brasil,Minas Gerais,Florestal,DZSJRP-Pisces,3867,"Ribeirão das Vacas, BR 262, rio Paraopeba, drenagem do São Francisco",Characidium sp.,-19.88278,-44.42861,14,08,1998,2026-09-30
+Brasil,São Paulo,Teodoro Sampaio,DZSJRP-Pisces,4673,"Córrego Caldeirão, afluente do rio Paranapanema, Parque Estadual Morro do Diabo",Characidium sp.,-22.47528,-52.34194,16,06,2001,2026-09-30
+Brasil,Minas Gerais,Santana Dos Montes,DZSJRP-Pisces,16139,"Riacho na beira da estrada Cristiano Otoni, Santana dos Montes (vicinal da BR 040), próximo ao Km 2.",Characidium sp.,-20.80361,-43.6925,04,09,2012,2026-09-30
+Brasil,São Paulo,Indiapora,DZSJRP-Pisces,5002,"3° córrego na estrada de terra que liga Arabá a Indiaporã, rio Grande",Characidium sp.,-19.92111,-50.32778,15,12,2001,2026-09-30
+Brasil,Minas Gerais,Iturama,DZSJRP-Pisces,5310,"Fazenda Quiçaça, rio Grande",Characidium sp.,-19.83778,-50.37306,16,11,2002,2026-09-30
+Brasil,Mato Grosso do Sul,Aquidauana,DZSJRP-Pisces,20255,Lagoas marginais do Pantanal.,Characidium sp.,-19.33556,-56.06083,18,11,2014,2026-09-30
+Brasil,São Paulo,Assis,DZSJRP-Pisces,20568,Represa Campestre.,Characidium sp.,-22.5975,-50.37056,25,10,2007,2026-09-30
+Brasil,Mato Grosso,Alto Taquari (ou Taquari),DZSJRP-Pisces,4234,"Fazenda Bambuzal, à 2Km de Alto Taquari, drenagem do rio Araguaia",Characidium sp.,0,0,10,11,1988,2026-09-30
+Brasil,Mato Grosso,Alto Taquari (ou Taquari),DZSJRP-Pisces,4254,"Fazenda Bambuzal, à 2Km de Alto Taquari, drenagem do rio Araguaia",Characidium sp.,0,0,10,11,1988,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18852,"Afluente do rio Sepotuba, drenagem do rio Paraguai. TSA- 4",Characidium sp.,-14.56389,-57.74806,22,11,2007,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18876,"Rio Sepotuba, bacia do Paraguai. TSB-1",Characidium sp.,-14.62861,-57.365,23,11,2007,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18887,"Rio Sepotuba, bacia do Paraguai. TSB-3",Characidium sp.,-14.47639,-57.40556,25,11,2007,2026-09-30
+Brasil,Minas Gerais,Uberaba,DZSJRP-Pisces,5557,"rio Uberaba, estrada Uberaba-Almeida Campos e Nova Ponte, rio Grande",Characidium sp.,-19.66111,-47.82306,21,05,2003,2026-09-30
+Brasil,Goias,Cristianopolis,DZSJRP-Pisces,5623,"Ribeirão Muquém, afl Peixe, GO139 de Cristianópolis à Piracanjuba, rio Paranaíba",Characidium sp.,-17.26556,-48.75556,23,05,2003,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6474,"Corr Arapuquinha, Rio Corumbá, dren. Paranaíba; Faz. Arapuca; 17 Km da GO-17",Characidium sp.,-17.08694,-48.7675,28,04,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6878,"Córrego Capoeira Grande, Rio Corumbá, dren. do Paranaíba, GO-020, Km 78",Characidium sp.,-17.06361,-48.73361,25,07,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,7009,"Córrego Arapuquinha, rio Corumbá, dren. do Paranaíba, GO-020,Km 78",Characidium sp.,-17.08694,-48.76778,31,10,2004,2026-09-30
+Brasil,Mato Grosso,Cocalinho,DZSJRP-Pisces,9145,"Rio Cristalino, drenagem do Tocantins Araguaia, fazenda Três Poderes",Characidium sp.,-14.39778,-50.99611,24,05,2005,2026-09-30
+Brasil,Mato Grosso,Cocalinho,DZSJRP-Pisces,9195,"Rio Cristalino, drenagem do Tocantins Araguaia, fazenda Três Poderes",Characidium sp.,-14.39778,-50.99611,26,05,2005,2026-09-30
+Brasil,Minas Gerais,Prata,DZSJRP-Pisces,9059,"Represa e vasante da represa, Faz Vale Verde, acesso em terra à dir p Patrimônio",Characidium sp.,-19.49806,-48.75361,10,08,2006,2026-09-30
+Brasil,Minas Gerais,Ibia,DZSJRP-Pisces,8727,"Riacho na rod Mario Rodrigues de Paiva, vicinal (terra) BR262, antes Araxá",Characidium sp.,-19.54861,-46.83417,07,09,2006,2026-09-30
+Brasil,Minas Gerais,Araxa,DZSJRP-Pisces,8742,"Corr Sto Antonio, vicinal (terra) BR262, após Corr Marmelo, sent Uberaba",Characidium sp.,-19.57861,-47.15556,07,09,2006,2026-09-30
+Brasil,Minas Gerais,Uberaba,DZSJRP-Pisces,8758,"Riacho Grotão, vicinal (terra) BR262, Faz N Sra Abadia",Characidium sp.,-19.69194,-47.71583,08,09,2006,2026-09-30
+Brasil,Minas Gerais,Uberaba,DZSJRP-Pisces,10538,"Riacho Grotão, vicinal (terra) BR262, Faz N Sra Abadia",Characidium sp.,-19.69194,-47.71583,12,05,2007,2026-09-30
+Brasil,Goias,Ipameri,DZSJRP-Pisces,10486,"Córrego Fundo, GO 213",Characidium sp.,-17.78583,-48.42472,08,06,2007,2026-09-30
+Brasil,São Paulo,Aguas De Santa Barbara,DZSJRP-Pisces,11322,"Rio Capivari, Estação Ecológica Àguas de Santa Bárbara, Rio Paranapanema",Characidium sp.,-22.795,-49.25806,17,09,2008,2026-09-30
+Brasil,Rio de Janeiro,Silva Jardim,DZSJRP-Pisces,13840,"Cabeceira do rio São João, Gaviões, 3º Distrito, RJ126",Characidium sp.,-22.575,-42.55917,31,05,2011,2026-09-30
+Brasil,São Paulo,Mongagua,DZSJRP-Pisces,13929,"Riacho na estrada para Quatinga, afl rio Aguapeú",Characidium sp.,-24.07861,-46.71444,03,06,2011,2026-09-30
+Brasil,São Paulo,Caraguatatuba,DZSJRP-Pisces,18741,"RIacho na Rio-Santos, próx á div com Ubatuba, litoral",Characidium sp.,-23.56556,-45.26694,07,07,2013,2026-09-30
+Brasil,Minas Gerais,Presidente Olegario,DZSJRP-Pisces,19045,"Riacho sob ponte após o rio Pará, sentido Galena, rio São Francisco",Characidium sp.,-18.2975,-46.21111,21,09,2013,2026-09-30
+Brasil,Minas Gerais,Botumirim,DZSJRP-Pisces,19106,"Riacho na estr de terra de Itacambira à Botumirim, rio Jequitinhonha",Characidium sp.,-16.79444,-43.06083,23,09,2013,2026-09-30
+Brasil,Minas Gerais,Sao Roque De Minas,DZSJRP-Pisces,20181,"Rio São Francisco, na estrada Vargem Bonita a São José do Barreiro, drenagem do rio São Francisco.",Characidium sp.,-20.33333,-46.46833,18,11,2014,2026-09-30
+Brasil,Rio de Janeiro,Parati,DZSJRP-Pisces,20435,"Ribeirão Melancia, afl rio Taquari",Characidium sp.,-23.03583,-44.7,28,05,2015,2026-09-30
+Brasil,Rondônia,Rolim De Moura,DZSJRP-Pisces,14667,"Bacia do rio Machado, drenagem do rio Madeira, ponto 10.",Characidium sp.,-11.72417,-62.03972,29,08,2011,2026-09-30
+Brasil,Mato Grosso,Alto Garcas,DZSJRP-Pisces,3972,"Km 38 da Br 364, sentido Cafelândia do Leste, drenagem do rio Araguaia",Characidium sp.,-16.90083,-53.54667,30,09,1989,2026-09-30
+Brasil,Mato Grosso,Alto Garcas,DZSJRP-Pisces,3977,"Rio das Garças, afluente do rio Araguaia",Characidium sp.,-16.91,-53.42056,30,09,1989,2026-09-30
+Brasil,São Paulo,Pauliceia,DZSJRP-Pisces,18278,"Lagoa da Sede na fazenda Buritis, RPPN Foz rio Aguapeí, rio Aguapeí, alto rio Paraná",Characidium sp.,-21.12083,-51.77222,18,07,2011,2026-09-30
+Brasil,São Paulo,Itanhaem,DZSJRP-Pisces,19582,Riacho drenagem costeira.,Characidium sp.,-24.195,-46.86833,25,03,2014,2026-09-30
+Brasil,Goias,Formosa,DZSJRP-Pisces,14250,"Córrego Santo Inácio, afluente do rio São Francisco.",Characidium sp.,-15.72444,-47.16667,18,11,2010,2026-09-30
+Brasil,São Paulo,Icem,DZSJRP-Pisces,9484,"Lagoa do Mustafá, rio Turvo",Characidium sp.,-20.41056,-49.26806,21,12,2005,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,5369,"Ribeirão dos Veados, afluente do rio Paranapanema, prox. à Represa de Jurumirim",Characidium sp.,-23.10083,-48.61028,01,01,1997,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,5370,"Ribeirão dos Veados, afluente do rio Paranapanema, prox. à Represa de Jurumirim",Characidium sp.,-23.10083,-48.61028,01,01,1997,2026-09-30
+Brasil,Mato Grosso,Campos De Julio,DZSJRP-Pisces,16317,"Rio Juruena, afluente do Tapajós, PCH Ilha Comprida, salvamento.",Characidium sp.,-13.9,-59.14778,01,06,2012,2026-09-30
+Brasil,Mato Grosso do Sul,Antonio Joao,DZSJRP-Pisces,15276,"Córrego Formiguinha, drenagem do alto Paraná. Ponto 1",Characidium sp.,-21.65722,-54.425,26,06,2008,2026-09-30
+Brasil,Tocantins,Xambioa,DZSJRP-Pisces,18583,"Córrego do Zuza, drenagem do rio Araguaia, A5.",Characidium sp.,-6.42889,-48.43306,31,10,2012,2026-09-30
+Brasil,Tocantins,Xambioa,DZSJRP-Pisces,18584,"Córrego do Zuza, drenagem do rio Araguaia, A5.",Characidium sp.,-6.42889,-48.43306,31,10,2012,2026-09-30
+Brasil,Tocantins,Xambioa,DZSJRP-Pisces,18595,"Córrego do Zuza, drenagem do rio Araguaia, P1.",Characidium sp.,-6.45833,-48.42028,13,05,2013,2026-09-30
+Brasil,Tocantins,Xambioa,DZSJRP-Pisces,19867,"Córrego do Zuza, drenagem do rio Araguaia, P4",Characidium sp.,-6.42972,-48.42472,02,06,2014,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,3749,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium sp.,-20.64528,-49.40306,23,02,1985,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,100,"Córrego da Barra Funda, desembocadura, afluente rio Preto, rio Grande",Characidium sp.,-20.60889,-49.42028,21,08,1987,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,98,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium sp.,-20.64528,-49.40306,23,09,1987,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,3655,"Córrego da Barra Funda, curso médio, afluente rio Preto, rio Grande",Characidium sp.,-20.64528,-49.40306,20,08,1996,2026-09-30
+Brasil,Minas Gerais,Itamarandiba,DZSJRP-Pisces,19140,"Riacho na estr de terra de Itamarandiba à Penha de França, rio Jequitinhonha",Characidium timbuiense,-17.90972,-42.95222,25,09,2013,2026-09-30
+Brasil,Minas Gerais,Itamarandiba,DZSJRP-Pisces,19164,"Riacho na estr de terra, vicinal da MG117, de Sta Luzia à Penha de França, rio Jequitinhonha",Characidium timbuiense,-18.09083,-42.99444,26,09,2013,2026-09-30
+Brasil,Minas Gerais,Braunas,DZSJRP-Pisces,19169,"Riacho na estr de terra de Guanhães à Braúnas, próx à Braúnas, rio Doce",Characidium timbuiense,-19.01611,-42.75972,26,09,2013,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6491,"Riacho sem nome, afl. Arapuca, Faz. Arapuca, drenagem do Rio Paranaíba",Characidium xanthopterum,-17.06833,-48.73306,29,04,2004,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,13363,"Lagoa Vírgula, Res de Jupiá, rio Tietê",Characidium zebra,0,0,30,08,2007,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6980,"Córrego sem nome, rio Corumbá, drenagem do Paranaíba,GO-020, Km 78",Characidium xanthopterum,-17.1,-48.73333,02,11,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,7041,"Córrego sem nome, Rio Corumbá, dren. do Paranaíba,GO-020, Km 78",Characidium xanthopterum,-17.06889,-48.73306,06,02,2005,2026-09-30
+Brasil,Goias,Caldas Novas,DZSJRP-Pisces,10474,Riacho antes da entrada do Pq Estadual de Caldas Novas,Characidium xanthopterum,-17.76917,-48.65528,08,06,2007,2026-09-30
+Brasil,Goias,Caldas Novas,DZSJRP-Pisces,10797,Riacho antes da entrada do Pq Estadual de Caldas Novas,Characidium xanthopterum,-17.76917,-48.65528,08,06,2007,2026-09-30
+Brasil,Goias,Ipameri,DZSJRP-Pisces,10493,Riacho em estrada de terra à esquerda na GO 213,Characidium xanthopterum,-17.70778,-48.29833,08,06,2007,2026-09-30
+Brasil,Goias,Senador Modestino Gonçalves,DZSJRP-Pisces,10497,"Córrego na Faz Rocinha, GO 406 (Ipameri - Corumbaíba)",Characidium xanthopterum,-17.83361,-48.24722,09,06,2007,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21471,"Riacho A01, Rio Aripuanã",Characidium zebra,-10.1963888889,-59.4886111111,27,07,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21615,"Riacho A09, bacia do Rio Aripuana",Characidium zebra,-9.9002777778,-59.1913888889,NA,NA,NA,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21704,"Riacho A15, bacia do Rio Aripuanã",Characidium zebra,-10.2605555556,-59.285,01,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21728,"Riacho A16, bacia do Rio Aripuanã",Characidium zebra,-10.3330555556,-59.3669444444,02,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21775,"Riacho A18, bacia do Rio Aripuanã",Characidium zebra,-10.3644444444,-59.3605555556,02,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21812,"Riacho A20, bacia do Rio Aripuanã",Characidium zebra,-10.7802777778,-59.2269444444,03,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21848,"Riacho A22, bacia do Rio Aripuanã",Characidium zebra,-11.4491666667,-59.0722222222,05,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21899,"Riacho A26, bacia do Rio Aripuanã",Characidium zebra,-11.5088888889,-59.0830555556,06,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21912,"Riacho A27, bacia do Rio Aripuanã",Characidium zebra,-11.4469444444,-59.1469444444,07,08,2017,2026-09-30
+Brasil,Mato Grosso,Aripuana,DZSJRP-Pisces,21950,"Riacho A29, bacia do Rio Aripuanã",Characidium zebra,-11.5166666667,-59.2036111111,09,08,2017,2026-09-30
+Brasil,São Paulo,Icem,DZSJRP-Pisces,11415,"Lagoa 45, rio Turvo",Characidium zebra,-20.41556,-49.265,26,03,2009,2026-09-30
+Brasil,Minas Gerais,NA,DZSJRP-Pisces,15567,"Rio Araguari, a jusante da UHE Amador Aguiar II (em poça).",Characidium zebra,0,0,12,10,2011,2026-09-30
+Brasil,São Paulo,Tatui,DZSJRP-Pisces,21336,"Rio Sorocaba, Usina de Santa Adélia, médio Rio Tietê",Characidium zebra,-23.3263888889,-47.7687805556,10,01,2017,2026-09-30
+Brasil,São Paulo,Patrocinio Paulista,DZSJRP-Pisces,12935,"Riacho afl do Ribeirão Sta Bárbara, rio Sapucai, rio Grande",Characidium zebra,-20.82611,-47.3625,02,11,2010,2026-09-30
+Brasil,São Paulo,Neves Paulista,DZSJRP-Pisces,19198,"Córrego Jacarezinho, drenagem do São José dos Dourados",Characidium zebra,-20.86194,-49.61556,14,04,2011,2026-09-30
+Brasil,São Paulo,Cedral,DZSJRP-Pisces,15156,"Córrego das Palmeiras, bacia do Turvo-Grande, drenagem do Paraná. Ponto 2.",Characidium zebra,-20.87917,-49.23083,04,10,2011,2026-09-30
+Brasil,São Paulo,Bady Bassit,DZSJRP-Pisces,15172,"Bacia do rio Tietê-Batalha, drenagem do Paraná. Ponto 3.",Characidium zebra,-20.97056,-49.42306,05,10,2011,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,15192,"Córrego Fundo, fazenda Rancho do Ipê, bacia do rio Tietê-Batalha, drenagem do Paraná, ponto 4.",Characidium zebra,-21.02528,-49.4075,05,10,2011,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,15209,"Bacia do rio Tietê-Batalha, drenagem do Paraná. Ponto 5.",Characidium zebra,-20.95472,-49.35472,05,10,2011,2026-09-30
+Brasil,São Paulo,Ibira,DZSJRP-Pisces,15228,"Bacia do rio Tietê-Batalha, drenagem do rio Paraná. Ponto 6.",Characidium zebra,-21.04944,-49.23889,06,10,2011,2026-09-30
+Brasil,São Paulo,Ibira,DZSJRP-Pisces,15242,"Bacia do rio Tietê-Batalha, drenagem do rio Paraná. Ponto 7.",Characidium zebra,-20.99028,-49.26222,06,10,2011,2026-09-30
+Brasil,Minas Gerais,Uberlandia,DZSJRP-Pisces,21011,"Córrego afluente da margem direita do rio Tijuco, próximo ao Pq Florestal Vertente Grande",Characidium zebra,-18.91907,-48.27762,20,07,2016,2026-09-30
+Brasil,Goias,Agua Fria De Goias,DZSJRP-Pisces,22672,"Córrego com nome desconhecido no sítio do Sr. Jairo, afluente da margem direita do Ponto P6",Characidium zebra,-15.0231944444,-47.8784305556,09,01,2019,2026-09-30
+Brasil,Goias,Planaltina,DZSJRP-Pisces,22682,Afluente da margem esquerda do Ribeirão Cocal,Characidium zebra,-15.1202194444,-47.8582527778,10,01,2019,2026-09-30
+Brasil,São Paulo,Franca,DZSJRP-Pisces,11307,Lagoa marginal do Rio Sapucaí,Characidium zebra,-20.53056,-47.40028,01,01,1900,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,13383,"Ponte dos Barrageiros, montante, Res de Jupiá, rio Tietê",Characidium zebra,0,0,17,09,2007,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,13393,"Ponte dos Barrageiros, jusante, Res de Jupiá, rio Tietê",Characidium zebra,0,0,01,10,2007,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,10821,"Córrego Barriguda Rib. Santa Maria/ Torto, Bacia lago Paranoá, dren do Paraná",Characidium zebra,-15.66722,-47.95194,10,01,2007,2026-09-30
+Brasil,São Paulo,Sao Joao De Iracema,DZSJRP-Pisces,14006,"Fazenda São Francisco, UGRHI São José dos Dourados",Characidium zebra,-20.51028,-50.22889,01,07,2007,2026-09-30
+Brasil,Minas Gerais,Conceicao Das Alagoas,DZSJRP-Pisces,17484,"Riacho sem nome, afluente da margem esquerda do Rio Uberaba, afluente da margem direita do rio Grande.",Characidium zebra,-19.92417,-48.39556,29,09,2012,2026-09-30
+Brasil,São Paulo,Valparaiso,DZSJRP-Pisces,10344,"Ribeirão Jacaré Catinga, sob est municipal de Valparaíso, dren do Baixo Tietê",Characidium zebra,-21.13889,-50.88139,21,04,2007,2026-09-30
+Brasil,São Paulo,Valparaiso,DZSJRP-Pisces,10362,"Córrego dos Exploradores, afluente do Córrego Dr. Leite, drenagem do Baixo Tietê",Characidium zebra,-21.15639,-50.79944,21,04,2007,2026-09-30
+Brasil,São Paulo,Guzolandia,DZSJRP-Pisces,10611,"Córrego das Cobras, afluente do Rib. Barreiro, Baixo Tietê",Characidium zebra,-20.71778,-50.74694,02,05,2007,2026-09-30
+Brasil,São Paulo,Castilho,DZSJRP-Pisces,10741,"Ribeirão do Abrigo, afluente do Rio Paraná, à montante",Characidium zebra,-20.82278,-51.50194,26,05,2007,2026-09-30
+Brasil,São Paulo,Ipero,DZSJRP-Pisces,20614,"Rio Ipanema, bacia do rio Sorocaba.",Characidium zebra,-23.42361,-47.59694,02,11,2012,2026-09-30
+Brasil,Mato Grosso do Sul,Selviria,DZSJRP-Pisces,10692,"Riacho afluente do Rio Beltrão, bacia do Paraná, ponto 4",Characidium zebra,-20.18361,-51.64944,19,07,2007,2026-09-30
+Brasil,Mato Grosso do Sul,Inocencia,DZSJRP-Pisces,10708,"Riacho afluente do Rio Formiga, Bacia do Paraná, ponto 1b",Characidium zebra,-19.54639,-52.19861,21,07,2007,2026-09-30
+Brasil,Mato Grosso do Sul,Inocencia,DZSJRP-Pisces,10710,"Riacho aluente do Rio Moranga, Bacia do Paraná, ponto 2b",Characidium zebra,-19.54833,-52.17306,21,07,2007,2026-09-30
+Brasil,Mato Grosso do Sul,Inocencia,DZSJRP-Pisces,10724,"Riacho afluente do rio Moranga, bacia do Paraná, ponto 3b",Characidium zebra,-19.62639,-52.11278,21,07,2007,2026-09-30
+Brasil,Mato Grosso do Sul,Anastacio,DZSJRP-Pisces,18009,"Córrego Acôgo, fazenda Boa Esperança, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.72417,-56.01722,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,18077,"Represa, fazenda Correntes I, drenagem rio Aquidauana, alto rio Paraguai. AQDN 16",Characidium zebra,-20.53583,-55.37444,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,18092,"Represa, fazenda Vô Fiorindo, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.59472,-55.42278,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,18138,"Rio Dois Irmãos do Buriti, fazenda Vô Fiorindo, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.59333,-55.44167,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17474,"Rio Dois Irmãos do Buriti, drenagem do rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.59278,-55.44333,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17841,"Afluente do Córrego Correntes, fazenda Correntes II, drenagem do rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.5,-55.41167,01,02,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17987,"Córrego Cabeceira do Piúva, fazenda Taruana, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.54556,-55.24111,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17988,"Córrego Cabeceira do Piúva, fazenda Taruana, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.54556,-55.24111,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,18076,"Represa, fazenda Correntes I, drenagem rio Aquidauana, alto rio Paraguai. AQDN 16",Characidium zebra,-20.53583,-55.37444,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,18103,"Represa, fazenda Vô Fiorindo, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.60028,-55.42556,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,18123,"Córrego Correntes, fazenda Correntes I, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.54583,-55.36556,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17851,"Afluente do Córrego Correntes, fazenda Correntes II, drenagem do rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.5,-55.41167,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17870,"Córrego Correntes, fazenda Correntes II, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.51306,-55.39639,01,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Dois Irmaos Do Buriti,DZSJRP-Pisces,17926,"Córrego Correntes, fazenda Correntes II, drenagem rio Aquidauana, alto rio Paraguai.",Characidium zebra,-20.45556,-55.42139,01,09,2008,2026-09-30
+Brasil,São Paulo,Coroados,DZSJRP-Pisces,10953,Ponto 4,Characidium zebra,-21.26028,-50.25056,29,07,2007,2026-09-30
+Brasil,São Paulo,Iacanga,DZSJRP-Pisces,10873,"Córrego afl margem direita do rio Tietê, UGRHI Tietê/Jacaré",Characidium zebra,-21.82917,-49.03861,04,08,2007,2026-09-30
+Brasil,São Paulo,Pauliceia,DZSJRP-Pisces,15420,Riacho RPPN Foz Aguapeí. Afluente do Paraná.,Characidium zebra,-21.31444,-51.83194,07,02,2012,2026-09-30
+Brasil,São Paulo,Pauliceia,DZSJRP-Pisces,15501,"Riacho Ponte Queimada, braço lêntico, foz do rio Aguapeí, drenagem do alto Paraná.",Characidium zebra,-21.12861,-51.8,07,02,2012,2026-09-30
+Brasil,Goias,Rio Quente,DZSJRP-Pisces,15741,"Rio quente dentro do Resort, pouco acima da ponte de concreto, no asfalto em direção ao hotel pousada. Drenagem do rio Paranaíba.",Characidium zebra,-17.77444,-48.75361,08,03,2012,2026-09-30
+Brasil,Goias,Rio Quente,DZSJRP-Pisces,15745,"Rio Quente, sob ponte de madeira na Esplanada (área hoteis), drenagem Paranaíba.",Characidium zebra,-17.77278,-48.75639,08,03,2012,2026-09-30
+Brasil,Goias,Caldas Novas,DZSJRP-Pisces,15770,"Riacho no Capão da Serra, drenagem do rio Paranaíba,.",Characidium zebra,-17.84917,-48.65278,09,03,2012,2026-09-30
+Brasil,Minas Gerais,Carandai,DZSJRP-Pisces,16166,"Rio Carandaí, sob ponte no bairro Ponte Chaves, perto da linha do trem.",Characidium zebra,-20.95333,-43.77611,05,09,2012,2026-09-30
+Brasil,Rondônia,Machadinho D'Oeste,DZSJRP-Pisces,16849,"Bacia do rio Machado, drenagem do rio Madeira, ponto 38.",Characidium zebra,-9.55417,-62.175,25,06,2012,2026-09-30
+Brasil,São Paulo,Sao Joao Da Boa Vista,DZSJRP-Pisces,12301,"Córrego Cachoeira, Faz Cachoeira.P6",Characidium zebra,-22.00972,-46.72139,01,01,1900,2026-09-30
+Brasil,São Paulo,Sao Joao Da Boa Vista,DZSJRP-Pisces,12310,"Córrego Cachoeira, Faz. Cachoeira. P5",Characidium zebra,-22.00611,-46.71639,01,01,1900,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,14832,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,12,11,2011,2026-09-30
+Brasil,Rondônia,Machadinho D'Oeste,DZSJRP-Pisces,14915,"Drenagem do rio Madeira, bacia do rio Machado. Ponto 15",Characidium zebra,-9.36306,-62.17194,08,09,2011,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,14971,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 17",Characidium zebra,-9.61167,-62.2025,09,09,2011,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,15052,"Bacia do rio Machado, drenagem do rio madeira. Ponto 20.",Characidium zebra,-9.66806,-62.29139,10,09,2012,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,16566,"Bacia do rio Machado, drenagem do rio Madeira, ponto 25.",Characidium zebra,-9.54361,-61.64806,08,06,2012,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,16647,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 28",Characidium zebra,-9.55694,-61.61083,09,06,2012,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,16658,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 29.",Characidium zebra,-9.57222,-61.61389,09,06,2012,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,16716,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 31.",Characidium zebra,-9.595,-61.60472,09,06,2012,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22001,"Riacho J01, bacia do Rio Juruena, Rio Tapajós",Characidium zebra,-11.5302777778,-58.8258333333,30,05,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22027,"Riacho J02, bacia do Rio Juruena, Rio Tapajós",Characidium zebra,-11.5119444444,-58.8480555556,30,05,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22044,"Riacho J03, bacia do Rio Juruena, Rio Tapajós",Characidium zebra,-11.4877777778,-58.8097222222,31,05,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22091,"Riacho J05, bacia do Rio Juruena, Rio Tapajós",Characidium zebra,-11.3583333333,-58.7636111111,01,06,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22151,"Riacho J07, bacia do Rio Juruena, Rio Tapajós",Characidium zebra,-11.3011111111,-58.7077777778,01,06,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22179,"Riacho J09, bacia do Rio Juruena",Characidium zebra,-11.2827777778,-58.5730555556,02,06,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22192,"Riacho J10, drenagem do Rio Juruena",Characidium zebra,-11.3416666667,-58.6011111111,02,06,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22212,"Riacho J11, drenagem do Rio Juruena",Characidium zebra,-11.3458333333,-58.3783333333,03,06,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22225,"Riacho J12, bacia do Rio Juruena",Characidium zebra,-11.26,-58.8747222222,04,06,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22241,"Riacho J13, drenagem do Rio Juruena",Characidium zebra,-11.2788888889,-58.8588888889,04,06,2018,2026-09-30
+Brasil,Mato Grosso,Juina,DZSJRP-Pisces,22259,"Riacho J14, drenagem Rio Juruena",Characidium zebra,-11.3108333333,-58.8091666667,04,06,2018,2026-09-30
+Brasil,Mato Grosso,Cotriguacu,DZSJRP-Pisces,22314,"Riacho J17, drenagem do Rio Juruena",Characidium zebra,-9.8697222222,-58.3280555556,07,06,2018,2026-09-30
+Brasil,Mato Grosso,Cotriguacu,DZSJRP-Pisces,22372,"Riacho J19, bacia do Rio Juruena",Characidium zebra,-9.925,-58.5044444444,08,06,2018,2026-09-30
+Brasil,Mato Grosso,Cotriguacu,DZSJRP-Pisces,22395,"Riacho J20, bacia do Rio Juruena",Characidium zebra,-9.9108333333,-58.4213888889,08,06,2018,2026-09-30
+Brasil,Mato Grosso,Cotriguacu,DZSJRP-Pisces,22421,"Riacho J21, bacia do RioJuruena",Characidium zebra,-9.8505555556,-58.2658333333,08,06,2018,2026-09-30
+Brasil,Mato Grosso,Cotriguacu,DZSJRP-Pisces,22472,"Riacho J23, bacia do Rio Juruena",Characidium zebra,-9.8819444444,-58.5675,09,06,2018,2026-09-30
+Brasil,Mato Grosso,Cotriguacu,DZSJRP-Pisces,22476,"Riacho J24, bacia do Rio Juruena",Characidium zebra,-9.8891666667,-58.565,09,06,2018,2026-09-30
+Brasil,Mato Grosso,Cotriguacu,DZSJRP-Pisces,22614,"Riacho J39, bacia do Rio Juruena",Characidium zebra,-9.1163888889,-58.4791666667,11,06,2018,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18818,"Afluente do rio Sepotuba, afluente do rio Paraguai.",Characidium zebra,-14.63111,-57.71111,20,11,2007,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18847,"Afluente do rio Sepotuba, drenagem do rio Paraguai. TSA-3",Characidium zebra,-14.5725,-57.71028,22,11,2007,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18868,"Afluente do rio Sepotuba, drenagem do rio Paraguai. TSA-6",Characidium zebra,-14.62528,-57.62972,23,11,2007,2026-09-30
+Brasil,Mato Grosso,Tangara Da Serra,DZSJRP-Pisces,18907,"Rio Sepotuba, bacia do Paraguai. TSB-5",Characidium zebra,-14.52944,-57.33056,25,11,2007,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,5334,"Rio Borboleta, rio Tietê, Nova Aliança - Potirendaba, próx. antigo matadouro",Characidium zebra,-21.01806,-49.49278,22,11,2002,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,5362,"Rio Borá, entre Nova Aliança e Potirendaba, drenagem do Tietê",Characidium zebra,-21.02167,-49.45972,22,11,2002,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,5383,"Rio Borá, entre Nova Aliança e Potirendaba, drenagem do Tietê",Characidium zebra,-21.02167,-49.45972,28,02,2003,2026-09-30
+Brasil,São Paulo,Neves Paulista,DZSJRP-Pisces,5850,"Córrego do Tatu, drenagem do SJDourados",Characidium zebra,-20.77944,-49.58111,15,03,2003,2026-09-30
+Brasil,São Paulo,Sebastianopolis Do Sul,DZSJRP-Pisces,5886,"Córrego do Gomes, Sítio Estrela, drenagem do SJDourados",Characidium zebra,-20.68778,-49.885,11,04,2003,2026-09-30
+Brasil,São Paulo,Sebastianopolis Do Sul,DZSJRP-Pisces,5894,"córrego sem nome, Faz. Januário, drenagem do SJDourados",Characidium zebra,-20.62556,-49.8925,12,04,2003,2026-09-30
+Brasil,São Paulo,Cosmorama,DZSJRP-Pisces,5975,"córrego sem nome afluente do Rib. da Prata, Sítio São José, SJDourados",Characidium zebra,-20.47583,-49.88694,23,05,2003,2026-09-30
+Brasil,São Paulo,Jales,DZSJRP-Pisces,6100,"Córrego Pimenta, drenagem do SJDourados",Characidium zebra,-20.38306,-50.58583,14,07,2003,2026-09-30
+Brasil,São Paulo,Aparecida D'Oeste,DZSJRP-Pisces,6166,"Córrego da Água Ruim, drenagem do SJDourados",Characidium zebra,-20.51889,-50.92694,16,07,2003,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,9094,"Ribeirão Borá, corredeira",Characidium zebra,-21.01056,-49.49028,28,09,2004,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,7586,"Rio Borboleta,dren.do Tietê,sítio do Sr.Nelson Piton",Characidium zebra,-21.03528,-49.49139,30,04,2005,2026-09-30
+Brasil,São Paulo,Cosmorama,DZSJRP-Pisces,9582,Córrego do Moinho,Characidium zebra,-20.42611,-49.81389,08,07,2005,2026-09-30
+Brasil,São Paulo,Cosmorama,DZSJRP-Pisces,9658,Córrego do Bagaço,Characidium zebra,-20.40222,-49.68556,09,07,2005,2026-09-30
+Brasil,São Paulo,Palestina,DZSJRP-Pisces,9683,"Sem nome, afluente do Córrego Guarda Mor",Characidium zebra,-20.32528,-49.38306,09,07,2005,2026-09-30
+Brasil,São Paulo,Mirassolandia,DZSJRP-Pisces,9724,Córrego do Sape,Characidium zebra,-20.585,-49.45028,27,07,2005,2026-09-30
+Brasil,São Paulo,Ipigua,DZSJRP-Pisces,9731,Córrego da Areia Branca,Characidium zebra,-20.69,-49.45111,27,07,2005,2026-09-30
+Brasil,São Paulo,Embauba,DZSJRP-Pisces,9819,Córrego do Cerne,Characidium zebra,-20.93917,-48.83028,17,08,2005,2026-09-30
+Brasil,São Paulo,Severinia,DZSJRP-Pisces,9833,Córrego do Biaxão,Characidium zebra,-20.7725,-48.80861,17,08,2005,2026-09-30
+Brasil,São Paulo,Santa Rita D'Oeste,DZSJRP-Pisces,7417,"Córrego sem nome,afluente do Córrego da Onça",Characidium zebra,-20.14306,-50.77583,24,06,2004,2026-09-30
+Brasil,São Paulo,Cardoso,DZSJRP-Pisces,7316,Córrego do Atolador,Characidium zebra,-20.02972,-50.04,01,01,1900,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,5773,"Córrego do Macaco, ponto 1, drenagem do rio Preto",Characidium zebra,-20.84278,-49.35472,17,10,2003,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,5819,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,24,10,2003,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,6533,"Rio Boroboleta, rio Tietê, próx. Frig Nutribem, entre N.A. e Bady",Characidium zebra,-20.99889,-49.48889,12,03,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6490,"Riacho sem nome, afl. Arapuca, Faz. Arapuca, drenagem do Rio Paranaíba",Characidium zebra,-17.06833,-48.73306,29,04,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6509,"Riacho sem nome, afl. do Arapuca, Faz. Arapuca (Décio), Rio Paranaíba",Characidium zebra,-17.09222,-48.72972,29,04,2004,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,6568,"Córrego do Macaco, ponto 2, drenagem do rio Preto",Characidium zebra,-20.84111,-49.35194,10,06,2004,2026-09-30
+Brasil,São Paulo,Sao Jose Do Rio Preto,DZSJRP-Pisces,6668,"Córrego do Macaco, ponto 2, drenagem do rio Preto",Characidium zebra,-20.84111,-49.35194,13,08,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,6984,"Córrego dos Macacos, Rio Corumbá, dren. do Paranaíba, GO-020, Km 78",Characidium zebra,-17.08333,-48.71667,01,11,2004,2026-09-30
+Brasil,Goias,Bela Vista De Goias,DZSJRP-Pisces,7061,"Córrego sem nome, rio Corumbá, dren. do Paranaíba, GO-020, Km 82",Characidium zebra,-17.06667,-48.73333,07,02,2005,2026-09-30
+Brasil,Mato Grosso do Sul,Angelica,DZSJRP-Pisces,7512,"Córrego Felicidade, Rio Ivinhema",Characidium zebra,-22.17806,-53.80917,22,04,2005,2026-09-30
+Brasil,Mato Grosso do Sul,Angelica,DZSJRP-Pisces,7550,"Córrego do Engano, Rio Ivinhema",Characidium zebra,-22.04306,-53.72667,23,04,2005,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,7649,"Rio Borboleta, drenagem do rio Tietê, Faz Cruzeiro",Characidium zebra,-20.98889,-49.48778,30,04,2005,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,7676,"Rio Turvo; drenagem Turvo-grande, km 45",Characidium zebra,0,0,18,05,2005,2026-09-30
+Brasil,São Paulo,Valparaiso,DZSJRP-Pisces,7717,"Córrego 15 de janeiro, afl do rio Aguapeí, faz Paturí/Queixada",Characidium zebra,-21.2875,-51.08361,11,07,2005,2026-09-30
+Brasil,São Paulo,Santa Rita Do Passa Quatro,DZSJRP-Pisces,8381,"Cór. Paulicéia, depois de receber o Cór. Água Santa, Pq. Est. de Vassununga,p 11",Characidium zebra,-21.68139,-47.65667,18,01,2006,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,8523,"Córrego Borboleta, sítio do Sr. Nelson Piton, P.3",Characidium zebra,-20.99889,-49.48889,15,05,2006,2026-09-30
+Brasil,São Paulo,Nova Alianca,DZSJRP-Pisces,8541,"Córrego Borboleta, frigorífico, P.2",Characidium zebra,-20.99889,-49.48889,15,05,2006,2026-09-30
+Brasil,Minas Gerais,Prata,DZSJRP-Pisces,8643,"Córr. na Faz Bela Vista, BR153 após ponte rio da Prata",Characidium zebra,-19.50528,-48.84694,04,09,2006,2026-09-30
+Brasil,Minas Gerais,Prata,DZSJRP-Pisces,8653,"Riacho afl rio das Pedras, acesso em terra para Patrimônio",Characidium zebra,-19.45389,-48.82333,04,09,2006,2026-09-30
+Brasil,Minas Gerais,Catiara,DZSJRP-Pisces,8710,Riacho pantanoso na MG187,Characidium zebra,-20.696035,-41.925358,06,09,2006,2026-09-30
+Brasil,Minas Gerais,Araxa,DZSJRP-Pisces,8746,"Corr Sto Antonio, vicinal (terra) BR262, após Corr Marmelo, sent Uberaba",Characidium zebra,-19.57861,-47.15556,07,09,2006,2026-09-30
+Brasil,Minas Gerais,Araxa,DZSJRP-Pisces,8729,"Riacho pantanoso em vicinal (terra) BR262, Faz Boa Vista",Characidium zebra,-19.58417,-47.17417,07,09,2006,2026-09-30
+Brasil,Minas Gerais,Uberaba,DZSJRP-Pisces,8752,"Riacho Grotão, vicinal (terra) BR262, Faz N Sra Abadia",Characidium zebra,-19.69194,-47.71583,08,09,2006,2026-09-30
+Brasil,Goias,Morrinhos,DZSJRP-Pisces,10412,"Riacho na GO 213, após acesso à direita para Água Limpa, sentido Rio Quente",Characidium zebra,-17.72444,-48.96306,07,06,2007,2026-09-30
+Brasil,São Paulo,Tanabi,DZSJRP-Pisces,11010,"Ribeirão Cachoeira, afl Preto, Turvo, Grande, Alto Paraná, Ibiporanga",Characidium zebra,-20.49,-49.55194,14,03,2008,2026-09-30
+Brasil,São Paulo,Aguas De Santa Barbara,DZSJRP-Pisces,11326,"Riacho Água do Passarinho, EE Águas de Santa Bárbara",Characidium zebra,-22.80611,-49.18222,17,09,2008,2026-09-30
+Brasil,São Paulo,Aguas De Santa Barbara,DZSJRP-Pisces,11330,"Riacho Água do Passarinho, EE Águas de Santa Bárbara",Characidium zebra,-22.80611,-49.18222,17,09,2008,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12246,"Rio Itiquira, próximo ao Sítio do Tonico Boa Pessoa",Characidium zebra,-17.20111,-54.13833,12,08,2009,2026-09-30
+Brasil,Mato Grosso,Rondonopolis,DZSJRP-Pisces,12269,"Riacho sob ponte em estr terra, vicinal à dir da MT370, sent Itiquira-Rondonópol",Characidium zebra,-17.17333,-54.35667,13,08,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Aparecida Do Taboado,DZSJRP-Pisces,12629,"Córrego Aroeira, rio Quitéria, Alto Paraná",Characidium zebra,-20.06194,-51.28389,29,05,2010,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12566,"Rio Itiquira, próximo ao Sítio do Tonico Boa Pessoa",Characidium zebra,-17.20111,-54.13833,04,06,2010,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12578,"Córrego São João, Sítio Vaca Preta, na MT370, sentido Itiquira",Characidium zebra,-17.19944,-54.15694,04,06,2010,2026-09-30
+Brasil,Mato Grosso,Itiquira,DZSJRP-Pisces,12598,"Riacho sob ponte na estr de terra (entrada à esq na MT370) sentido Itiquira, prox à Igreja",Characidium zebra,-17.11056,-54.46639,05,06,2010,2026-09-30
+Brasil,São Paulo,Queiroz,DZSJRP-Pisces,14086,"Riacho afluente do Ribeirão Tibiriça em plantação de cana, rio Aguapeí.",Characidium zebra,-21.77417,-50.12528,28,08,2011,2026-09-30
+Brasil,São Paulo,Queiroz,DZSJRP-Pisces,14064,"Riacho em canavial, afl rio Tibiriçá, rio Aguapei",Characidium zebra,-21.77111,-50.12,28,08,2011,2026-09-30
+Brasil,São Paulo,Queiroz,DZSJRP-Pisces,14058,"Riacho do Fumo, sob ponte em estrada de terra Queiróz-Lins, rio Aguapei",Characidium zebra,-21.82306,-50.16389,28,08,2011,2026-09-30
+Brasil,Minas Gerais,Presidente Olegario,DZSJRP-Pisces,19028,"Riacho sob ponte na estr Pres Olegário à Galena, rio São Francisco",Characidium zebra,-18.34444,-46.31917,21,09,2013,2026-09-30
+Brasil,Minas Gerais,Itacambira,DZSJRP-Pisces,19100,"Riacho na estr de terra de Itacambira à Botumirim, rio Jequitinhonha",Characidium zebra,-16.99167,-43.24389,23,09,2013,2026-09-30
+Brasil,Minas Gerais,Aricanduva,DZSJRP-Pisces,19125,"Rio Itamarandiba na estr de Aricanduva à Contrato e Itamarandiba, rio Jequitinhonha",Characidium zebra,-17.815,-42.6575,25,09,2013,2026-09-30
+Brasil,Minas Gerais,Itamarandiba,DZSJRP-Pisces,19135,"Riacho na estr de terra de Itamarandiba à Penha de França, rio Jequitinhonha",Characidium zebra,-17.90972,-42.95222,25,09,2013,2026-09-30
+Brasil,Goias,Cumari,DZSJRP-Pisces,20004,"Rio Paranaíba, próximo às ruinas da ponte Ypê Arcado, na divisa entre MG e GO, alto rio Paraná.",Characidium zebra,-18.37333,-48.17278,15,08,2014,2026-09-30
+Brasil,Maranhão,Estreito,DZSJRP-Pisces,20769,"Ribeirão Mato Verde, afluente do Rio Farinha, Pq NAcional da Chapada das Mesas",Characidium zebra,-6.9997777778,-47.0703888889,27,11,2015,2026-09-30
+Brasil,Rondônia,Alvorada D'Oeste,DZSJRP-Pisces,14434,"Bacia do rio Machado, drenagem do rio Madeira, ponto 2.",Characidium zebra,-11.49194,-62.41417,25,08,2011,2026-09-30
+Brasil,Rondônia,Teixeiropolis,DZSJRP-Pisces,14404,"Bacia do rio Machado, drenagem do rio Madeira, ponto 3.",Characidium zebra,-10.96833,-62.27083,26,08,2011,2026-09-30
+Brasil,Rondônia,Ji-Parana,DZSJRP-Pisces,14461,"Bacia do rio Machado, drenagem do rio Madeira, ponto 4.",Characidium zebra,-10.89556,-62.08306,26,08,2011,2026-09-30
+Brasil,Rondônia,Nova Uniao,DZSJRP-Pisces,14490,"Bacia do rio Machado, drenagem do rio Madeira, ponto 5.",Characidium zebra,-10.87222,-62.79028,27,08,2011,2026-09-30
+Brasil,Rondônia,Ouro Preto Do Oeste,DZSJRP-Pisces,14533,"Bacia do rio Machado, drenagem do rio Madeira, ponto 7.",Characidium zebra,-10.61417,-62.33111,28,08,2011,2026-09-30
+Brasil,Rondônia,Nova Brasilandia D'Oeste,DZSJRP-Pisces,14644,"Bacia do rio Machado, drenagem do rio Madeira, ponto 9.",Characidium zebra,-11.72694,-62.27917,29,08,2011,2026-09-30
+Brasil,Rondônia,Rolim De Moura,DZSJRP-Pisces,14666,"Bacia do rio Machado, drenagem do rio Madeira, ponto 10.",Characidium zebra,-11.72417,-62.03972,29,08,2011,2026-09-30
+Brasil,Rondônia,Santa Luzia D'Oeste,DZSJRP-Pisces,14703,"Bacia do rio Machado, drenagem do rio Madeira, ponto 11.",Characidium zebra,-11.89583,-61.67222,30,08,2011,2026-09-30
+Brasil,Rondônia,Santa Luzia D'Oeste,DZSJRP-Pisces,14731,"Bacia do rio Machado, drenagem do rio Madeira, ponto 12.",Characidium zebra,-11.90556,-61.71389,30,08,2011,2026-09-30
+Brasil,Rondônia,Presidente Medici,DZSJRP-Pisces,14753,"Bacia do rio Machado, drenagem do rio Madeira, ponto 13.",Characidium zebra,-11.03056,-61.91056,31,08,2011,2026-09-30
+Brasil,Rondônia,Vale Do Anari,DZSJRP-Pisces,16964,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 46.",Characidium zebra,-9.80667,-62.14806,04,07,2012,2026-09-30
+Brasil,Rondônia,Ministro Andreazza,DZSJRP-Pisces,16987,"Bacia do rio Machado, drenagem do rio Madeira. Ponto 47.",Characidium zebra,-11.01528,-61.60417,06,07,2012,2026-09-30
+Brasil,Rondônia,Presidente Medici,DZSJRP-Pisces,17052,"Bacia do rio Madeira, drenagem do rio Machado, ponto 50.",Characidium zebra,-11.33722,-61.81778,08,07,2012,2026-09-30
+Brasil,Rondônia,Alvorada D'Oeste,DZSJRP-Pisces,17168,"Bacia do rio Machado, drenagem do rio Madeira, ponto 56.",Characidium zebra,-11.39,-62.21361,10,07,2012,2026-09-30
+Brasil,Rondônia,Cacoal,DZSJRP-Pisces,17212,"Bacia do rio Machado, drenagem do rio Madeira, ponto 58.",Characidium zebra,-11.51917,-61.67806,12,07,2012,2026-09-30
+Brasil,Rondônia,Primavera De Rondonia,DZSJRP-Pisces,17321,"Bacia do rio Machado, drenagem do rio Madeira, ponto 68.",Characidium zebra,-11.77222,-61.26528,19,07,2012,2026-09-30
+Brasil,Rondônia,Primavera De Rondonia,DZSJRP-Pisces,17330,"Bacia do rio Machado, drenagem do rio Madeira, ponto 69.",Characidium zebra,-11.73444,-61.38861,19,07,2012,2026-09-30
+Brasil,Rondônia,Sao Felipe D'Oeste,DZSJRP-Pisces,17352,"Bacia do rio Machado, drenagem do rio Madeira, ponto 70.",Characidium zebra,-11.83139,-61.40278,19,07,2012,2026-09-30
+Brasil,Rondônia,Sao Felipe D'Oeste,DZSJRP-Pisces,17419,"Bacia do rio Machado, drenagem do rio Madeira, ponto 74.",Characidium zebra,-11.93556,-61.46861,20,07,2012,2026-09-30
+Brasil,São Paulo,Capao Bonito,DZSJRP-Pisces,20657,"Rio Conchas, sub-bacia do Paranapanema",Characidium zebra,-24.17361,-48.28806,30,10,2014,2026-09-30
+Brasil,São Paulo,Sao Joao Da Boa Vista,DZSJRP-Pisces,19219,"Afluente do córrego Boa Vista, drenagem do rio Grande.",Characidium zebra,-21.98722,-46.87806,11,07,2013,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,14139,"Córrego da Roseira, rio Cubatão, rio Tietê.",Characidium zebra,-21.10722,-49.33667,20,01,2011,2026-09-30
+Brasil,São Paulo,Pirassununga,DZSJRP-Pisces,16357,"Ribeirão Descaroçador, rio Mogi-Guaçu, rio Grande.",Characidium zebra,-22.04528,-47.44528,24,04,2012,2026-09-30
+Brasil,São Paulo,Potirendaba,DZSJRP-Pisces,17628,"Córrego Fundo, rio Cubatão, rio Tietê.",Characidium zebra,-21.01167,-49.41139,25,07,2012,2026-09-30
+Brasil,São Paulo,Catanduva,DZSJRP-Pisces,17576,"Rio Catiguazinho, Foz do Córrego Estiva, drenagem rio Grande.",Characidium zebra,-21.07417,-49.02028,27,07,2012,2026-09-30
+Brasil,São Paulo,Bocaina,DZSJRP-Pisces,18485,"Ribeirão da Bocaina, bacia do rio Tietê.",Characidium zebra,-22.1125,-48.48972,31,10,2012,2026-09-30
+Brasil,São Paulo,Itobi,DZSJRP-Pisces,18465,"Rio Jaguari Mirim, bacia do rio do Peixe, bacia do rio Mogi-Guaçu.",Characidium zebra,-21.965,-46.98472,26,02,2013,2026-09-30
+Brasil,São Paulo,Sao Joao Da Boa Vista,DZSJRP-Pisces,18454,"Rio Jaguari Mirim, bacia do rio do Peixe, bacia do rio Mogi-Guaçu.",Characidium zebra,-21.98667,-46.87778,27,02,2013,2026-09-30
+Brasil,Minas Gerais,Unai,DZSJRP-Pisces,21452,"Ribeirão Roncador, Rio Preto, bacia do Rio São Francisco, PCH Mata Velha",Characidium zebra,-16.1930555556,-47.2063888889,24,01,2018,2026-09-30
+Brasil,Minas Gerais,Delfim Moreira,DZSJRP-Pisces,14873,"Rio Santo Antonio, afluente do Rio Sapucai, Bacia do Rio Grande, a juzante da cachoeira Ninho da Águia",Characidium zebra,-22.46806,-45.34972,01,11,2011,2026-09-30
+Brasil,Mato Grosso,Denise,DZSJRP-Pisces,18943,"riacho da drenagem do rio Paraguai, ponto 2",Characidium zebra,-14.74056,-57.05417,01,01,1900,2026-09-30
+Brasil,Mato Grosso,Denise,DZSJRP-Pisces,18953,"riacho afluente do rio Paraguai, ponto 4",Characidium zebra,-14.74056,-57.05417,01,01,1900,2026-09-30
+Brasil,Mato Grosso,Denise,DZSJRP-Pisces,18963,"riacho da drenagem do rio Paraguai, ponto 6",Characidium zebra,-14.74056,-57.05417,01,01,1900,2026-09-30
+Brasil,São Paulo,Piracicaba,DZSJRP-Pisces,7968,"Baixo Corumbataí, bairro dos Bernardos, afluente da margem esq do Rio Corumbataí",Characidium zebra,-22.55083,-47.66222,05,02,2003,2026-09-30
+Brasil,São Paulo,Itirapina,DZSJRP-Pisces,7978,"Passa Cinco, bairro Cantagalo, Córrego Cantagalo",Characidium zebra,-22.40139,-47.81083,01,08,2003,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,14265,"Córrego Olho D'agua, afluente do rio São Francisco.",Characidium zebra,-15.65528,-47.40611,23,09,2010,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,14270,"Ribeirão Jacaré, afluente do rio São Francisco.",Characidium zebra,-15.6425,-47.35528,23,09,2010,2026-09-30
+Brasil,Distrito Federal,Brasilia,DZSJRP-Pisces,14190,"Ribeirão Palmeiras, afluente do rio Maranhão, drenagem Tocantins - Araguaia.",Characidium zebra,-15.54056,-47.6875,22,09,2010,2026-09-30
+Brasil,São Paulo,Icem,DZSJRP-Pisces,9462,"Lagoa do Mustafá, rio Turvo",Characidium zebra,-20.41056,-49.26806,23,03,2006,2026-09-30
+Brasil,São Paulo,Nova Granada,DZSJRP-Pisces,9501,"Lagoa do Braço Morto, rio Turvo",Characidium zebra,-20.35306,-49.2775,23,03,2006,2026-09-30
+Brasil,São Paulo,Icem,DZSJRP-Pisces,10057,"Lagoa do Parente, rio Turvo",Characidium zebra,-20.41667,-49.26667,21,02,2005,2026-09-30
+Brasil,São Paulo,Nova Granada,DZSJRP-Pisces,10047,"Lagoa do Braço Morto, rio Turvo",Characidium zebra,-20.35306,-49.2775,21,02,2005,2026-09-30
+Brasil,Mato Grosso,Campos De Julio,DZSJRP-Pisces,13178,"Rio Formiga, afl rio Juruena, rio Tapajós",Characidium zebra,-13.37611,-59.14528,22,08,2010,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13722,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium zebra,-21.035,-56.615,23,05,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13805,"Córrego Mutum, propriedade do Sr Jorge",Characidium zebra,-21.30028,-56.43556,24,05,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13746,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium zebra,-20.75861,-56.75194,27,05,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13734,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium zebra,-20.685,-56.77778,28,05,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13795,Córrego Gallheiro,Characidium zebra,-19.08667,-51.885,05,06,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13790,"Córrego Cedro, Faz do Sr Orizon",Characidium zebra,-19.15333,-51.75028,06,06,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13780,"Ribeirão Grande, Faz do Sr Lázaro",Characidium zebra,-19.18556,-51.33917,13,06,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13806,"Córrego Mutum, propriedade do Sr Jorge",Characidium zebra,-21.30028,-56.43556,21,07,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13736,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium zebra,-20.685,-56.77778,25,07,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13797,Córrego Gallheiro,Characidium zebra,-19.08667,-51.885,03,08,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13773,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium zebra,-19.05,-52.14861,04,08,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13768,"Córrego Mutum, propriedade do Sr Jorge",Characidium zebra,-21.30028,-56.43556,22,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13726,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium zebra,-21.035,-56.615,24,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13759,"Córrego Olaria, Propriedade Chantal",Characidium zebra,-21.02972,-56.61556,25,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13738,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium zebra,-20.685,-56.77778,27,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13774,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium zebra,-19.05,-52.14861,02,10,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13740,"Córrego Sta Maria, Faz Rancho Branco, PARNA Serra da Bodoquena",Characidium zebra,-20.685,-56.77778,20,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13752,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium zebra,-20.75861,-56.75194,21,09,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13793,"Córrego Cedro, Faz do Sr Orizon",Characidium zebra,-19.15333,-51.75028,27,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13801,Córrego Ritinha,Characidium zebra,-19.16361,-51.66944,27,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13775,"Córrego Indaiazinho, Faz Dona Selestrina",Characidium zebra,-19.05,-52.14861,29,11,2008,2026-09-30
+Brasil,Mato Grosso do Sul,Bodoquena,DZSJRP-Pisces,13754,"Córrego Azul, próx ao último assentamento do Sr Bigode, PARNA Serra da Bodoquena",Characidium zebra,-20.75861,-56.75194,17,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13807,"Córrego Mutum, propriedade do Sr Jorge",Characidium zebra,-21.30028,-56.43556,20,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,13730,"Córrego Seco, propriedade Sr. Roberval, Eco-Chacara Sta Lucia",Characidium zebra,-21.035,-56.615,22,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Cassilandia,DZSJRP-Pisces,13783,"Ribeirão Grande, Faz do Sr Lázaro",Characidium zebra,-19.18556,-51.33917,31,01,2009,2026-09-30
+Brasil,Mato Grosso do Sul,Bonito,DZSJRP-Pisces,20245,"Córrego Restinga, trecho 1, drenagem do Paraguai.",Characidium zebra,-21.12083,-56.48583,31,12,2008,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,7188,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,01,06,2003,2026-09-30
+Brasil,São Paulo,Irapua,DZSJRP-Pisces,7205,"Córrego Figueira, afluente do rio Cubatão ou Barra Mansa, rio Tietê",Characidium zebra,-21.19111,-49.39333,23,06,2003,2026-09-30
+Brasil,São Paulo,Auriflama,DZSJRP-Pisces,11082,"Alf Ribeirão Limoeiro, afl S.J.Dourados, Alto Paraná",Characidium zebra,-20.68056,-50.55028,22,03,2008,2026-09-30
+Brasil,São Paulo,NA,DZSJRP-Pisces,11074,"Ultimo afl da margem direita do Ribeirão Guará, afl S.J Dourados, Alto Paraná",Characidium zebra,0,0,22,03,2008,2026-09-30
+Brasil,Minas Gerais,Iturama,DZSJRP-Pisces,15909,"Riacho sem nome, bacia do Rio Grande",Characidium zebra,-19.71611,-50.38306,15,06,2012,2026-09-30
+Brasil,São Paulo,Sao Carlos,DZSJRP-Pisces,19256,"Córrego São José, bacia do Jacaré-Guaçu, drenagem do rio Tietê, alto rio Paraná. Ponto II",Characidium zebra,-22.0775,-47.80556,21,05,2013,2026-09-30
+Brasil,Minas Gerais,Gurinhata,DZSJRP-Pisces,18700,"Reservatório de São Simão, rio Paranaíba",Characidium zebra,-19.02667,-49.90778,01,09,2012,2026-09-30
+Brasil,Goias,Itumbiara,DZSJRP-Pisces,18685,"Reservatório de São Simão, rio Paranaíba",Characidium zebra,-18.34694,-49.62611,01,09,2012,2026-09-30
+Brasil,Goias,Bom Jesus De Goias,DZSJRP-Pisces,18681,"Reservatório de São Simão, rio Paranaíba",Characidium zebra,-18.20667,-50.03389,01,09,2012,2026-09-30
+Brasil,Minas Gerais,Gurinhata,DZSJRP-Pisces,18703,"Reservatório de São Simão, rio Paranaíba",Characidium zebra,-19.03889,-49.9625,01,09,2012,2026-09-30
+Brasil,NA,NA,DZSJRP-Pisces,13421,"Córrego Avoadeira, pé de serra até baixo de lageaado, Alto Paraná ou Araguaia?",Characidium zebra,0,0,20,04,2005,2026-09-30
+Brasil,Mato Grosso,Alto Taquari,DZSJRP-Pisces,19952,Afluente do rio Taquari.,Characidium zebra,-17.82667,-53.2825,01,05,2011,2026-09-30
+Brasil,São Paulo,Ituverava,DZSJRP-Pisces,18657,"Reservatório de Volta Grande, rio Grande",Characidium zebra,-20.28583,-47.77972,01,09,2011,2026-09-30
+Brasil,Mato Grosso,Barra Do Garcas,DZSJRP-Pisces,19818,Afluente do rio Araguaia.,Characidium zebra,-15.89056,-52.25694,02,10,2006,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,10115,"Ribeirão da Quinta, Bacia do Rio Paranapanema",Characidium zebra,-23.10194,-48.49083,24,06,2005,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,20462,"Córrego Itaúna, área aberta, drenagem do rio Paranapanema",Characidium zebra,-23.16639,-48.62556,24,04,2014,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,20485,"Córrego Itaúna, área fechada, drenagem do rio Paranapanema",Characidium zebra,-23.16139,-48.63194,24,04,2014,2026-09-30
+Brasil,São Paulo,Itatinga,DZSJRP-Pisces,20498,"Córrego Itaúna, área fechada, drenagem do rio Paranapanema",Characidium zebra,-23.16139,-48.63194,25,09,2014,2026-09-30
