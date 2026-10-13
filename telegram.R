@@ -115,11 +115,19 @@ database_csv <- readr::read_csv(
   col_types = readr::cols(.default = readr::col_character())
 )
 
-new_records <- characidium_all_3 |>
-  dplyr::anti_join(
-    database_csv,
-    by = c("collectioncode", "catalognumber", "scientificname")
+# chave normalizada: colecoes mudam caixa do codigo (INPA-PEIXES -> INPA-Peixes,
+# DZSJRP-PISCES -> DZSJRP-Pisces) e isso nao pode virar registro novo
+record_key <- function(df) {
+  paste(
+    stringr::str_to_lower(stringr::str_squish(df$collectioncode)),
+    stringr::str_to_lower(stringr::str_squish(df$catalognumber)),
+    stringr::str_to_lower(stringr::str_squish(df$scientificname)),
+    sep = "|"
   )
+}
+
+new_records <- characidium_all_3 |>
+  dplyr::filter(!record_key(characidium_all_3) %in% record_key(database_csv))
 
 
 bot$sendMessage(
